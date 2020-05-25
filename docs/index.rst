@@ -20,8 +20,8 @@ A- Introduction to landscape dynamics
   Analysing landscapes and earth surface processes that shape them with an emphasis on *planetary and regional-scale controls* on landforms and landscape dynamics.
 
 
-B- Quantitative approach to landscapes
---------------------------------------
+B- Quantitative approach to geomorphology
+-----------------------------------------
 
 .. figure:: images/geomorphology.png
    :scale: 60 %
@@ -58,10 +58,11 @@ Contents
 .. image:: https://readthedocs.org/projects/earthsurface/badge/?version=latest
   :target: https://earthsurface.readthedocs.io/en/latest/?badge=latest
   :alt: Documentation Status
-        
+
 
 .. toctree::
-   :maxdepth: 3
+  deltaicsystems
+  :maxdepth: 3
 
 Indices and tables
 ------------------
