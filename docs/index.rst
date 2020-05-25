@@ -55,10 +55,10 @@ Contents
 .. important::
   We will do **computer-based exercises during both lectures and practicals** so you will need to bring an electronic device (preferably a laptop but a tablet with internet access could work). As there will be a lot to cover, it is also recommended to go through each chapter prior to the lecture to be well prepared and able to get the most of it during classes.
 
-.. image:: https://readthedocs.org/projects/coastproc/badge/?version=latest
-  :target: https://coastproc.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/earthsurface/badge/?version=latest
+  :target: https://earthsurface.readthedocs.io/en/latest/?badge=latest
   :alt: Documentation Status
-
+        
 
 .. toctree::
    :maxdepth: 3
