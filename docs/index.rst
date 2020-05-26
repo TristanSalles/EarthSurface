@@ -61,6 +61,7 @@ Contents
 
 
 .. toctree::
+  tectogeo
   deltaicsystems
   :maxdepth: 3
 
