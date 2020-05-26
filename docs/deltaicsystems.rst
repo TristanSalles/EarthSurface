@@ -196,8 +196,6 @@ The latter two types of river outflow conditions thus favour delta build-out, wi
     Top: **Down-current depositional patterns** - sections parallel to flow will show gently inclined beds (3°-10°) pinching out down-current. Middle: **feeder channel** - in the proximal part of the bar, sections transverse to the main flow will show the geometry of the feeder channel. Bottom: combination of these typical deposits in the field (photo: Ghinassi).
 
 
-The stratigraphic architecture of deltas is the end-result of complex interactions among upstream catchment processes that regulate the location and magnitude of the fluvial sediment discharge, and downstream basinal controls that include the *shape and quantity of accommodation space* for sediment accumulation and the *type and energy of coastal processes* that redistribute these sediments. Together, all of these controls determine the mode and degree of partitioning of sediment between the delta and the wider receiving basin.
-
 .. important::
   Gilbert-type deltas are sensitive coastal recorders of relative base-level changes. In zones of active tectonics in particular, the combined effect of eustasy and tectonic uplift/subsidence gives rise to diverse delta architecture.
 
@@ -216,6 +214,9 @@ As the brink zone tends to be eroded by fluvial system and waves, the foreset an
 Depositional sequences
 **********************
 
+.. note::
+  This section is from the **University of Georgia Stratigraphy Lab** website (strata.uga.edu)
+
 .. important::
   A depositional sequence is defined as a relatively conformable succession of genetically related strata bounded by subaerial unconformities or their correlative conformities. These depositional sequences are bounded by subaerial unconformities. A subaerial unconformity is a surface formed through subaerial exposure and erosion, and includes features formed by downcutting rivers, soil processes, and karst processes.
 
@@ -228,7 +229,7 @@ There are several models of systems tracts within depositional sequences. In thi
   :alt: Systems tracts and surfaces in the four systems tract model
   :align: center
 
-  Systems tracts and surfaces in the four systems tract model
+  Systems tracts and surfaces in the four systems tract model (from UGA/Strata)
 
 These systems tracts are bounded by important named surfaces. The lowstand and transgressive systems tracts are separated by the **transgressive surface**, also called the **maximum regressive surface**. The transgressive and highstand systems tracts are separated by the **maximum flooding surface**. The highstand and falling-stage systems tract are separated by the **basal surface of forced regression**. The base of the lowstand and the top of the highstand are **sequence boundaries**, that is, subaerial unconformities and their correlative surfaces.
 
@@ -348,6 +349,47 @@ Quantitative interpretations
 -----------------------------
 
 
+As we have seen, the stratigraphic architecture of deltas is the end-result of complex interactions among upstream catchment processes that regulate the location and magnitude of the fluvial sediment discharge, and downstream basinal controls that include the *shape and quantity of accommodation space* for sediment accumulation and the *type and energy of coastal processes* that redistribute these sediments. Together, all of these controls determine the mode and degree of partitioning of sediment between the delta and the wider receiving basin.
+
+To quantify these controls are their importance (either in isolation or when combined), two main approaches are often used.
+
+Analogue approach
+**********************
+
+Physical modelling of delta sedimentary systems over geological time spans has to resort to analogue modelling since full scaling cannot be achieved within the spatial and temporal restrictions that are imposed by a laboratory set-up. Such analogue models are suitable for systematic investigation of a sedimentary delta system's sensitivity to allocyclic changes by isolating governing parameters.
+
+The scaling of physical models of sedimentary systems (flume models) is commonly based on the scaling of a series of dimensionless physical parameters in order to model fluid flow and sediment transport. In the ideal case, every variable occurring in nature is perfectly scaled. However, many modellers need to apply time scaling, which introduces distortion to their model results. The condition of having flow variables (such as Reynolds and Froude numbers) identical to those occurring in nature has to be relaxed. As a model departs further from 1:1 hydraulic scaling, it reaches a point where hydrodynamic scaling is no longer possible.
+
+.. important::
+  Entire sedimentary systems with real-world dimensions from tens to hundreds of kilometres that evolve over geological time spans can thus only be modelled as analogue flume models and not as true-scaled, hydraulic models.
+
+
+
+.. raw:: html
+
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" height="400" src="https://www.youtube.com/embed/69WkErjiK_8?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+An example of such experimental models from the Jurassic Tank (Paola - UMN/SAFL) is provided above and can be used to *slice* the analogue model and look at the obtained stratigraphic packages based on imposed sediment delivery, tectonic and sea-level forcings.
+
+
+Numerical approach
+**********************
+
+.. note::
+  We will be working with numerical models during the practicals using badlands code.
+
+Stratigraphic forward modelling (SFM) allows geologists to forward project the deposition and evolution of sedimentary facies within a stratigraphic framework with given prior boundary conditions. The method can approximate depositional processes while taking into consideration a range of factors that affect basin evolution and sedimentation.
+
+.. raw:: html
+
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" height="380" src="https://www.youtube.com/embed/LEoR4pFpftE?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+Such models can be used to *test and quantify concepts of basin evolution, to predict facies distribution and architecture, to test exploration scenarios rapidly in frontier basins, to constrain interpretations of subsurface data, and to perform sensitivity tests that evaluate fundamental controls on observed basin stratigraphy*.
+
 
 .. raw:: html
 
@@ -357,25 +399,14 @@ Quantitative interpretations
    :scale: 0 %
    :align: center
 
+   Example of stratigraphic record obtained using the stratigraphic forward model badlands.
 
-Experimental approach
-**********************
-
-
-Numerical approach
-**********************
+These models can be also used to test how the rate of change of accommodation (at the shoreline) and the rate of sediment supply are controlling regression and transgression in the geological record, or retreat and advance of a coastal depositional system.
 
 
+.. figure:: images/stratainterp.png
+   :scale: 38 %
+   :alt: Stratigraphic interpretation
+   :align: center
 
-Shoreline trajectory
-**********************
-
-The shoreline or shelf margin trajectory is the path taken by the shoreline or shallow shelf margin facies as they change position when a sedimentary basin fills. These trajectories are controlled by rates of change in base level (as expressed by rates of change in accommodation, or the sum of eustatic change and tectonic movement of the substrate), varying rates of sediment accumulation, and the slope and shape of the basin margin and floor and their depths. Evolving geometries of clinoformed margins have been used as standards to explain basin margin progradation. Essentially these trajectories are responsible for the retrogradational, progradational and aggradational stacking patterns.
-
-
-The concepts of system tracts, shoreline trajectory and accommodation succession represent critical tools to the interpretation of shoreline and shelf carbonate and clastic sedimentary systems. It aids in the determination of the depositional setting of the component system tracts and enables the prediction of the extent and character of these sedimentary geometries, often at the same scale as the components of local hydrocarbon reservoirs. This enhances the stratigraphers ability to find, map and exploit hydrocarbon reservoirs more effectively.
-
-Wheeler diagrams
-**********************
-
-The rate of change of accommodation (at the shoreline) and the rate of sediment supply are the primary factors controlling regression and transgression in the geological record, or retreat and advance of a coastal depositional system. We will discuss in this part of the module these three different concepts and see how they can be used to quantitatively assess numerical models of deltaic systems evolution.
+   Stratal stacking patterns on a vertical cross-section crosswise to the continental margin (a). Solid black lines shown on each subplot are stratigraphic layers plotted at 0.5 Myr intervals. Different colours stand for different depositional environments that are defined based on water depth (c). b. Wheeler diagram or chronostratigraphy chart. The black dots are shoreline positions through time. The coloured lines are stratigraphic surfaces identified based on stratal terminations, stacking trends, and shoreline trajectory (SB: sequence boundaries—TS: transgressive surfaces—MFS: maximum flooding surfaces). c. Virtual cores P1 to P5 extracted at different positions across the shelf (see location in a). Solid lines connect condensed sections and unconformities produced at low to sea-level fall. d) Synthetic wells at different locations over the cross-sections.
