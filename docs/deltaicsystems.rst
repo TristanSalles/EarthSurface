@@ -136,6 +136,18 @@ Over time, research on deltas moved from the development of depositional models 
 
 In 1890, American geologist G. K. Gilbert recognised that the deposition of finer-grained material farther away from the shoreline also created a distinctive vertical sequence in delta deposits. Based on these observations, he was the first to subdivide a deltaic deposit into three parts —the **topset**, the **foreset**, and the **bottomset**— where sedimentary processes are controlled by different physical processes.
 
+.. image:: images/gilbert.jpg
+   :scale: 30 %
+   :alt: Gilbert‐type delta
+   :align: center
+
+.. figure:: images/field_gilbert.png
+   :scale: 45 %
+   :alt: Gilbert‐type delta
+   :align: center
+
+   Top: sketch of stratification of a Gilbert‐type delta (from Chavarrías et al. 2018 after Gilbert, 1890). Bottom: view of a Gilbert‐type delta in the field (Arizona, US).
+
 The topset deposit is formed out of layers gently inclined in the streamwise direction and deposited over the foreset by fluvial transport processes. The downstream limit of the topset is denoted as the brinkpoint. The delta foreset, or front, is dominated by avalanching processes and is formed out of steeply inclined layers that are placed over a fine‐grained bottomset deposit. In general foreset layers are nearly parallel to the relatively steep delta front, and the bottomset deposit is nearly parallel to the substrate (i.e., the lake or sea bottom).
 
 a. the foreset layer is thus graded from coarse nearshore to fine offshore,
@@ -143,23 +155,62 @@ b. the bottomset layer consists of the finest material, deposited far out,
 c. as this material continues to build outward, the stream must extend its length and forms new deposits, known as topset layers.
 
 
-.. image:: images/gilbert.jpg
-   :scale: 30 %
-   :alt: Gilbert‐type delta
-   :align: center
+.. figure:: images/delta-geo.png
+    :scale: 65 %
+    :alt: Gilbert‐type delta geology
+    :align: center
 
-.. figure:: images/field_gilbert.png
-  :scale: 45 %
-  :alt: Gilbert‐type delta
+    **Foresets** are characterised by a depositional angle ranging between 25° and 30°, but they can reach 40° if the sediment is sufficiently coarse. Under these conditions, delta front is unstable and commonly affected by collapses, which can generate slumps, debris flow or even turbidity currents. **Toeset** deposits represent the transition between the steeply inclined foreset and the sub-horizontal bottomset. Because of the significant change in depositional angle, the larger rolling clasts along with several debris flow are trapped in the toeset zone, where also turbulent flows can drop part of their sedimentary load. **Bottomsets** are the finest deposits of the Gilbertian system. They are characterised by deposition of turbidity currents (HDTC and LDTC), although, being located (such as toeset) below the wave base, they are commonly interested also by mud settling (photo: Ghinassi).
+
+
+Sediment transfer
+**********************
+
+The mode of sediment transfer from the subaerial delta plain to the subaqueous delta slope depends on the type and amount of sediment delivered by the fluvial system and the density contrast between the sediment-laden river outflow and the basin water.
+
+.. figure:: images/delta_bates.png
+  :scale: 75 %
+  :alt: sediment transfer in delta
   :align: center
 
-  Top: sketch of stratification of a Gilbert‐type delta (from Chavarrías et al. 2018 after Gilbert, 1890). Bottom: view of a Gilbert‐type delta in the field (Arizona, US).
+  Classification of deltas according to Bates (1953), considering the relationship between the density of the incoming flow (river discharge or Dr) respect to that of the receiving water body (lake or sea, or Dw). A) Hypopycnal flow（Dr<Dw) .B) Homopycnal flow (Dr=Dw). C) Hyperpycnal flow (Dr>Dw).
+
+1. **Hypopycnal** outflow results in a buoyant plume of fine-grained sediment suspension that spreads away from the delta and gradually settles in its distal realm.
+2. **Homopycnal** outflow involves rapid mixing of river and basin water, which causes sediment deposition close to the river mouth.
+3. **Hyperpycnal** outflows plunge down on the steep delta slope, depositing there their sediment load.
+
+The latter two types of river outflow conditions thus favour delta build-out, with most of the sediment deposited beneath the wave base and transported by gravitational processes.
+
+.. figure:: images/delta-geo2.png
+    :scale: 50 %
+    :alt: Gilbert‐type delta geology
+    :align: center
+
+    Mouth bar progradation will form coarsening-upward units, from mud and fine sand (distal lobe) to coarse sand and gravels, if the feeder channel is preserved at the top (photo: Ghinassi).
+
+.. figure:: images/delta-geo1.png
+    :scale: 43 %
+    :alt: Gilbert‐type delta geology
+    :align: center
+
+    Top: **Down-current depositional patterns** - sections parallel to flow will show gently inclined beds (3°-10°) pinching out down-current. Middle: **feeder channel** - in the proximal part of the bar, sections transverse to the main flow will show the geometry of the feeder channel. Bottom: combination of these typical deposits in the field (photo: Ghinassi).
 
 
+The stratigraphic architecture of deltas is the end-result of complex interactions among upstream catchment processes that regulate the location and magnitude of the fluvial sediment discharge, and downstream basinal controls that include the *shape and quantity of accommodation space* for sediment accumulation and the *type and energy of coastal processes* that redistribute these sediments. Together, all of these controls determine the mode and degree of partitioning of sediment between the delta and the wider receiving basin.
 
+.. important::
+  Gilbert-type deltas are sensitive coastal recorders of relative base-level changes. In zones of active tectonics in particular, the combined effect of eustasy and tectonic uplift/subsidence gives rise to diverse delta architecture.
 
-The stratigraphic architecture of deltas is the end-result of complex interactions among upstream catchment processes that regulate the location and magnitude of the fluvial sediment discharge, and downstream basinal controls that include the shape and quantity of accommodation space for sediment accumulation and the type and energy of coastal processes that redistribute these sediments. Together, all of these controls determine the mode and degree of partitioning of sediment between the delta and the wider receiving basin.
+.. figure:: images/delta_rsl.png
+  :scale: 38 %
+  :alt: Growth of a Gilbert-type delta subject to short-term base-level changes
+  :align: center
 
+  Schematic longitudinal cross‐section of a Gilbert‐type delta, depicting its characteristic tripartite architecture and other common features (Gobo et al., 2015). The formation of such deltas reflects a high basin/river depth ratio; no scale is given, as the delta thickness depends on the basin accommodation and may range from a few metres to a few hundred metres. Bottom pannels: schematic cartoon portraying the growth of a Gilbert‐type delta subject to short‐term base‐level changes, with a sigmoidal toplap formed during base‐level rise (cases 1 and 3) and an oblique toplap formed base‐level stillstand or fall (cases 2 and 4). Note that the sigmoidal brink‐zone architectural record of base‐level rise tends to be erased by fluvial incision during a subsequent base‐level fall (see case 4).
+
+Large changes in relative base level may lead to axial dissection of delta by an incised valley and its subsequent drowning with the progradation of a younger bayhead delta, or result in vertical stacking of successive deltas.
+Low-magnitude short-term changes are recorded in the delta brink-zone, with the relative base-level rise reflected in a sigmoidal geometry and the relative base-level fall or stillstand in an oblique geometry.
+As the brink zone tends to be eroded by fluvial system and waves, the foreset and toeset/bottomset deposits are the most valuable archives of allogenic and autogenic changes affecting the delta front and its fluvial feeder system.
 
 
 System tracts
