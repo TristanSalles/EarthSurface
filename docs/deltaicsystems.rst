@@ -129,7 +129,7 @@ At the **river-dominated** end of the spectrum, deltas are indented and have mor
 **Tide-dominated** deltas occur in locations of large tidal ranges or high tidal current speeds. Such a delta often looks like a estuarine bay filled with many stretched islands parallel to the main tidal flow and perpendicular to the shore line (e.g., the Brahmaputra River delta or the Fly River delta).
 
 
-Deltaic stratigraphy
+Delta stratigraphy
 ---------------------
 
 Over time, research on deltas moved from the development of depositional models based on modern highstand deltas, which are ultimately controlled by variations in sediment supply by the delta-building rivers, to sequence stratigraphic interpretations of deltaic evolution through multiple sea-level cycles.
@@ -213,10 +213,140 @@ Low-magnitude short-term changes are recorded in the delta brink-zone, with the 
 As the brink zone tends to be eroded by fluvial system and waves, the foreset and toeset/bottomset deposits are the most valuable archives of allogenic and autogenic changes affecting the delta front and its fluvial feeder system.
 
 
-System tracts
+Depositional sequences
 **********************
 
-The concepts of system tracts, shoreline trajectory and accommodation succession represent critical tools to the interpretation of shoreline and shelf carbonate and clastic sedimentary systems. It aids in the determination of the depositional setting of the component system tracts and enables the prediction of the extent and character of these sedimentary geometries, often at the same scale as the components of local hydrocarbon reservoirs. This enhances the stratigraphers ability to find, map and exploit hydrocarbon reservoirs more effectively.
+.. important::
+  A depositional sequence is defined as a relatively conformable succession of genetically related strata bounded by subaerial unconformities or their correlative conformities. These depositional sequences are bounded by subaerial unconformities. A subaerial unconformity is a surface formed through subaerial exposure and erosion, and includes features formed by downcutting rivers, soil processes, and karst processes.
+
+A depositional sequence is the record of one cycle of relative sea level, that is, a fall and rise in relative sea level. As a result, depositional sequences have a predictable internal **series of surfaces** and **systems tracts**, which are suites of coexisting depositional systems, such as coastal plains, continental shelves, and submarine fans.
+
+There are several models of systems tracts within depositional sequences. In this course, we will focus on what is called the **four systems tract model**. In it, a depositional sequence has four systems tracts, always in this order: **lowstand systems tract**, **transgressive systems tract**, **highstand systems tract**, and **falling-stage systems tract**.
+
+.. figure:: images/systemtract.png
+  :scale: 38 %
+  :alt: Systems tracts and surfaces in the four systems tract model
+  :align: center
+
+  Systems tracts and surfaces in the four systems tract model
+
+These systems tracts are bounded by important named surfaces. The lowstand and transgressive systems tracts are separated by the **transgressive surface**, also called the **maximum regressive surface**. The transgressive and highstand systems tracts are separated by the **maximum flooding surface**. The highstand and falling-stage systems tract are separated by the **basal surface of forced regression**. The base of the lowstand and the top of the highstand are **sequence boundaries**, that is, subaerial unconformities and their correlative surfaces.
+
+
+Systems tracts
+************************************************
+
+.. important::
+  Sequence stratigraphy is concerned with the **relative** rates of change in sea level and sedimentation, not the position of sea level per se. Consequently, all of the plots shown below show the rates of relative sea level change (in blue) and sedimentation (brown). The horizontal gray line indicates a zero rate of change.
+
+1. When the blue relative sea-level rate curve lies above the gray line, **relative sea level is rising**.
+2. As the blue curve climbs upward, relative sea level is rising more quickly, and as the blue curve descends towards the gray line, **relative sea level is still rising but at ever slower rates of rise**.
+3. The opposite is true when the blue curve lies below the gray line: as the blue curve falls below the gray line, **relative sea level** is falling at progressively faster rates, and as the blue curve rises upwards toward the gray line, sea level is falling, but at ever slower rates.
+
+Sedimentation rate is depicted at always-positive rates, indicating that topography and climate are sufficient to supply sediment continuously. Although sediment supply is shown as a constant here, this is not a requirement; it only makes explaining the concepts of sequence stratigraphy easier.
+
+.. important::
+  Remember: these plots show the rate of change in sea level, not the position of sea level.
+
+
+Highstand systems tract
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: images/hst.png
+   :scale: 40 %
+   :alt: hst
+   :align: center
+
+To understand the formation of a depositional sequence during changes in accommodation, it is easiest to start in the highstand systems tract (**HST**), that is immediately before the beginning of a relative fall in sea level. During this HST, relative sea level is undergoing a slow rise from the combined effects of subsidence and eustasy. Given the rate of rise in relative sea level, sediment supply is sufficient to outpace it, causing **progradational stacking**.
+
+Because the rate of relative rise in sea level is progressively declining through the HST, the progradational stacking is initially relatively weak, almost aggradational, but becomes progressively stronger over time.
+
+
+Falling-stage systems tract
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: images/fsst.png
+   :scale: 40 %
+   :alt: fsst
+   :align: center
+
+Through the HST, the rate of relative sea-level rise slows, and eventually, relative sea level will begin to fall, marking the beginning of the falling-stage systems tract (**FSST**). A relative fall in sea level has two important consequences.
+
+1. First, a **subaerial unconformity** begins to develop. Rivers erode into underlying sediments, first at the highstand shoreline forming what is called an incised valley (not shown on the cross-section). These incised valleys deepen and lengthen seaward as relative sea level continues to fall, and they also lengthen landwards through headward erosion. Between these downcutting rivers, areas that had previously experience sedimentation on the coastal plain or shelf are now subaerially weathered. and become sites of soil formation. Note that because rivers are incised, there is no widespread fluvial sedimentation during the falling-stage systems tract.
+2. Second, an **erosional surface** often forms on the shelf, as the sediment surface becomes perched above the equilibrium surface for waves. Much of this erosion occurs during storms. Once equilibrium is reached, marine deposition continues, burying this surface of forced regression. During a stepped fall in sea level, several of these surfaces of forced regression may form, but the first and lowest of these is called the basal surface of forced regression and it is what defines the base of the falling-stage systems tract.
+
+
+Lowstand systems tract
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: images/lst.png
+   :scale: 40 %
+   :alt: lst
+   :align: center
+
+
+In the latter part of the FSST, the rate of relative fall begins to slow, followed by the beginning of a rise in relative sea level, which marks the start of the lowstand systems tract (**LST**).
+
+As was true in the HST, the rate of relative rise in sea level is sufficiently slow that the rate of sedimentation outpaces it, causing **progradational stacking**. In addition, rivers begin to readjust their grade, starting the filling of the valleys cut during the FSST. In their seaward ends, these valleys can be flooded by the ocean, forming estuaries. Estuaries can be efficient sediment traps, preventing sediment from dispersing onto the shelf. Incised valleys are filled first at their downstream ends, and it may take a substantial amount of time, even into later systems tracts, for the upstream ends of the valleys to be buried. This buried surface of subaerial erosion and weathering is the sequence boundary.
+
+Because the rate of relative rise in sea level increases throughout the LST, this progradational stacking becomes weaker and eventually approaches **aggradational stacking**.
+
+
+Transgressive systems tract
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: images/tst.png
+   :scale: 40 %
+   :alt: tst
+   :align: center
+
+As the rate of relative sea-level rise increases, it eventually outpaces the supply of sediment, leading to **retrogradational stacking** in the transgressive systems tract (**TST**).
+
+Retrogradational stacking is marked by well-developed flooding surfaces, that is, flooding surfaces with pronounced deepening. As a result, flooding surfaces within the transgressive systems tract are much more prominent than anywhere else in a depositional sequence. The first of these large flooding surfaces is called the transgressive surface, and it separates the underlying lowstand systems tract from the overlying transgressive systems tract. Also called the maximum regressive surface, it marks the most seaward reach of the shoreline within the sequence.
+
+The rapid relative rise in sea level leads to the formation well-developed estuaries, and their trapping of sediment hinders the dispersal of sediment to the shelf. This starvation of sediment further promotes retrogradational stacking and commonly causes siliciclastic TST parasequences to be thin. This starvation of sediment also promotes the formation of features that indicate stratigraphic condensation, such as the formation of authigenic minerals, accumulations of marine fossils, unusually bioturbated horizons, and the formation of firmgrounds and hardgrounds.
+
+
+Highstand systems tract
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: images/hst2.png
+   :scale: 40 %
+   :alt: hst2
+   :align: center
+
+The rate of relative sea-level rise slows through the latter half of the TST, and eventually the rate of sedimentation will again exceed the rate of accommodation, causing the return of progradational stacking in HST. The point of turnaround from retrogradational stacking in the TST to progradational stacking in the HST commonly corresponds to the most landward reach of the shoreline within a sequence. In most cases, it also marks the deepest-water facies within a sequence, and it is therefore called the maximum flooding surface.
+
+Any remaining estuaries are filled with sediment during the HST, with rivers subsequently forming deltas that prograde out onto the shelf. This return of sediment to the shelf, after prolonged starvation during the TST, favours the development of progradational stacking.
+
+
+Falling-stage systems tract
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: images/fsst2.png
+   :scale: 40 %
+   :alt: fsst2
+   :align: center
+
+The end of the depositional sequence is marked by the return of a fall in sea level and the formation of the next falling-stage systems tract.
+
+
+Complete sequence
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: images/complete.png
+   :scale: 40 %
+   :alt: complete
+   :align: center
+
+A complete sequence begins at one sequence boundary and ends at the next one; that is a complete sequence is bounded above and below by subaerial unconformities, which often correspond to substantial hiatuses. A complete sequence consists of four systems tracts, from bottom to top: lowstand systems tract, transgressive systems tract, highstand systems tract, falling-stage systems tract.
+
+Although all four systems tracts will be developed in the sedimentary basin, not all will be present at any given spot. For example, falling-stage and lowstand systems tracts are commonly absent in depositionally updip areas. Likewise, transgressive and highstand systems tracts may be thin, absent, or difficult to distinguish in depositionally downdip areas. This spatial segregation of systems tracts that it is unusual to see all four systems tracts developed at one location, and it usually can occur only when the magnitudes of rise and fall in relative sea level are quite small. Expect systems tracts to be absent, but in a predictable way.
+
+
+Quantitative interpretations
+-----------------------------
+
 
 
 .. raw:: html
@@ -228,24 +358,24 @@ The concepts of system tracts, shoreline trajectory and accommodation succession
    :align: center
 
 
-Shoreline trajectory
-**********************
-
-The shoreline or shelf margin trajectory is the path taken by the shoreline or shallow shelf margin facies as they change position when a sedimentary basin fills. These trajectories are controlled by rates of change in base level (as expressed by rates of change in accommodation, or the sum of eustatic change and tectonic movement of the substrate), varying rates of sediment accumulation, and the slope and shape of the basin margin and floor and their depths. Evolving geometries of clinoformed margins have been used as standards to explain basin margin progradation. Essentially these trajectories are responsible for the retrogradational, progradational and aggradational stacking patterns.
-
-Wheeler diagrams
-**********************
-
-The rate of change of accommodation (at the shoreline) and the rate of sediment supply are the primary factors controlling regression and transgression in the geological record, or retreat and advance of a coastal depositional system. We will discuss in this part of the module these three different concepts and see how they can be used to quantitatively assess numerical models of deltaic systems evolution.
-
-
-Quantitative interpretations
------------------------------
-
-
 Experimental approach
 **********************
 
 
 Numerical approach
 **********************
+
+
+
+Shoreline trajectory
+**********************
+
+The shoreline or shelf margin trajectory is the path taken by the shoreline or shallow shelf margin facies as they change position when a sedimentary basin fills. These trajectories are controlled by rates of change in base level (as expressed by rates of change in accommodation, or the sum of eustatic change and tectonic movement of the substrate), varying rates of sediment accumulation, and the slope and shape of the basin margin and floor and their depths. Evolving geometries of clinoformed margins have been used as standards to explain basin margin progradation. Essentially these trajectories are responsible for the retrogradational, progradational and aggradational stacking patterns.
+
+
+The concepts of system tracts, shoreline trajectory and accommodation succession represent critical tools to the interpretation of shoreline and shelf carbonate and clastic sedimentary systems. It aids in the determination of the depositional setting of the component system tracts and enables the prediction of the extent and character of these sedimentary geometries, often at the same scale as the components of local hydrocarbon reservoirs. This enhances the stratigraphers ability to find, map and exploit hydrocarbon reservoirs more effectively.
+
+Wheeler diagrams
+**********************
+
+The rate of change of accommodation (at the shoreline) and the rate of sediment supply are the primary factors controlling regression and transgression in the geological record, or retreat and advance of a coastal depositional system. We will discuss in this part of the module these three different concepts and see how they can be used to quantitatively assess numerical models of deltaic systems evolution.
