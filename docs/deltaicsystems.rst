@@ -1,4 +1,4 @@
-Source-to-sink & deltas systems
+Source-to-sink & deltaic systems
 ==========================================
 
 Source-to-sink system
