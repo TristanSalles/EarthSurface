@@ -59,11 +59,24 @@ Contents
   :target: https://earthsurface.readthedocs.io/en/latest/?badge=latest
   :alt: Documentation Status
 
+.. toctree::
+   :maxdepth: 3
+   :name: Tectonic geomorphology
+   :caption: Tectonic geomorphology
+
+   landform
+   sedtransport
+   hillslope
+   fluvial
+
 
 .. toctree::
-  tectogeo
-  deltaicsystems
   :maxdepth: 3
+  :name: Deltaic Systems
+  :caption: Deltaic Systems
+
+  deltaicsystems
+  quantitativestrata
 
 Indices and tables
 ------------------

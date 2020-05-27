@@ -1,4 +1,4 @@
-Quantitative geomorphology
+Landforms and hierarchical organisation
 ==========================================
 
 Preamble
@@ -526,7 +526,7 @@ Depth-dependent creep
 Beside linear creep, a few field observations but numerous laboratory and modelling studies have supported depth-dependent, viscous-like flow of soil. The general expression for depth-dependent creep is given by:
 
 .. math::
-  q_dd = - \kappa_{dd}  h^p (\nabla z)^l
+  q_{dd} = - \kappa_{dd}  h^p (\nabla z)^l
 
 Different authors have provided different values for the soil thickness and topographic gradient exponents. For example, Heimsath et al. (2005) used p = l = 1, although, generally, the velocity of soil displacement declines exponentially with depth. Due to a lack of constraints, Braun et al. (2001) have adopted values from Manning’s equation for liquid flow (p = 1.67 and l = 0.5). In most cases, p ranges from 1.5 to 2.0 and l ranges from 0.5 to 1.0.
 
@@ -541,7 +541,7 @@ Fluvial processes
 
     Preferential erosion and low relief preservation.
 
-    
+
 
 Fundamentals of landscape evolution modelling
 ---------------------------------------------
