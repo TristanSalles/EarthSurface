@@ -3,6 +3,14 @@ Lecture notes on Geomorphology & Stratigraphy
 
 These notes discuss three components of Earth Surface evolution.
 
+.. important::
+  We will do **computer-based exercises during both lectures and practicals** so you will need to bring an electronic device (preferably a laptop but a tablet with internet access could work). As there will be a lot to cover, it is also recommended to go through each chapter prior to the lecture to be well prepared and able to get the most of it during classes.
+
+.. image:: https://readthedocs.org/projects/earthsurface/badge/?version=latest
+  :target: https://earthsurface.readthedocs.io/en/latest/?badge=latest
+  :alt: Documentation Status
+
+
 A- Introduction to landscape dynamics
 -------------------------------------
 
@@ -33,6 +41,16 @@ B- Quantitative approach to geomorphology
 .. note::
  Understanding the main geomorphic processes (i.e. *hillslope* & *fluvial* systems) from a quantitative perspective by explaining the empirical laws that governs them and their mathematical formalisms.
 
+.. toctree::
+   :maxdepth: 3
+   :name: Tectonic geomorphology
+   :caption: Tectonic geomorphology
+
+   landform
+   sedtransport
+   hillslope
+   fluvial
+
 
 C- Source-to-sink systems and stratigraphy
 ------------------------------------------
@@ -48,39 +66,10 @@ C- Source-to-sink systems and stratigraphy
  Focussing on source-to-sink systems and sedimentary basins evolution with practical applications to deltaic systems stratigraphy, stratal stacking patterns, shoreline trajectories and systems tracts.
 
 
-
-Contents
---------
-
-.. important::
-  We will do **computer-based exercises during both lectures and practicals** so you will need to bring an electronic device (preferably a laptop but a tablet with internet access could work). As there will be a lot to cover, it is also recommended to go through each chapter prior to the lecture to be well prepared and able to get the most of it during classes.
-
-.. image:: https://readthedocs.org/projects/earthsurface/badge/?version=latest
-  :target: https://earthsurface.readthedocs.io/en/latest/?badge=latest
-  :alt: Documentation Status
-
 .. toctree::
    :maxdepth: 3
-   :name: Tectonic geomorphology
-   :caption: Tectonic geomorphology
+   :name: Deltaic Systems
+   :caption: Deltaic Systems
 
-   landform
-   sedtransport
-   hillslope
-   fluvial
-
-
-.. toctree::
-  :maxdepth: 3
-  :name: Deltaic Systems
-  :caption: Deltaic Systems
-
-  deltaicsystems
-  quantitativestrata
-
-Indices and tables
-------------------
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   deltaicsystems
+   quantitativestrata

@@ -126,6 +126,25 @@ The drainage basin is the land surface drained by a stream system; an interfluve
    :align: center
 
 
+Drainage basin patterns
+********************************
+
+The pattern of tributaries within a drainage basin depends largely on the type of rock beneath, and on structures within that rock (folds, fractures, faults, etc.). The three main types of drainage patterns are illustrated in the figure below.
+
+.. figure:: images/patterns.png
+   :scale: 52 %
+   :alt: patterns
+   :align: center
+
+   Stream drainage patterns (from Summerfield (1991)).
+
+Dendritic patterns, which are by far the most common, develop in areas where the rock (or unconsolidated material) beneath the stream has no particular fabric or structure and can be eroded equally easily in all directions. Examples would be granite, gneiss, volcanic rock, and sedimentary rock that has not been folded.
+
+Trellis drainage patterns typically develop where sedimentary rocks have been folded or tilted and then eroded to varying degrees depending on their strength.
+
+Rectangular patterns develop in areas that have very little topography and a system of bedding planes, fractures, or faults that form a rectangular network.
+
+
 Stream organisation
 ^^^^^^^^^^^^^^^^^^^^
 
