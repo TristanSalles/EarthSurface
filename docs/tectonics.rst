@@ -45,7 +45,7 @@ Lithospheric plates move around the globe in different directions and come in ma
 
 
 .. figure:: images/plate-boundaries-summary.png
-   :scale: 35 %
+   :scale: 15 %
    :alt: Plate boundaries summary
    :align: center
 
