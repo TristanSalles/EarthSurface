@@ -11,6 +11,8 @@ These notes discuss three components of Earth Surface evolution.
   :alt: Documentation Status
 
 
+
+
 A- Introduction to landscape dynamics
 -------------------------------------
 
@@ -46,6 +48,7 @@ B- Quantitative approach to geomorphology
    :name: Tectonic geomorphology
    :caption: Tectonic geomorphology
 
+   tectonics
    landform
    sedtransport
    hillslope
