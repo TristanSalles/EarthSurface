@@ -15,10 +15,9 @@ Explore the tectonic setting of Australia and the influence of dynamic topograph
 Tectonic geomorphology is the study of the interplay between tectonic and surface processes that shape the landscape in regions of active deformation and at time scales ranging from up to millions of years.
 
 
-..  admonition:: Take home messages
+..  admonition:: Learning outcomes
     :class: toggle
 
-    An example graphic that students could come up with by varying the ELA
-    with different shapes:
-
-    
+    - Recognise the broad tectonic controls on landform and landscape dynamics
+    - Understand the creation of passive margins
+    - Explore the tectonic setting and the influence of dynamic topography on Australia's landscape  
