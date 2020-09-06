@@ -7,3 +7,4 @@ sphinxcontrib-inlinesyntaxhighlight
 sphinxemoji==0.1.5
 mock==4.0.2
 numpy-indexed==0.3.5
+sphinx-togglebutton

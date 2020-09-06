@@ -21,9 +21,4 @@ Tectonic geomorphology is the study of the interplay between tectonic and surfac
     An example graphic that students could come up with by varying the ELA
     with different shapes:
 
-    .. figure:: _static/simulator_ela_example.png
-        :width: 100%
-
-    **The lower the ELA, the larger the equilibrium glacier**. The length,
-    volume or maximal thickness are not necessarily linear functions of the
-    ELA.
+    
