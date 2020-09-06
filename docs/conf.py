@@ -62,6 +62,7 @@ extensions = [
     "sphinx.ext.todo",
     "sphinxcontrib.napoleon",
     "sphinx.ext.autodoc",
+    "sphinx_togglebutton",
     # "sphinxemoji.sphinxemoji",
 ]
 numfig = True
