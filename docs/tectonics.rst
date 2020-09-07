@@ -19,7 +19,7 @@ Geomorphological processes are natural mechanisms of weathering, erosion, and de
 
 
 .. figure:: images/tecgeo.png
-   :scale: 30 %
+   :scale: 32 %
    :alt: Tectonically driven geomorphic landscapes
    :align: center
 
@@ -62,8 +62,6 @@ Lithospheric plates move around the globe in different directions and come in ma
 
    These models show 6 main types of plate tectonic boundaries. Blue indicates ocean, green indicates land, brown indicates the lithosphere, and orange is the asthenosphere. The bold arrows on the plates indicate their relative motion. Also shown are gray volcanoes. Ocean-ocean transform boundaries (not shown) exist on a small scale associated with spreading at mid-ocean ridges, and continent-ocean transform and divergent boundaries are rare (former) or don’t exist (latter). Image credit: Adapted from Wikimedia Commons user Domdomegg, CC BY.
 
-
-
 From continental drift to plate tectonics
 ************************************************
 
@@ -74,3 +72,16 @@ The foundations of plate tectonics began with a German scientist named **Alfred 
    <div style="text-align: center; margin-bottom: 2em;">
    <iframe width="100%" height="350" src="https://www.youtube.com/embed/OroYviR7Qz8?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    </div>
+
+
+Plate tectonics, earthquakes, and volcanoes
+************************************************
+
+Plate tectonic boundaries are often associated with earthquakes and volcanic activity, and by looking at maps for the distribution of earthquakes and volcanoes around the world, you can interpret the boundaries between the major tectonic plates.
+
+Generally, **divergent plate boundaries** are characterised by shallow earthquakes and some volcanism. **Convergent boundaries** have a range of earthquake depths from shallow to deep, and many have volcanoes as a result of subduction. Subduction occurs in convergent boundaries where the denser, oceanic plate descends into the mantle beneath the overriding plate. Convergent boundaries also tend to produce linear and curved mountain belts. **Transform boundaries** typically have shallow earthquakes and no volcanoes.
+
+.. figure:: images/plates.png
+  :width: 100 %
+  :alt: Different plates
+  :align: center
