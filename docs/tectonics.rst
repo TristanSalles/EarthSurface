@@ -86,8 +86,11 @@ Generally, **divergent plate boundaries** are characterised by shallow earthquak
   :alt: Different plates
   :align: center
 
+Plate movements
+-----------------
+
 Associated landforms to different plate movements
-**************************************************
+*******************************************************
 
 Geologists can observe most of the processes occurring at plate tectonic boundaries today (earthquakes, volcanoes, mountain building, etc.) Understanding the plate tectonic activity of the geologic past, however, is more difficult because the events have already happened.
 
@@ -154,10 +157,18 @@ When most people think about tectonic plate boundaries, they often visualise par
 
 
 Distinction between active & passive margins
----------------------------------------------------------
+*******************************************************
 
 
+.. figure:: images/active_passive.png
+    :width: 95 %
+    :alt: Active versus passive margins
+    :align: center
 
+
+An **active continental margin** is found on the leading edge of the continent where it is crashing into an oceanic plate. An excellent example is the west coast of South America. Active margins are commonly the sites of tectonic activity: earthquakes, volcanoes, mountain building, and the formation of new igneous rock. Because of the mountainous terrain, most of the rivers are fairly short, and the continental shelf is narrow to non-existent, dropping off quickly into the depths of the subduction trench.
+
+**Passive continental margins** are found along the remaining coastlines. Because there is no collision or subduction taking place, tectonic activity is minimal and the earth's weathering and erosional processes are winning. This leads to lots of low-relief (flat) land extending both directions from the beach, long river systems, and the accumulation of thick piles of sedimentary debris on the relatively wide continental shelves. Again South America provides a great example. The Amazon River, whose source is in the Andes Mountains (the active margin) drains east across the interior of South America to the coast, where it enters the Atlantic Ocean and deposits the tremendous volume of sedimentary materials it eroded from the continent.
 
 
 Continental rifting and break-up
