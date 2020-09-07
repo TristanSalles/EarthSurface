@@ -213,8 +213,7 @@ In **inactive rifts**, places where extensional deformation ceased some time ago
 A **successful rift** is one in which extensional deformation completely splits a continent into two pieces. When this happens a new mid-ocean ridge (oceanic spreading center) forms between the now separate continent fragments, and seafloor spreading produces new oceanic lithosphere. Typically, 20 to 60 million years pass between inception of a rift and the time (called the rift–drift transition) at which active rift faulting ceases and seafloor spreading begins. Once active faulting ceases in a successful rift, the relicts of the rift underlie the continental margins on either side of a new ocean basin. Since no tectonic activity happens along such continental margins after they have formed, we refer to them as **passive margins** as discussed above.
 
 
-
-..  admonition:: Models of continental rifting.
+..  admonition:: Models of continental rifting
     :class: toggle
 
     .. figure:: images/shear.png
@@ -225,15 +224,6 @@ A **successful rift** is one in which extensional deformation completely splits 
       Pure shear rift model (left side) and simple shear rift model (right side) and their predictions for the interpretation of the Campos–Angola rifted margins. The line drawing shows the Campos–Angola rift system as imaged in seismic sections. The two models represent idealised and simplified models that permit to discuss the major predictions for the evolution and final structure of the South Atlantic hyper-extended rift system (from Unternehr et al., 2010).
 
     `Link to A/Prof Patrice Rey <http://www.geosci.usyd.edu.au/users/prey/ACSGT/EReports/eR.2003/GroupB/Report1/models.html>`_ pure and simple shear model explanations.
-
-
-.. figure:: images/rift.png
-    :width: 70 %
-    :alt: Active versus passive margins
-    :align: center
-
-    Seafloor Spreading in which tectonic plates—large slabs of Earth's lithosphere—split apart from each other. Illustration by Joshua Doubek, Wikimedia. CC-BY-SA-3.0
-
 
 
 Mantle-driven tectonic / dynamic topography
