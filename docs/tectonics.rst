@@ -50,3 +50,10 @@ Lithospheric plates move around the globe in different directions and come in ma
    :align: center
 
    These models show 6 main types of plate tectonic boundaries. Blue indicates ocean, green indicates land, brown indicates the lithosphere, and orange is the asthenosphere. The bold arrows on the plates indicate their relative motion. Also shown are gray volcanoes. Ocean-ocean transform boundaries (not shown) exist on a small scale associated with spreading at mid-ocean ridges, and continent-ocean transform and divergent boundaries are rare (former) or don’t exist (latter). Image credit: Adapted from Wikimedia Commons user Domdomegg, CC BY.
+
+
+.. raw:: html
+
+   <div style="text-align: center; margin-bottom: 2em;">
+   <iframe width="100%" height="350" src="https://www.youtube.com/embed/OroYviR7Qz8?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   </div>
