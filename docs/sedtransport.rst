@@ -1,9 +1,6 @@
 Fluvial sediment transport
 ==========================================
 
-Fluvial sediment transport is the study of the interaction between channelized, unidirectional flows of relatively clear water and natural, generally non-cohesive, sediment.
-In this chapter we will discuss 1) the forces governing the settling and movement of grains in a fluid, 2) the approaches used to predict the threshold of movement and 3) the different ways transported sediments will be moved by the flow once the threshold of movement has been exceeded.
-
 ..  admonition:: Chapter structure
     :class: toggle
 
@@ -12,6 +9,9 @@ In this chapter we will discuss 1) the forces governing the settling and movemen
     - Types of sediment transport
     - Sediment transport rates
 
+Fluvial sediment transport is the study of the interaction between channelized, unidirectional flows of relatively clear water and natural, generally non-cohesive, sediment.
+
+In this chapter we will discuss 1) the forces governing the settling and movement of grains in a fluid, 2) the approaches used to predict the threshold of movement and 3) the different ways transported sediments will be moved by the flow once the threshold of movement has been exceeded.
 
 ..  admonition:: Learning outcomes
     :class: toggle
@@ -32,15 +32,20 @@ In this chapter we will discuss 1) the forces governing the settling and movemen
 Fluid flow and flow properties
 -------------------------------
 
+
+Flow types
+************************************************
+
 Much of what we understand concerning sediment transport is based on a series of fundamental concepts in fluid mechanics. Therefore to understand sediment transport, it is essential to understand the mechanics of fluid flow.
 
 .. important::
   There are two end member ways fluids flow: 1) **laminar flow** and 2) **turbulent flow**. There is a wide gradation between these two end members, specifically **transitional** flows.
 
-  .. figure:: images/laminar-and-turbulent-boundary-layers-24.png
-    :width: 100 %
-    :alt: Different plates
-    :align: center
+
+.. figure:: images/laminar-and-turbulent-boundary-layers-24.png
+  :width: 100 %
+  :alt: Different plates
+  :align: center
 
 
 **Laminar Flow** - In laminar flow, water molecules move in straight, parallel lines down current. If you add a dye to water that is in the laminar flow regime, the dye would not mix into the water; it would streak out in an approximately straight line. Laminar flow is characteristic of very slow moving, shallow water, which is uncommon in nature. It is also characteristic of flows in "fluids" that are very viscous, like glacial ice or mud flows that have little water.
@@ -51,8 +56,10 @@ Much of what we understand concerning sediment transport is based on a series of
 
 
 
+Reynolds Number
+************************************************
 
-Reynolds Number - The Reynolds number predicts the extent of turbulence in a fluid based on how fast the fluid is flowing, the geometry of the flow (how deep and wide it is, etc.), and the density and viscosity the of the fluid.
+The Reynolds number predicts the extent of turbulence in a fluid based on how fast the fluid is flowing, the geometry of the flow (how deep and wide it is, etc.), and the density and viscosity the of the fluid.
 
 [Viscosity is a measure of the resistance of a material to flow, i.e. how “thick” and easily deformed it is. Viscosity is sort-of like the amount of friction within a substance. Walking through air is easy, because there is not much friction between air molecules. Air has a low viscosity. Swimming is more difficult because the water drags on your body. This is due to the “friction” between adjacent water molecules, i.e. higher viscosity. Ice is more viscous and impossible to move through because of the crystal bonds between the water molecules. It flows, but it does so slowly. ]
 
