@@ -321,7 +321,7 @@ Changes in dynamic topography can be deduced from a variety of geological and ge
 
 
 ..  admonition:: Questions to explore
-    :class: toggle
+    :class: toggle, important
 
     Using the `gPlate web Portal <https://portal.gplates.org/portal/dynamic_topography/>`_, you will look at the dynamic topography evolution over the Australian continent. The dynamic topography models you will visualise are from the paper from Muller et al., 2016: **Formation of Australian continental margin highlands driven by plate-mantle interaction**, `EPSL <http://dx.doi.org/10.1016/j.epsl.2016.02.025>`_. Click on the **check out model button** and select **Model 2** ( Muller et al. 2016). In the Longitude/Latitude cells set the coordinates to be within Australia (like 145/-30 for example) and click the show profile button. Alternatively you can move the globe and click on a point in Australia. You can also visualise the evolution of the dynamic topography through time with the slider bar on top of the screen.
 
