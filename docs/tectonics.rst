@@ -93,12 +93,10 @@ Geologists can observe most of the processes occurring at plate tectonic boundar
 
 Hence, geologists use processes that occur in the present to interpret processes that occurred in the past. This is known as **uniformitarianism**. One way geologists can interpret ancient plate tectonic activity is to look at the topography of an area (via satellite imagery, topographic maps, shaded relief maps, and digital elevation models).
 
-
 .. figure:: images/platemvt.png
-    :width: 65 %
+    :width: 85 %
     :alt: Plate types
     :align: center
-
 
 When most people think about tectonic plate boundaries, they often visualise parallel, symmetric lines separating the plates. This is not always the case in the real world as many plate boundaries are curved or segmented. There are other factors that affect the shape of a boundary. Evidence of these plate boundaries are contained in the topography of continents.
 
@@ -148,7 +146,7 @@ When most people think about tectonic plate boundaries, they often visualise par
     A smaller number of transform faults cut continental lithosphere. The most famous example of this is the San Andreas Fault Zone of western North America. The San Andreas connects a divergent boundary in the Gulf of California with the Cascadia subduction zone. Another example of a transform boundary on land is the Alpine Fault of New Zealand.
 
     .. figure:: images/NZ.jpg
-      :width: 70 %
+      :width: 100 %
       :alt: NZ mountains
       :align: center
 
