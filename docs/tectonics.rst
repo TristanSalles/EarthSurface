@@ -270,8 +270,8 @@ Present-day dynamic topography
 
 Estimates of present-day dynamic topography can be obtained by removing the crustal isostatic effect from the observed topography, which requires knowledge of the crustal thickness and density, as well as overlying sediment, water, and ice loads. Global estimates of dynamic topography reveal large-scale undulations with magnitudes that exceed 2 km. Within the oceans, a detailed assessment has shown that the sub-lithospheric contribution to dynamic topography has a magnitude that ranges from approx. -1.5 km (Australia-Antarctic discordance) to 2 km (around Iceland) and can have steep lateral gradients (e.g. 1 km of dynamic topography change over a lateral distance of 1000 km along the West African Margin; Hoggard et al. 2016).
 
-.. figure:: images/dt2.jpg
-   :width: 95 %
+.. figure:: images/dt2.png
+   :width: 75 %
    :alt: present-day global dynamic topography
    :align: center
 
@@ -290,12 +290,10 @@ To understand the role of dynamic topography in Earth surface evolution, scienti
    :alt: Nullarbor plain
    :align: center
 
-   The Nullarbor Plain: an example of dynamic uplift.
+   In southern Australia, 300 metres of dynamic uplift over the last 40 million years has exposed the Nullarbor Plain and formed spectacular cliffs along its southern edge (from `GA <http://www.ga.gov.au/news-events/news/latest-news/dynamic-topography-of-australias-margins>`_ - Photographer: Neale Winter. Copyright: South Australian Tourism Commission.)
 
 
 Changes in dynamic topography can be deduced from a variety of geological and geomorphological data. For example, a careful analysis of stratigraphy from onshore and offshore Australia indicates changes in dynamic topography (subsidence) of up to 75 m/Myr on the Northwest Shelf (Czarnota et al. 2013). Paleo shorelines from the US east coast, Australia, and South Africa indicate rates of uplift of up to 20 m/Myr (Rovere et al. 2014). Model-derived estimates of the rate of change in dynamic topography can vary from a few meters per million years (Flament et al. 2013) up to over 100 m per million years (Rowley et al. 2013; Austermann et al. 2017) depending on the model input parameters, particularly the viscosity structure, magnitude of density perturbations, and whether density variations in the asthenosphere and lithosphere are considered.
-
-
 
 
 Australian landscape evolution since the Jurassic
