@@ -85,3 +85,27 @@ Generally, **divergent plate boundaries** are characterised by shallow earthquak
   :width: 100 %
   :alt: Different plates
   :align: center
+
+Associated landforms to different movements
+************************************************
+
+
+
+Distinction between active & passive margins
+---------------------------------------------------------
+
+
+
+
+
+Continental rifting and break-up
+---------------------------------------------------------
+
+
+Mantle-driven tectonic / dynamic topography
+---------------------------------------------------------
+
+
+
+150 Ma of continental scale evolution of Australian landscape
+---------------------------------------------------------------------
