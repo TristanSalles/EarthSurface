@@ -253,6 +253,14 @@ Definition of mantle dynamic topography
 
 Today's surface topography is shaped by crustal isostasy, in which, for example, crustal roots support mountain belts, and dynamic topography, which is driven by stresses in the sub-crustal mantle that are caused by (shallow) isostatic and (deeper) flow-driven contributions (Forte et al. 1993). Both of these components evolve with time as lateral density variations in the sub-crustal mantle convect and cool the rocky mantle. This leads to spatio-temporal changes in dynamic topography that contribute to the evolution of Earth's surface.
 
+.. figure:: images/braun.png
+   :width: 95 %
+   :alt: DT, TT
+   :align: center
+
+   Left. Dynamic topography - Simple sketch illustrating how flow in the mantle generates dynamic surface topography. The red and blue circles represent low (hot) and high (cold) density anomalies in the mantle; the black arrows represent the induced mantle flow; resulting dynamic topography is also shown. Right. Tectonic topography - Normal, isostatically compensated, tectonic topography is created by thinning or thickening of the crust and lithosphere in response to tectonic plate motions (yellow arrows). Where plates converge, the crust is thickened and mountains (or positive topography) are created; where plates diverge, the crust is thinned and a basin forms. Note that the deflections of the surface and crust are highly exaggerated in both diagrams. Real Earth topography is only a few kilometres high, which is very small in comparison to its 6,700 km radius (from Braun 2010).
+
+
 While convection extends from the lithosphere to the core-mantle boundary, sensitivity studies reveal that density heterogeneity in the shallow mantle (e.g. the lithosphere and asthenosphere) contributes most to the overall topographic signal (Forte et al. 2015). The definition of dynamic topography used here includes the topographic signature of the lithosphere (e.g. cooling and subsidence of the oceanic lithosphere), as it constitutes the upper thermal-boundary layer of Earth's convective interior. However, it is important to note that a lithospheric signal is sometimes removed from models or observations in order to investigate sub-lithospheric or deep-mantle drivers of surface topography.
 
 Present-day dynamic topography
