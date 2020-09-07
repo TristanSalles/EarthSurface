@@ -97,15 +97,22 @@ Hence, geologists use processes that occur in the present to interpret processes
 ..  admonition:: Convergent boundary and topography
     :class: toggle
 
+    .. figure:: images/convergent.png
+        :width: 70 %
+        :alt: Convergent
+        :align: center
+
+        Convergent boundaries are associated with zones of compression/collision, (destructive settings) exhibiting reverse faults and deep-sea trenches, as well as island arcs, mountain ranges.
+
     Generally speaking, plate tectonic activity tends to produce elevation changes at or near the plate boundary, especially in convergent settings.
     The collision of two plates leads to **suturing**; the two plates become one when the collision ends. Evidence of these ancient boundaries is most commonly in the form of **linear mountain belts that are not currently near a plate tectonic boundary**. For example, an eroded, linear mountain belt in the middle of a continent would indicate that area was part of a convergent boundary deep in the geologic past, and likely a continent-continent collision.
 
-  .. figure:: images/Uraltopomap-1.jpg
-     :width: 70 %
-     :alt: Ural mountains
-     :align: center
+    .. figure:: images/Uraltopomap-1.jpg
+       :width: 70 %
+       :alt: Ural mountains
+       :align: center
 
-     The Ural Mountains in Russia were created during a continent-continent collision in convergent mode. They formed during an orogeny 240 to 300 million years ago and now serve as the boundary between Europe and Asia.
+       The Ural Mountains in Russia were created during a continent-continent collision in convergent mode. They formed during an orogeny 240 to 300 million years ago and now serve as the boundary between Europe and Asia.
 
 Distinction between active & passive margins
 ---------------------------------------------------------
