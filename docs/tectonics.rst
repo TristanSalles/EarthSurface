@@ -86,10 +86,27 @@ Generally, **divergent plate boundaries** are characterised by shallow earthquak
   :alt: Different plates
   :align: center
 
-Associated landforms to different movements
-************************************************
+Associated landforms to different plate movements
+**************************************************
+
+Geologists can observe most of the processes occurring at plate tectonic boundaries today (earthquakes, volcanoes, mountain building, etc.) Understanding the plate tectonic activity of the geologic past, however, is more difficult because the events have already happened.
+
+Hence, geologists use processes that occur in the present to interpret processes that occurred in the past. This is known as **uniformitarianism**. One way geologists can interpret ancient plate tectonic activity is to look at the topography of an area (via satellite imagery, topographic maps, shaded relief maps, and digital elevation models).
 
 
+.. figure:: images/Uraltopomap-1.jpg
+   :width: 70 %
+   :alt: Ural mountains
+   :align: center
+
+   The Ural Mountains in Russia were created during a continent-continent collision in convergent mode. They formed during an orogeny 240 to 300 million years ago and now serve as the boundary between Europe and Asia.
+
+..  admonition:: Convergent boundary and topography
+    :class: toggle
+
+    Generally speaking, plate tectonic activity tends to produce elevation changes at or near the plate boundary, especially in convergent settings.
+
+    The collision of two plates leads to **suturing**; the two plates become one when the collision ends. Evidence of these ancient boundaries is most commonly in the form of **linear mountain belts that are not currently near a plate tectonic boundary**. For example, an eroded, linear mountain belt in the middle of a continent would indicate that area was part of a convergent boundary deep in the geologic past, and likely a continent-continent collision. The Ural Mountains in Russia fit this description. They formed during an orogeny 240 to 300 million years ago and now serve as the boundary between Europe and Asia.
 
 Distinction between active & passive margins
 ---------------------------------------------------------
