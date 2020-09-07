@@ -19,7 +19,7 @@ Geomorphological processes are natural mechanisms of weathering, erosion, and de
 
 
 .. figure:: images/tecgeo.png
-   :scale: 10 %
+   :scale: 30 %
    :alt: Tectonically driven geomorphic landscapes
    :align: center
 
