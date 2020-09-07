@@ -4,7 +4,6 @@ Tectonics, passive margins & dynamic topography
 Preamble
 ----------------------
 
-Geodynamics research considers all aspects of Earth evolution to better understand our planet. Geodynamics considers the interaction of processes from atmosphere to crust and lithosphere to the deep Earth interior. Interaction between disciplines improves understanding of individual systems and Earth as a whole. Deep Earth and atmospheric processes influence both horizontal and vertical motions of the surface, including plate motions and the evolution of topography.
 
 ..  admonition:: Chapter structure
     :class: toggle
@@ -17,6 +16,7 @@ Geodynamics research considers all aspects of Earth evolution to better understa
     - Eastern Highlands evolution Australia
 
 
+Geodynamics research considers all aspects of Earth evolution to better understand our planet. Geodynamics considers the interaction of processes from atmosphere to crust and lithosphere to the deep Earth interior. Interaction between disciplines improves understanding of individual systems and Earth as a whole. Deep Earth and atmospheric processes influence both horizontal and vertical motions of the surface, including plate motions and the evolution of topography.
 
 ..  admonition:: Learning outcomes
     :class: toggle
@@ -45,7 +45,7 @@ Lithospheric plates move around the globe in different directions and come in ma
 
 
 .. figure:: images/plate-boundaries-summary.png
-   :scale: 15 %
+   :scale: 10 %
    :alt: Plate boundaries summary
    :align: center
 
