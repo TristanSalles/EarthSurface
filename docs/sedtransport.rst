@@ -1,5 +1,24 @@
-Modes of sediment transport
+Fluvial sediment transport
 ==========================================
+
+Fluvial sediment transport is the study of the interaction between channelized, unidirectional flows of relatively clear water and natural, generally non-cohesive, sediment.
+In this chapter we will discuss 1) the forces governing the settling and movement of grains in a fluid, 2) the approaches used to predict the threshold of movement and 3) the different ways transported sediments will be moved by the flow once the threshold of movement has been exceeded.
+
+..  admonition:: Chapter structure
+    :class: toggle
+
+    - Forces involved in sediment transport
+    - Settling velocities and entrainment thresholds
+    - Types of sediment transport
+    - Sediment transport rates
+
+
+..  admonition:: Learning outcomes
+    :class: toggle
+
+    - Understand, conceptually, the processes involved in sediment transport
+    - Appreciate the role of sediment transport processes in landform development
+
 
 .. figure:: images/Hjulstromdiagram.png
    :scale: 65 %
@@ -7,6 +26,63 @@ Modes of sediment transport
    :align: center
 
    Hjulstrom diagram of sediment transport by running water
+
+
+
+Fluid flow and flow properties
+-------------------------------
+
+Much of what we understand concerning sediment transport is based on a series of fundamental concepts in fluid mechanics. Therefore to understand sediment transport, it is essential to understand the mechanics of fluid flow.
+
+.. important::
+  There are two end member ways fluids flow: 1) **laminar flow** and 2) **turbulent flow**. There is a wide gradation between these two end members, specifically **transitional** flows.
+
+  .. figure:: images/laminar-and-turbulent-boundary-layers-24.png
+    :width: 100 %
+    :alt: Different plates
+    :align: center
+
+
+**Laminar Flow** - In laminar flow, water molecules move in straight, parallel lines down current. If you add a dye to water that is in the laminar flow regime, the dye would not mix into the water; it would streak out in an approximately straight line. Laminar flow is characteristic of very slow moving, shallow water, which is uncommon in nature. It is also characteristic of flows in "fluids" that are very viscous, like glacial ice or mud flows that have little water.
+
+**Turbulent Flow** - In contrast, turbulent flow is characterised by complex motion of water (or other) molecules. Molecules move in all directions in bursts of upward, downward, and forward motion, and even some backward movement. There is abundant mixing in the flow because neighbouring molecules move in different directions, and an added dye mixes into the water very quickly. Most water and air flows are turbulent, at least to some degree. Turbulence is important for sediment transport because it makes grains easier to transport and tends to keep them moving longer.
+
+**Transitional Flow** - Transitional flows have some characteristics of laminar flow and some of turbulent flow. For example, dye may take some time to mix into the flow, but it does mix.
+
+
+
+
+Reynolds Number - The Reynolds number predicts the extent of turbulence in a fluid based on how fast the fluid is flowing, the geometry of the flow (how deep and wide it is, etc.), and the density and viscosity the of the fluid.
+
+[Viscosity is a measure of the resistance of a material to flow, i.e. how “thick” and easily deformed it is. Viscosity is sort-of like the amount of friction within a substance. Walking through air is easy, because there is not much friction between air molecules. Air has a low viscosity. Swimming is more difficult because the water drags on your body. This is due to the “friction” between adjacent water molecules, i.e. higher viscosity. Ice is more viscous and impossible to move through because of the crystal bonds between the water molecules. It flows, but it does so slowly. ]
+
+Back to the Reynolds number. The variables for the Reynolds number (Re) are: flow velocity (u), characteristic length (l) which represents flow geometry, say river depth, fluid density (ρ), and fluid viscosity (µ). The book uses µ/ρ = v (kinematic viscosity). Re = (fluid inertial forces)/(fluid viscous forces) = l*u*ρ/µ. The units for this equation are typically (length)*(length/time)*(mass/length3) / (mass/(length*time)). These all cancel out to form a unitless number, if you choose the same set of units for each variable, which you should always do.
+
+Re can be viewed as inertial forces divided by viscous forces. Inertia is the resistance to change in motion, and inertial forces tend to make a bit of the fluid keep flowing in its own direction if it is misdirected from the main flow direction. Thus, high inertial forces tend to cause more turbulence. In contrast, viscous forces tend to suppress turbulence by damping out variations in motion through friction. Thus, a flow with a high viscosity (ice) tends to have less turbulence than a low viscosity flow (air).
+
+The magnitude of Re gives an idea of whether the flow is turbulent or laminar. Turbulent flow has Re greater than 2000 and laminar flow has Re less than500. Flow with Re between 500 and 2000 is transitional and has some characteristics of laminar flow, but some turbulence as well. In most cases, water and air flows have high Re because l is large, u is high and µ is low. Rivers and wind storms are good examples of turbulent flow. In contrast, ice has a large µ and flows slowly (u is low), so it is usually laminar. Also, very thin, slow flows of water, such as water flowing off a smooth cement parking lot, has a low Re because l and u are small. Thus, it can be laminar. Laminar flow also occurs locally in turbulent flows right at the contact between the fluid and a smooth surface it is flowing over because u becomes very slow. This is really important for sediment transport, and we'll talk more about it in a few minutes.
+
+It is useful to think about which variables are important for different comparisons. When comparing ice and water, the main difference is viscosity; the viscosity of ice is >10^3 kg/(m*s) and up to more than 10^20 kg/(m*s) depending on temperature. In contrast, the viscosity of water is ~10^-3 kg/(m*s). The density of both is very close to 1000 kg/m^3. Thus, ice is almost always laminar but water is usually turbulent, although it can be laminar. When considering water flows, the flow speed and water depth are both very important. The viscosity and density change a little bit with temperature, but variations in flow speed and water depth are typically much larger effects.
+
+Images of glaciers:
+low viscosity (for a glacier): http://visibleearth.nasa.gov/view_rec.php?id=16438
+high viscosity: http://tinyurl.com/yhyrob9
+
+For air, both the density and viscosity are low, so does Re tend to be high or low? The density of dry air at 1 atm at 15°C is 1.225 kg/m3, and its viscosity is 1.8x10^-5 kg/(m*s), giving p/µ=6.8x10^5 s/m2 for air versus 1.0x10^6 s/m2 for water. Thus, air would tend to have a lower value for Re than water. However, the thickness of typical air flows (meters to 100’s of meters) promotes turbulence. p/µ for ice is 1 to 10^-17, which is why it is essentially always in a laminar flow regime.
+
+Boundary Layer - There is boundary layer at the edge of every flow. Flows have an average speed in the middle, but friction with immobile surfaces slows down the speed of the flow right at the surface. This creates a boundary layer that has different flow characteristics than the rest of the flow. Right at the surface, the water does not move, but as you go higher into the flow it starts to move more like the average flow. The area of the flow that has a reduced speed is called the boundary layer. The thickness of the boundary layer depends on Re (i.e. the amount of turbulence) and the roughness of the surface the flow is moving past. If the main water flow is very turbulent, it changes the velocity distribution because more of the high speed water is mixed down into the lower speed areas. Thus, the boundary layer tends to be thin. In less turbulent flow, there is little mixing of water from the center of the flow toward the edge of the flow, so the boundary layer tends to be thicker.
+
+Viscous/Laminar Sublayer - Within the boundary layer, right next to the surface, the laminar sublayer is present. Re=u*l*ρ/µ - remember this defines the difference between laminar and turbulent flow. Because u (water speed) is very low at the base of the boundary layer, the Re is low there and the flow is laminar. The laminar flow part of the boundary layer is called the viscous or laminar sublayer, “viscous” because the viscous effects are more important than the inertial effects. (The fluid is NOT more viscous here.) Farther up in the flow, u is higher, so the flow is typically turbulent. If grains do not extend above the top of this layer, they do not “see” much turbulence, and they are less likely to be transported. If they do stick up beyond the viscous sublayer because the viscous sublayer is thin or the grains are large, the grains feel the force of the turbulent flow.
+
+Bed roughness or the characteristics of the surface also affect the boundary layer by affecting the amount of water that has to interact with the surface. A very smooth bed, say one made of mud, does not deflect the water at all, so there is less mixing and less turbulence. There is a well developed laminar sublayer. In contrast, a bed with pebbles or boulders disrupts the direction of water flow in the boundary layer. The water gets deflected around the pebbles. Water from above tends to take its place. Since it is moving faster, the average water speed in the boundary layer increases. Thus, a rough bed reduces the thickness of the boundary layer much like a more turbulent flow does. A rough bed also disrupts the laminar sublayer by forcing the flow to move around objects. The laminar sublayer is developed locally, but in general, rough beds are very turbulent.
+
+The boundary layer in a flume:
+
+
+Sediments and Flow
+Key Concept: The boundary layer strongly affects the amount of “Bed Shear Stress” which corresponds to the forces that tend to roll particles along the bed and the pressure differences above and below grains, which tend to lift them off the bed.
+
+Bed Shear Stress - Sediments are affected by the difference in flow speeds from the bottom to the top of the boundary layer, gravity, and friction with the ground. Bed shear stress is a measure of these differences; it is the differential force that a grain feels from top to bottom. In a thick boundary layer, the speed of water flow at the top of the grains is not much different from the bottom, so bed shear stress is lower, and sediment is less likely to move. In a thin boundary layer, bed shear stress is much higher, and grains are likely to roll down flow. Thus, more turbulent flow (with a thinner boundary layer) results in more sediment transport. Bed shear stress increases with increasing fluid density, slope, and turbulence (water depth and flow speed). For example, water is better at moving sediment than air because it has a higher density and exerts a larger bed shear stress than air can. Deep, fast rivers move more sediment than shallow, slow rivers because of more turbulence and higher flow speeds in the boundary layer in fast rivers.
 
 Some definitions
 *******************
