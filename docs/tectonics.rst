@@ -32,6 +32,9 @@ Geomorphological processes are natural mechanisms of weathering, erosion, and de
 Plate tectonics refresher
 ---------------------------
 
+.. note::
+  This part of the notes is based on the book: **The Story of Earth** - An Observational Guide from Hauptvogel & Sisson (`link <https://uhlibraries.pressbooks.pub/historicalgeologylab/>`_).
+
 
 Plate tectonics is the fundamental mechanism that drives geological processes in the geosphere. Plate tectonic theory is based on an understanding of the Earth's internal structure, the different types of tectonic plates and plate boundaries, and the driving forces of plate movements. The occurrence of earthquakes and volcanoes, the distribution of different rock types, and the **Rock Cycle**, as well as the processes of mountain building, continental rifting and seafloor spreading, can be concisely explained by plate tectonic processes.
 
@@ -61,7 +64,12 @@ Lithospheric plates move around the globe in different directions and come in ma
 From continental drift to plate tectonics
 ************************************************
 
-The foundations of plate tectonics began with a German scientist named **Alfred Wegener**, who proposed the idea of **continental drift** in 1915. Think about it, 1915, what kind of evidence could someone possibly have to propose such a big idea? It turns out that Wegener had 4 pieces of evidence that he claimed supported his idea: 1) The continents looked like they fit together like pieces of a puzzle; 2) There were matching fossils on continents that were separated by oceans; 3) There were matching mountain ranges on continents that were separated by oceans; 4) There was paleoclimate evidence that suggested some continents were closer to the polar regions and some were close to the equator. Wegener took his idea one step further and proposed that all of the continents were together in one giant supercontinent 200 million years ago called Pangea. Like many great ideas in science, Wegener’s idea of continental drift was not accepted by his peers, in part because he did not have a well-developed hypothesis to explain what was causing the continents to drift. It wasn’t until the 1960’s that his idea was expanded upon by scientists like Harry Hess.
+The foundations of plate tectonics began with a German scientist named **Alfred Wegener**, who proposed the idea of **continental drift** in 1915. Think about it, 1915, what kind of evidence could someone possibly have to propose such a big idea? It turns out that Wegener had 4 pieces of evidence that he claimed supported his idea:
+
+1. The continents looked like they fit together like pieces of a puzzle;
+2. There were matching fossils on continents that were separated by oceans;
+3. There were matching mountain ranges on continents that were separated by oceans;
+4. There was paleoclimate evidence that suggested some continents were closer to the polar regions and some were close to the equator.
 
 .. raw:: html
 
@@ -70,17 +78,22 @@ The foundations of plate tectonics began with a German scientist named **Alfred 
    </div>
 
 
+Wegener took his idea one step further and proposed that all of the continents were together in one giant supercontinent 200 million years ago called Pangea. Like many great ideas in science, Wegener’s idea of continental drift was not accepted by his peers, in part because he did not have a well-developed hypothesis to explain what was causing the continents to drift. It wasn’t until the 1960’s that his idea was expanded upon by scientists like Harry Hess.
+
+
 Plate tectonics, earthquakes, and volcanoes
 ************************************************
 
 Plate tectonic boundaries are often associated with earthquakes and volcanic activity, and by looking at maps for the distribution of earthquakes and volcanoes around the world, you can interpret the boundaries between the major tectonic plates.
 
-Generally, **divergent plate boundaries** are characterised by shallow earthquakes and some volcanism. **Convergent boundaries** have a range of earthquake depths from shallow to deep, and many have volcanoes as a result of subduction. Subduction occurs in convergent boundaries where the denser, oceanic plate descends into the mantle beneath the overriding plate. Convergent boundaries also tend to produce linear and curved mountain belts. **Transform boundaries** typically have shallow earthquakes and no volcanoes.
-
 .. figure:: images/plates.png
   :width: 100 %
   :alt: Different plates
   :align: center
+
+
+Generally, **divergent plate boundaries** are characterised by shallow earthquakes and some volcanism. **Convergent boundaries** have a range of earthquake depths from shallow to deep, and many have volcanoes as a result of subduction. Subduction occurs in convergent boundaries where the denser, oceanic plate descends into the mantle beneath the overriding plate. Convergent boundaries also tend to produce linear and curved mountain belts. **Transform boundaries** typically have shallow earthquakes and no volcanoes.
+
 
 Plate movements
 -----------------
@@ -164,14 +177,15 @@ Distinction between active & passive margins
 
 An **active continental margin** is found on the leading edge of the continent where it is crashing into an oceanic plate. An excellent example is the west coast of South America. Active margins are commonly the sites of tectonic activity: earthquakes, volcanoes, mountain building, and the formation of new igneous rock. Because of the mountainous terrain, most of the rivers are fairly short, and the continental shelf is narrow to non-existent, dropping off quickly into the depths of the subduction trench.
 
-**Passive continental margins** are found along the remaining coastlines. Because there is no collision or subduction taking place, tectonic activity is minimal and the earth's weathering and erosional processes are winning. This leads to lots of low-relief (flat) land extending both directions from the beach, long river systems, and the accumulation of thick piles of sedimentary debris on the relatively wide continental shelves. Again South America provides a great example. The Amazon River, whose source is in the Andes Mountains (the active margin) drains east across the interior of South America to the coast, where it enters the Atlantic Ocean and deposits the tremendous volume of sedimentary materials it eroded from the continent. As such, passive margins are sedimentary wedges that overlie an inactive and subsiding weld between rifted continental crust and newly formed and younger oceanic crust.
-
 .. figure:: images/sedpass.png
     :width: 95 %
     :alt: Conjugate passive margins
     :align: center
 
     Conjugate passive margins overlying rifted continental margins of Uruguay in South America and Namibia in West Africa now widely separated by oceanic crust of the South Atlantic Ocean modified from GEO ExPro (2012). (a) Section showing underlying rifts overlain by passive margin of Uruguay. (b) Locations of conjugate margins in Uruguay and Namibia. (c) Seismic sections showing conjugate rift and passive margins
+
+
+**Passive continental margins** are found along the remaining coastlines. Because there is no collision or subduction taking place, tectonic activity is minimal and the earth's weathering and erosional processes are winning. This leads to lots of low-relief (flat) land extending both directions from the beach, long river systems, and the accumulation of thick piles of sedimentary debris on the relatively wide continental shelves. Again South America provides a great example. The Amazon River, whose source is in the Andes Mountains (the active margin) drains east across the interior of South America to the coast, where it enters the Atlantic Ocean and deposits the tremendous volume of sedimentary materials it eroded from the continent. As such, passive margins are sedimentary wedges that overlie an inactive and subsiding weld between rifted continental crust and newly formed and younger oceanic crust.
 
 ..  admonition:: Spreading ocean basins & passive margins
     :class: toggle
@@ -190,9 +204,14 @@ An **active continental margin** is found on the leading edge of the continent w
 Continental rifting
 *******************************************************
 
+.. note::
+  This part of the notes is based on the book: **Earth Structure** (2nd Edition), 2004 W.W. Norton & Co, New York Slide show by Ben van der Pluijm (`link <http://www.geokniga.org/bookfiles/geokniga-es2e-ch16.pdf>`_).
+
+
 
 **Continental rifting** (or simply **rifting**) is the process by which continental lithosphere undergoes regional horizontal extension. A rift or rift system is a belt of continental lithosphere that is currently undergoing extension, or underwent extension in the past. During rifting, the lithosphere stretches with a component roughly perpendicular to the trend of the rift; in an oblique rift, the stretching direction is at an acute angle to the rift trend.
 
+Geologists distinguish between **active** and **inactive** rifts, based on the timing of the extension. **Active rifts**, like the East African Rift, are places on Earth where extension currently takes place. In active rifts, an array of recent normal faults cuts the crust, earthquakes rumble with unnerving frequency, and volcanic eruptions occasionally bury the countryside in ash and lava. The faulting taking place in active rifts yields a distinctive topography characterised by the occurrence of linear ridges separated by non marine or shallow-marine sedimentary basins.
 
 .. figure:: images/rift.png
     :width: 70 %
@@ -201,8 +220,6 @@ Continental rifting
 
     Seafloor Spreading in which tectonic plates—large slabs of Earth's lithosphere—split apart from each other. Illustration by Joshua Doubek, Wikimedia. CC-BY-SA-3.0
 
-
-Geologists distinguish between **active** and **inactive** rifts, based on the timing of the extension. **Active rifts**, like the East African Rift, are places on Earth where extension currently takes place. In active rifts, an array of recent normal faults cuts the crust, earthquakes rumble with unnerving frequency, and volcanic eruptions occasionally bury the countryside in ash and lava. The faulting taking place in active rifts yields a distinctive topography characterised by the occurrence of linear ridges separated by non marine or shallow-marine sedimentary basins.
 
 In **inactive rifts**, places where extensional deformation ceased some time ago, we find inactive normal faults and thick sequences of conglomerates, evaporites, and volcanics. A preserved inactive rift can also be called an **unsuccessful rift**, in that its existence reflects the occurrence of a rifting event that stopped before it succeeded in splitting a continent in two.
 
@@ -232,6 +249,9 @@ A **successful rift** is one in which extensional deformation completely splits 
 Dynamic topography
 ---------------------------------------------------------
 
+.. note::
+  This section is based on the following paper: **The importance of dynamic topography for understanding past sea level changes** from Austermann & Forte, `Past Global Changes Magazine <https://doi.org/10.22498/pages.27.1.18>`_, vol. 27(1), 18-19, 2019.
+
 So far, we have seen that most surface topography can be explained by horizontal plate movement causing thickening and thinning (stretching) of the lithosphere. Because of the different densities and thicknesses of oceanic and  lithospheric crust, elevation should reflect the principle of **isostasy** (*e.g.* `isostatic equilibrium <https://study.com/academy/lesson/isostasy-definition-equation-examples.html>`_ of the crust or the lithosphere resting on a fluid  mantle).
 
 
@@ -239,7 +259,7 @@ However, many observations do not match up with the long-wavelength geoid. These
 corresponds to the removal of the isostatic and post-glacial rebound contributions to  topography (*i.e.* due to tectonic crustal deformation, glacial isostatic adjustment, erosion, or sediment loading).
 
 
-This missmatch with observations is induced by vertical forces arising from buoyancy-induced flow within the Earth's mantle and is named **dynamic topography**. While this process was first recognised decades ago, the full extent to which dynamic topography affects landscape evolution and interacts with the Earth climate system as a whole (e.g. ice sheets and oceans) has only recently been explored.
+This mismatch with observations is induced by vertical forces arising from buoyancy-induced flow within the Earth's mantle and is named **dynamic topography**. While this process was first recognised decades ago, the full extent to which dynamic topography affects landscape evolution and interacts with the Earth climate system as a whole (e.g. ice sheets and oceans) has only recently been explored.
 
 .. figure:: images/dt1.png
    :width: 95 %
@@ -267,11 +287,10 @@ While convection extends from the lithosphere to the core-mantle boundary, sensi
 Present-day dynamic topography
 ************************************************
 
-
 Estimates of present-day dynamic topography can be obtained by removing the crustal isostatic effect from the observed topography, which requires knowledge of the crustal thickness and density, as well as overlying sediment, water, and ice loads. Global estimates of dynamic topography reveal large-scale undulations with magnitudes that exceed 2 km. Within the oceans, a detailed assessment has shown that the sub-lithospheric contribution to dynamic topography has a magnitude that ranges from approx. -1.5 km (Australia-Antarctic discordance) to 2 km (around Iceland) and can have steep lateral gradients (e.g. 1 km of dynamic topography change over a lateral distance of 1000 km along the West African Margin; Hoggard et al. 2016).
 
 .. figure:: images/dt2.png
-   :width: 75 %
+   :width: 83 %
    :alt: present-day global dynamic topography
    :align: center
 
@@ -297,4 +316,12 @@ Changes in dynamic topography can be deduced from a variety of geological and ge
 
 
 Australian landscape evolution since the Jurassic
----------------------------------------------------------------------
+***************************************************
+
+.. raw:: html
+
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" height="380" src="https://www.youtube.com/embed/v-b1nM0RbOs?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+Australia is an outstanding natural laboratory to study the influence of dynamic topography on landscape evolution, having been largely unaffected by tectonic deformation since the Jurassic. Recent studies of the past eastern Australian landscape from present-day longitudinal river profiles and from mantle flow models suggest that the interaction of plate motion with mantle convection accounts for the two phases of large-scale uplift of the region since 120 Ma. In this video, I present how we coupled the dynamic topography predicted by one of these mantle flow models to a surface process model to quantify the feedbacks between mantle flow, landscape dynamics and sediment transport at continental scale over the last 150 Ma.
