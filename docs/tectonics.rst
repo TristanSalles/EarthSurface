@@ -245,6 +245,11 @@ A **successful rift** is one in which extensional deformation completely splits 
     `Link to A/Prof Patrice Rey <http://www.geosci.usyd.edu.au/users/prey/ACSGT/EReports/eR.2003/GroupB/Report1/models.html>`_ pure and simple shear model explanations.
 
 
+..  admonition:: Questions to explore
+  :class: toggle
+
+  1. Using the `gPlate web Portal Age Grid <https://portal.gplates.org/cesium/?view=AgeGrid>`_, visualise the evolution of the oceanic lithosphere age over the last 240 Ma.
+  2. Using the `gPlate web Portal Rift Velocity <https://portal.gplates.org/cesium/?view=rift_v>`_, evaluate the different phase of rifting and their velocities around Australia over the last 240 Ma from the Pangea breakup to present.
 
 Dynamic topography
 ---------------------------------------------------------
