@@ -1,10 +1,6 @@
 Tectonics, passive margins & dynamic topography
 =================================================
 
-Preamble
-----------------------
-
-
 ..  admonition:: Chapter structure
     :class: toggle
 
@@ -233,8 +229,47 @@ A **successful rift** is one in which extensional deformation completely splits 
 
 
 
-Mantle-driven tectonic / dynamic topography
+Dynamic topography
 ---------------------------------------------------------
+
+So far, we have seen that most surface topography can be explained by horizontal plate movement causing thickening and thinning (stretching) of the lithosphere. Because of the different densities and thicknesses of oceanic and  lithospheric crust, elevation should reflect the principle of **isostasy** (*e.g.* `isostatic equilibrium <https://study.com/academy/lesson/isostasy-definition-equation-examples.html>`_ of the crust or the lithosphere resting on a fluid  mantle).
+
+
+However, many observations do not match up with the long-wavelength geoid. These observations suggest the presence of a **residual topography**. This residual topography
+corresponds to the removal of the isostatic and post-glacial rebound contributions to  topography (*i.e.* due to tectonic crustal deformation, glacial isostatic adjustment, erosion, or sediment loading).
+
+
+This missmatch with observations is induced by vertical forces arising from buoyancy-induced flow within the Earth's mantle and is named **dynamic topography**. While this process was first recognised decades ago, the full extent to which dynamic topography affects landscape evolution and interacts with the Earth climate system as a whole (e.g. ice sheets and oceans) has only recently been explored.
+
+.. figure:: images/dt1.png
+   :width: 95 %
+   :alt: Becker and Faccenna
+   :align: center
+
+   Three-dimensional view of the conveyor belt beneath India (Becker and Faccenna, 2011). Mantle flow pushes Earth's surface up or drags it down, causing kilometer-scale topographic anomalies.
+
+Definition of mantle dynamic topography
+************************************************
+
+Today's surface topography is shaped by crustal isostasy, in which, for example, crustal roots support mountain belts, and dynamic topography, which is driven by stresses in the sub-crustal mantle that are caused by (shallow) isostatic and (deeper) flow-driven contributions (Forte et al. 1993). Both of these components evolve with time as lateral density variations in the sub-crustal mantle convect and cool the rocky mantle. This leads to spatio-temporal changes in dynamic topography that contribute to the evolution of Earth's surface.
+
+While convection extends from the lithosphere to the core-mantle boundary, sensitivity studies reveal that density heterogeneity in the shallow mantle (e.g. the lithosphere and asthenosphere) contributes most to the overall topographic signal (Forte et al. 2015). The definition of dynamic topography used here includes the topographic signature of the lithosphere (e.g. cooling and subsidence of the oceanic lithosphere), as it constitutes the upper thermal-boundary layer of Earth's convective interior. However, it is important to note that a lithospheric signal is sometimes removed from models or observations in order to investigate sub-lithospheric or deep-mantle drivers of surface topography.
+
+Present-day dynamic topography
+************************************************
+
+
+Estimates of present-day dynamic topography can be obtained by removing the crustal isostatic effect from the observed topography, which requires knowledge of the crustal thickness and density, as well as overlying sediment, water, and ice loads. Global estimates of dynamic topography reveal large-scale undulations with magnitudes that exceed 2 km (Forte et al. 2015). Within the oceans, a detailed assessment has shown that the sub-lithospheric contribution to dynamic topography has a magnitude that ranges from approx. -1.5 km (Australia-Antarctic discordance) to 2 km (around Iceland) and can have steep lateral gradients (e.g. 1 km of dynamic topography change over a lateral distance of 1000 km along the West African Margin; Hoggard et al. 2016).
+
+These observations of dynamic topography can be used to improve numerical models of mantle convection and understand the dynamics of the Earth's interior. Models of present-day mantle convection require an input density field of the Earth's interior (estimated from seismic tomography), a rheological constitutive equation that describes the relationship between deformation and stress, and boundary conditions, which govern the tangential stresses at the surface and core-mantle boundary. Assuming conservation of mass and momentum, one can determine the instantaneous velocity and dynamic stress fields (Forte et al. 2015). The resulting dynamic topography is calculated by balancing radial stresses at the Earth's surface (Fig. 1). Current mantle convection models provide satisfactory fits to the present-day observations of dynamic topography and gravity anomalies (Simmons et al. 2010); however, debate over the largest and small-scale features still exists (Hoggard et al. 2016).
+
+Changes of dynamic topography
+************************************************
+
+To understand the role of dynamic topography in sea-level reconstructions, we are interested in the temporal evolution of dynamic topography, rather than its absolute (present-day) value. Importantly, present-day amplitudes do not provide information on the change of dynamic topography through time. For example, locations that are dynamically supported today are equally likely to be uplifting or subsiding.
+
+Changes in dynamic topography can be deduced from a variety of geological and geomorphological data. For example, a careful analysis of stratigraphy from onshore and offshore Australia indicates changes in dynamic topography (subsidence) of up to 75 m/Myr on the Northwest Shelf (Czarnota et al. 2013). Paleo shorelines from the US east coast, Australia, and South Africa indicate rates of uplift of up to 20 m/Myr (Rovere et al. 2014). Model-derived estimates of the rate of change in dynamic topography can vary from a few meters per million years (Flament et al. 2013) up to over 100 m per million years (Rowley et al. 2013; Austermann et al. 2017) depending on the model input parameters, particularly the viscosity structure, magnitude of density perturbations, and whether density variations in the asthenosphere and lithosphere are considered.
+
 
 
 
