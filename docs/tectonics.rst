@@ -168,8 +168,14 @@ Distinction between active & passive margins
 
 An **active continental margin** is found on the leading edge of the continent where it is crashing into an oceanic plate. An excellent example is the west coast of South America. Active margins are commonly the sites of tectonic activity: earthquakes, volcanoes, mountain building, and the formation of new igneous rock. Because of the mountainous terrain, most of the rivers are fairly short, and the continental shelf is narrow to non-existent, dropping off quickly into the depths of the subduction trench.
 
-**Passive continental margins** are found along the remaining coastlines. Because there is no collision or subduction taking place, tectonic activity is minimal and the earth's weathering and erosional processes are winning. This leads to lots of low-relief (flat) land extending both directions from the beach, long river systems, and the accumulation of thick piles of sedimentary debris on the relatively wide continental shelves. Again South America provides a great example. The Amazon River, whose source is in the Andes Mountains (the active margin) drains east across the interior of South America to the coast, where it enters the Atlantic Ocean and deposits the tremendous volume of sedimentary materials it eroded from the continent.
+**Passive continental margins** are found along the remaining coastlines. Because there is no collision or subduction taking place, tectonic activity is minimal and the earth's weathering and erosional processes are winning. This leads to lots of low-relief (flat) land extending both directions from the beach, long river systems, and the accumulation of thick piles of sedimentary debris on the relatively wide continental shelves. Again South America provides a great example. The Amazon River, whose source is in the Andes Mountains (the active margin) drains east across the interior of South America to the coast, where it enters the Atlantic Ocean and deposits the tremendous volume of sedimentary materials it eroded from the continent. As such, passive margins are sedimentary wedges that overlie an inactive and subsiding weld between rifted continental crust and newly formed and younger oceanic crust.
 
+.. figure:: images/sedpass.png
+    :width: 95 %
+    :alt: Conjugate passive margins
+    :align: center
+
+    Conjugate passive margins overlying rifted continental margins of Uruguay in South America and Namibia in West Africa now widely separated by oceanic crust of the South Atlantic Ocean modified from GEO ExPro (2012). (a) Section showing underlying rifts overlain by passive margin of Uruguay. (b) Locations of conjugate margins in Uruguay and Namibia. (c) Seismic sections showing conjugate rift and passive margins
 
 ..  admonition:: Spreading ocean basins & passive margins
     :class: toggle
@@ -181,8 +187,8 @@ An **active continental margin** is found on the leading edge of the continent w
         :align: center
 
         Passive continental margins are adjacent to spreading ocean basins (*e.g.* Africa/SE America; W Europe/NE America; Antartica/S Australia;  India/W Australia; SE Australia/New Zealand). As shown here, the relative ages of sea floor rocks are oldest away from the ridge. This supports the idea that the sea floor is spreading away from the ridge.
-        
-    Passive margins are one of the main stages in the Wilson cycle of ocean opening and their ages, and ages of deformation are key indicators of the timing of ocean openings and closings through geologic time. Passive margins are sedimentary wedges that overlie an inactive and subsiding weld between rifted continental crust and newly formed and younger oceanic crust.
+
+    Passive margins are one of the main stages in the Wilson cycle of ocean opening and their ages, and ages of deformation are key indicators of the timing of ocean openings and closings through geologic time.
 
 
 Continental rifting and break-up
