@@ -94,11 +94,35 @@ Geologists can observe most of the processes occurring at plate tectonic boundar
 Hence, geologists use processes that occur in the present to interpret processes that occurred in the past. This is known as **uniformitarianism**. One way geologists can interpret ancient plate tectonic activity is to look at the topography of an area (via satellite imagery, topographic maps, shaded relief maps, and digital elevation models).
 
 
+..  admonition:: Divergent boundary and topography
+    :class: toggle
+
+    .. figure:: images/divergent.png
+        :width: 100 %
+        :alt: Divergent
+        :align: center
+
+        Divergent boundaries are associated with zones of tension, they are constructive and contains normal faults as well as mid-ocean ridges, rift and valleys.
+
+    Divergent boundaries are places where plates pull apart from each other. This occurs above rising convection currents. The rising current pushes up on the bottom of the lithosphere, lifting it and flowing laterally beneath it. This lateral flow causes the plate material above to be dragged along in the direction of flow. At the crest of the uplift, the overlying plate is stretched thin, breaks and pulls apart.
+
+    When a divergent boundary occurs beneath oceanic lithosphere, the rising convection current below lifts the lithosphere, producing a mid-ocean ridge. Effects that are found at a divergent boundary between oceanic plates include: a submarine mountain range such as the Mid-Atlantic Ridge; volcanic activity in the form of fissure eruptions; shallow earthquake activity; creation of new seafloor and a widening ocean basin.
+
+    When a divergent boundary occurs beneath a thick continental plate, the pull-apart is not vigorous enough to create a clean, single break through the thick plate material. Here the thick continental plate is arched upwards from the convection current's lift, pulled thin by extensional forces, and fractured into a rift-shaped structure. Effects that are found at this type of plate boundary include: a rift valley sometimes occupied by long linear lakes or a shallow arm of the ocean; numerous normal faults bounding a central rift valley; shallow earthquake activity along the normal faults. Volcanic activity sometimes occurs within the rift.
+
+    .. figure:: images/Uraltopomap-1.jpg
+       :width: 70 %
+       :alt: Ural mountains
+       :align: center
+
+       The Ural Mountains in Russia were created during a continent-continent collision in convergent mode. They formed during an orogeny 240 to 300 million years ago and now serve as the boundary between Europe and Asia.
+
+
 ..  admonition:: Convergent boundary and topography
     :class: toggle
 
     .. figure:: images/convergent.png
-        :width: 70 %
+        :width: 100 %
         :alt: Convergent
         :align: center
 
