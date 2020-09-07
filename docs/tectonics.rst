@@ -94,6 +94,14 @@ Geologists can observe most of the processes occurring at plate tectonic boundar
 Hence, geologists use processes that occur in the present to interpret processes that occurred in the past. This is known as **uniformitarianism**. One way geologists can interpret ancient plate tectonic activity is to look at the topography of an area (via satellite imagery, topographic maps, shaded relief maps, and digital elevation models).
 
 
+.. figure:: images/platemvt.png
+    :width: 65 %
+    :alt: Plate types
+    :align: center
+
+
+When most people think about tectonic plate boundaries, they often visualise parallel, symmetric lines separating the plates. This is not always the case in the real world as many plate boundaries are curved or segmented. There are other factors that affect the shape of a boundary. Evidence of these plate boundaries are contained in the topography of continents.
+
 ..  admonition:: Divergent boundary and topography
     :class: toggle
 
@@ -109,13 +117,6 @@ Hence, geologists use processes that occur in the present to interpret processes
     When a divergent boundary occurs beneath oceanic lithosphere, the rising convection current below lifts the lithosphere, producing a mid-ocean ridge. Effects that are found at a divergent boundary between oceanic plates include: a submarine mountain range such as the Mid-Atlantic Ridge; volcanic activity in the form of fissure eruptions; shallow earthquake activity; creation of new seafloor and a widening ocean basin.
 
     When a divergent boundary occurs beneath a thick continental plate, the pull-apart is not vigorous enough to create a clean, single break through the thick plate material. Here the thick continental plate is arched upwards from the convection current's lift, pulled thin by extensional forces, and fractured into a rift-shaped structure. Effects that are found at this type of plate boundary include: a rift valley sometimes occupied by long linear lakes or a shallow arm of the ocean; numerous normal faults bounding a central rift valley; shallow earthquake activity along the normal faults. Volcanic activity sometimes occurs within the rift.
-
-    .. figure:: images/Uraltopomap-1.jpg
-       :width: 70 %
-       :alt: Ural mountains
-       :align: center
-
-       The Ural Mountains in Russia were created during a continent-continent collision in convergent mode. They formed during an orogeny 240 to 300 million years ago and now serve as the boundary between Europe and Asia.
 
 
 ..  admonition:: Convergent boundary and topography
@@ -137,6 +138,22 @@ Hence, geologists use processes that occur in the present to interpret processes
        :align: center
 
        The Ural Mountains in Russia were created during a continent-continent collision in convergent mode. They formed during an orogeny 240 to 300 million years ago and now serve as the boundary between Europe and Asia.
+
+
+..  admonition:: Transform boundary and topography
+    :class: toggle
+
+    Transform Plate Boundaries are locations where two plates slide past one another. The fracture zone that forms a transform plate boundary is known as a transform fault. Most transform faults are found in the ocean basin and connect offsets in the mid-ocean ridges. A smaller number connect mid-ocean ridges and subduction zones.
+
+    A smaller number of transform faults cut continental lithosphere. The most famous example of this is the San Andreas Fault Zone of western North America. The San Andreas connects a divergent boundary in the Gulf of California with the Cascadia subduction zone. Another example of a transform boundary on land is the Alpine Fault of New Zealand.
+
+    .. figure:: images/NZ.jpg
+      :width: 70 %
+      :alt: NZ mountains
+      :align: center
+
+      The Southern Alps rise dramatically beside the Alpine Fault on New Zealand's West Coast. About 500 kilometres long; northwest at top.
+
 
 Distinction between active & passive margins
 ---------------------------------------------------------
