@@ -97,7 +97,7 @@ Geologists can observe most of the processes occurring at plate tectonic boundar
 Hence, geologists use processes that occur in the present to interpret processes that occurred in the past. This is known as **uniformitarianism**. One way geologists can interpret ancient plate tectonic activity is to look at the topography of an area (via satellite imagery, topographic maps, shaded relief maps, and digital elevation models).
 
 .. figure:: images/platemvt.png
-    :width: 85 %
+    :width: 100 %
     :alt: Plate types
     :align: center
 
@@ -172,7 +172,7 @@ An **active continental margin** is found on the leading edge of the continent w
 
 
 Continental rifting and break-up
----------------------------------------------------------
+*******************************************************
 
 
 Mantle-driven tectonic / dynamic topography
