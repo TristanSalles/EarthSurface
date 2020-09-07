@@ -221,9 +221,16 @@ A **successful rift** is one in which extensional deformation completely splits 
       :alt: pure and simple shear
       :align: center
 
-      Pure shear rift model (left side) and simple shear rift model (right side) and their predictions for the interpretation of the Campos–Angola rifted margins. The line drawing shows the Campos–Angola rift system as imaged in seismic sections. The two models represent idealised and simplified models that permit to discuss the major predictions for the evolution and final structure of the South Atlantic hyper-extended rift system (from Unternehr et al., 2010).
+      Pure shear rift model (left side) and simple shear rift model (right side). The two models represent idealised and simplified models that permit to discuss the major predictions for the evolution and final structure of the South Atlantic hyper-extended rift system (from Unternehr et al., 2010).
+
+
+    In the pure-shear model, the crustal and lithospheric extension during rifting is uniform and symmetrical. The rifting is perpendicular to the rift axis and stretches across the upper and lower crust. Faulting and deformation  occurs in upper brittle crust. In this model, there is a rapid subsidence associated with initial stretching. Subsequently, subsidence slows down as lithosphere extends away from the thermal anomaly.
+
+    The simple-shear model suggests that lithospheric extension is governed by a major shallow dipping normal fault that cuts completely through the crust. The model is asymmetrical with non-uniform deformation of the crust and the creation of an upper plate/lower plate model of rifting. Faulting occurs in brittle crust of upper plate (domino effect). The lower plate side is more ductile with less deformation.
+
 
     `Link to A/Prof Patrice Rey <http://www.geosci.usyd.edu.au/users/prey/ACSGT/EReports/eR.2003/GroupB/Report1/models.html>`_ pure and simple shear model explanations.
+
 
 
 Mantle-driven tectonic / dynamic topography
