@@ -191,8 +191,27 @@ An **active continental margin** is found on the leading edge of the continent w
     Passive margins are one of the main stages in the Wilson cycle of ocean opening and their ages, and ages of deformation are key indicators of the timing of ocean openings and closings through geologic time.
 
 
-Continental rifting and break-up
+Continental rifting
 *******************************************************
+
+
+**Continental rifting** (or simply **rifting**) is the process by which continental lithosphere undergoes regional horizontal extension. A rift or rift system is a belt of continental lithosphere that is currently undergoing extension, or underwent extension in the past. During rifting, the lithosphere stretches with a component roughly perpendicular to the trend of the rift; in an oblique rift, the stretching direction is at an acute angle to the rift trend.
+
+
+.. figure:: images/rift.png
+    :width: 95 %
+    :alt: Active versus passive margins
+    :align: center
+
+    Seafloor Spreading in which tectonic plates—large slabs of Earth's lithosphere—split apart from each other. Illustration by Joshua Doubek, Wikimedia. CC-BY-SA-3.0
+
+
+Geologists distinguish between **active** and **inactive** rifts, based on the timing of the extension. **Active rifts**, like the East African Rift, are places on Earth where extension currently takes place. In active rifts, an array of recent normal faults cuts the crust, earthquakes rumble with unnerving frequency, and volcanic eruptions occasionally bury the countryside in ash and lava. The faulting taking place in active rifts yields a distinctive topography characterised by the occurrence of linear ridges separated by non marine or shallow-marine sedimentary basins.
+
+In **inactive rifts**, places where extensional deformation ceased some time ago, we find inactive normal faults and thick sequences of conglomerates, evaporites, and volcanics. A preserved inactive rift can also be called an **unsuccessful rift**, in that its existence reflects the occurrence of a rifting event that stopped before it succeeded in splitting a continent in two.
+
+A **successful rift** is one in which extensional deformation completely splits a continent into two pieces. When this happens a new mid-ocean ridge (oceanic spreading center) forms between the now separate continent fragments, and seafloor spreading produces new oceanic lithosphere. Typically, 20 to 60 million years pass between inception of a rift and the time (called the rift–drift transition) at which active rift faulting ceases and seafloor spreading begins. Once active faulting ceases in a successful rift, the relicts of the rift underlie the continental margins on either side of a new ocean basin. Since no tectonic activity happens along such continental margins after they have formed, we refer to them as **passive margins** as discussed above.
+
 
 
 Mantle-driven tectonic / dynamic topography
