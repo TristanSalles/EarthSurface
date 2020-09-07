@@ -315,13 +315,26 @@ To understand the role of dynamic topography in Earth surface evolution, scienti
 Changes in dynamic topography can be deduced from a variety of geological and geomorphological data. For example, a careful analysis of stratigraphy from onshore and offshore Australia indicates changes in dynamic topography (subsidence) of up to 75 m/Myr on the Northwest Shelf (Czarnota et al. 2013). Paleo shorelines from the US east coast, Australia, and South Africa indicate rates of uplift of up to 20 m/Myr (Rovere et al. 2014). Model-derived estimates of the rate of change in dynamic topography can vary from a few meters per million years (Flament et al. 2013) up to over 100 m per million years (Rowley et al. 2013; Austermann et al. 2017) depending on the model input parameters, particularly the viscosity structure, magnitude of density perturbations, and whether density variations in the asthenosphere and lithosphere are considered.
 
 
+..  admonition:: Questions to explore
+    :class: toggle
+
+    Using the `gPlate web Portal <https://portal.gplates.org/portal/dynamic_topography/>`_, you will look at the dynamic topography evolution over the Australian continent. The dynamic topography models you will visualise are from the paper from Muller et al., 2016: **Formation of Australian continental margin highlands driven by plate-mantle interaction**, `EPSL <http://dx.doi.org/10.1016/j.epsl.2016.02.025>`_. Click on the **check out model button** and select **Model 2** ( Muller et al. 2016). In the Longitude/Latitude cells set the coordinates to be within Australia (like 145/-30 for example) and click the show profile button. Alternatively you can move the globe and click on a point in Australia. You can also visualise the evolution of the dynamic topography through time with the slider bar on top of the screen.
+
+    + How many episodes of subsidence and/or uplift related to dynamic topography is shown on the profile over the last 150 Ma.
+    + Do you have similar trends with model 3 and model 4?
+
+
 Australian landscape evolution since the Jurassic
 ***************************************************
+
+
+Australia is an outstanding natural laboratory to study the influence of dynamic topography on landscape evolution, having been largely unaffected by tectonic deformation since the Jurassic. Recent studies of the past eastern Australian landscape from present-day longitudinal river profiles and from mantle flow models suggest that the interaction of plate motion with mantle convection accounts for the two phases of large-scale uplift of the region since 120 Ma.
+
+
+In this video, I present how we coupled the dynamic topography predicted by one of these mantle flow models to a surface process model to quantify the feedbacks between mantle flow, landscape dynamics and sediment transport at continental scale over the last 150 Ma.
 
 .. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
     <iframe width="100%" height="380" src="https://www.youtube.com/embed/v-b1nM0RbOs?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
-
-Australia is an outstanding natural laboratory to study the influence of dynamic topography on landscape evolution, having been largely unaffected by tectonic deformation since the Jurassic. Recent studies of the past eastern Australian landscape from present-day longitudinal river profiles and from mantle flow models suggest that the interaction of plate motion with mantle convection accounts for the two phases of large-scale uplift of the region since 120 Ma. In this video, I present how we coupled the dynamic topography predicted by one of these mantle flow models to a surface process model to quantify the feedbacks between mantle flow, landscape dynamics and sediment transport at continental scale over the last 150 Ma.
