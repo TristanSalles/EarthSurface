@@ -15,7 +15,15 @@ Preamble
     - Dynamic topography theory
     - Eastern Highlands evolution Australia
 
-Geomorphological processes are natural mechanisms of weathering, erosion, and deposition that result in the modification of the surficial materials and landforms at the Earth’s surface. The landforms that are found on the surface of the Earth are tectonic landforms, _e.g._  landforms that are created by massive Earth movements due to plate tectonics and mantle convection. This includes landforms with some of the following geomorphic features: fold mountains, rift valleys, volcanoes, and weathering landforms created by the physical or chemical decomposition of rock through weathering.
+Geomorphological processes are natural mechanisms of weathering, erosion, and deposition that result in the modification of the surficial materials and landforms at the Earth’s surface. The landforms that are found on the surface of the Earth are tectonic landforms, *e.g.*  landforms that are created by massive Earth movements due to plate tectonics and mantle convection. This includes landforms with some of the following geomorphic features: fold mountains, rift valleys, volcanoes, and weathering landforms created by the physical or chemical decomposition of rock through weathering.
+
+
+.. figure:: images/tecgeo.png
+   :scale: 10 %
+   :alt: Tectonically driven geomorphic landscapes
+   :align: center
+
+   Tectonics strongly influence the genesis of geomorphic landscapes. Tectonic (**endogenic**) processes provide the input for landform creation, denudational (**exogenic**) processes create the output.
 
 ..  admonition:: Learning outcomes
     :class: toggle
@@ -29,9 +37,10 @@ Plate tectonics refresher
 ---------------------------
 
 
-Plate tectonics is the fundamental mechanism that drives geological processes in the geosphere. Plate tectonic theory is based on an understanding of the Earth's internal structure, the different types of tectonic plates and plate boundaries, and the driving forces of plate movements. The occurrence of earthquakes and volcanoes, the distribution of different rock types, and the Rock Cycle, as well as the processes of mountain building, continental rifting and seafloor spreading, can be concisely explained by plate tectonic processes.
+Plate tectonics is the fundamental mechanism that drives geological processes in the geosphere. Plate tectonic theory is based on an understanding of the Earth's internal structure, the different types of tectonic plates and plate boundaries, and the driving forces of plate movements. The occurrence of earthquakes and volcanoes, the distribution of different rock types, and the **Rock Cycle**, as well as the processes of mountain building, continental rifting and seafloor spreading, can be concisely explained by plate tectonic processes.
 
-Tectonic plates are composed of Earth’s crust and the uppermost, rigid portion of the mantle. Together they are called the lithosphere. Earth’s crust comes in 2 _flavours_: **oceanic** and **continental**.
+
+Tectonic plates are composed of Earth’s crust and the uppermost, rigid portion of the mantle. Together they are called the lithosphere. Earth’s crust comes in 2 *flavours*: **oceanic** and **continental**.
 
 .. figure:: images/crust.png
    :scale: 35 %
