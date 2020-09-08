@@ -49,8 +49,6 @@ Much of what we understand concerning sediment transport is based on a series of
 
 **Transitional Flow** - Transitional flows have some characteristics of laminar flow and some of turbulent flow. For example, dye may take some time to mix into the flow, but it does mix.
 
-
-
 Reynolds Number
 ************************************************
 
@@ -74,7 +72,7 @@ The numerator of the above equation denotes the inertial forces. **Inertia is th
 
 
 .. figure:: images/Flow-Regime.png
-   :width: 53 %
+   :width: 83 %
    :alt: Laminar and Turbulent
    :align: center
 
@@ -96,7 +94,7 @@ Boundary Layer
 .. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="100%" height="380" src="https://www.youtube.com/embed/cUTkqZeiMow?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="80%" height="300" src="https://www.youtube.com/embed/cUTkqZeiMow?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
 
