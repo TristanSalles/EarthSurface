@@ -222,7 +222,7 @@ Erosional landforms are formed by removing material from the bedrock. The intern
 
 Since glaciers are typically much wider than rivers of similar length, and since they tend to erode more at their bases than their sides, they transform former **V-shaped stream valleys** into broad valleys that have relatively flat bottoms and steep sides with a **distinctive “U” shape**. The animated figure below illustrates the formation of a glacial valley - Glaciers change the shape of the valley from a “V” shape to a “U” (bBy Cecilia Bernal [CC BY-SA 4.0], via Wikimedia Commons).
 
-.. image:: images/Glacier_Valley_formation-_Formación_Valle_glaciar.gif
+.. image:: images/Glacier_Valley.gif
 
 When two U-shaped valleys are adjacent to each other, the ridge between them can be carved into a sharp ridge called an **arête**.
 
@@ -232,7 +232,7 @@ When two U-shaped valleys are adjacent to each other, the ridge between them can
    :alt: Erosional glacial feature
    :align: center
 
-   Example of erosional glacier landscapes.
+   Examples of erosional glacier landscapes.
 
 Since glaciers erode a broad valley, the arêtes are left behind with steep walls separating them. At the head of a glacially carved valley is a a bowl-shaped feature called a **cirque** representing where the head of the glacier is eroding against the mountain by plucking rock away from it and the weight of the thick ice is eroding out a bowl.
 
