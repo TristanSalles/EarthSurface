@@ -228,7 +228,7 @@ When two U-shaped valleys are adjacent to each other, the ridge between them can
 
 
 .. figure:: images/eroglac.png
-   :width: 85 %
+   :width: 100 %
    :alt: Erosional glacial feature
    :align: center
 
@@ -249,6 +249,7 @@ Depositional glacial landforms
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Characteristic depositional landscapes are produced when the ice melts and retreats and leaves behind these sediments with distinct shapes and compositions.
+
 .. raw:: html
 
   <iframe src="https://opengeology.org/textbook/wp-admin/admin-ajax.php?action=h5p_embed&id=9" width="838" height="417" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://opengeology.org/textbook/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
