@@ -49,10 +49,11 @@ B- Quantitative approach to geomorphology
    :caption: Tectonic geomorphology
 
    tectonics
-   landform
    sedtransport
+   landform
    hillslope
    fluvial
+   glacial
 
 
 C- Source-to-sink systems and stratigraphy
