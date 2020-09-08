@@ -189,10 +189,17 @@ Valley glaciers move (on average) at 10-200 m per year. In comparison, ice sheet
 Glaciers landforms
 ************************************************
 
-
+Glacial landforms are of two kinds, erosional and depositional landforms. Erosional landforms are formed by removing material. The internal pressure and movement within glacial ice causes some melting and glaciers slide over bedrock on a thin film of water. Glacial ice also contains a large amount of sediment such as sand, gravel, and boulders. Together, the movement plucks off bedrock and grinds the bedrock producing a polished surface and fine sediment called rock flour as well as other poorly-sorted sediments. Characteristic depositional landscapes are produced when the ice melts and retreats and leaves behind these sediments with distinct shapes and compositions. Because glaciers are among the earliest geological processes studied by geologists whose studies were in Europe, the terminology applied to glaciers and glacial features contains many terms from European languages.
 
 Erosional glacial landforms
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. figure:: images/glacero.png
+   :width: 85 %
+   :alt: Becker and Faccenna
+   :align: center
+
 
 .. raw:: html
 
@@ -205,7 +212,7 @@ Depositional glacial landforms
 .. raw:: html
 
   <iframe src="https://opengeology.org/textbook/wp-admin/admin-ajax.php?action=h5p_embed&id=9" width="838" height="417" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://opengeology.org/textbook/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
-  
+
 
 Glaciomarine processes
 ------------------------------
