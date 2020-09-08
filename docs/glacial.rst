@@ -145,8 +145,6 @@ Glacial processes
 Glacier formation
 ************************************************
 
-.. image:: images/glacier.gif
-
 Three conditions are necessary to form a glacier:
 
 1. Cold local climate (polar latitudes or high elevation);
@@ -157,8 +155,9 @@ Glaciers can only form at latitudes or elevations above the **snowline**, which 
 
 Glaciers form in these areas if the snow becomes compacted, forcing out the air between the snowflakes. As compaction occurs, the weight of the overlying snow causes the snow to recrystallise and increase its grain-size, until it increases its density and becomes a solid block of ice. In some cases, small air pockets remain trapped in the ice and form a record of the past atmosphere
 
+.. image:: images/glacier.gif
 
-The animated figure above shows how a glacier can change its size by:
+The above animated figure from `OGGM-Edu <https://edu.oggm.org/en/latest/index.html>`_ shows how a glacier can change its size by:
 
 - **accumulation**, which occurs by addition of snowfall, compaction and recrystallisation, and
 - **ablation**, the loss of mass resulting from melting, usually at lower altitude, where temperatures may rise above freezing point in summer.
