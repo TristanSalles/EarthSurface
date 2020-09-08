@@ -25,7 +25,7 @@ Fluid flow and flow properties
 -------------------------------
 
 .. note::
-  This section is based on the lecture by Dawn Sumner from UC Davies: `**Walther's Law and Fluid Flow** <http://dawnssedstrat.blogspot.com/2011/01/lecture-2-walthers-law-and-fluid-flow.html>`_.
+  This section is based on the lecture by Dawn Sumner from UC Davies: `Walther's Law and Fluid Flow <http://dawnssedstrat.blogspot.com/2011/01/lecture-2-walthers-law-and-fluid-flow.html>`_.
 
 
 Flow types
@@ -58,31 +58,42 @@ Reynolds Number
 
   The **Reynolds number** predicts the extent of turbulence in a fluid based on how fast the fluid is flowing, the geometry of the flow (how deep and wide it is, *etc.*), and the density and viscosity the of the fluid. The number is **dimensionless** and represents the ratio between **fluid inertial forces** and **fluid viscous forces**.
 
-..  admonition:: Viscosity
+..  admonition:: What is viscosity?
     :class: toggle, note
 
-    Viscosity is a measure of the resistance of a material to flow, *i.e.* how **thick** and easily deformed it is. Viscosity is sort-of like the amount of friction within a substance. Walking through air is easy, because there is not much friction between air molecules. Air has a low viscosity. Swimming is more difficult because the water drags on your body. This is due to the **friction** between adjacent water molecules, *i.e.* higher viscosity.
+    Viscosity is a measure of the resistance of a material to flow, *i.e.* how **thick** and easily deformed it is. Viscosity is sort-of like the amount of friction within a substance. Walking through air is easy, because there is not much friction between air molecules. Air has a low viscosity. Swimming is more difficult because the water drags on your body. This is due to the **friction** between adjacent water molecules, *i.e.* higher viscosity. The viscosity of ice is > :math:`10^3` kg/(m*s) and up to more than :math:`10^20` kg/(m*s) depending on temperature. In contrast, the viscosity of water is approx. :math:`10^{-3}` kg/(m*s).
 
-The variables for the Reynolds number (:math:`Re`) are: flow velocity (:math:`u`), characteristic length (:math:`l`) which represents flow geometry, like the river depth, fluid density (:math:`\rho`), and fluid viscosity (:math:`\mu` in general the kinematic viscosity is preferred in the equation definition :math:`\nu=\mu / \rho`). 
+The variables for the Reynolds number (:math:`Re`) are: flow velocity (:math:`u`), characteristic length (:math:`l`) which represents flow geometry, like the river depth, fluid density (:math:`\rho`), and fluid viscosity (:math:`\mu` in general the kinematic viscosity is preferred in the equation definition :math:`\nu=\mu / \rho`).
 
 .. math::
 
-   Re = \frac{ l \times u}{\nu}
+   Re = \frac{ l u}{\nu}
 
 
-:math:`Re` can be viewed as inertial forces divided by viscous forces. Inertia is the resistance to change in motion, and inertial forces tend to make a bit of the fluid keep flowing in its own direction if it is misdirected from the main flow direction. Thus, high inertial forces tend to cause more turbulence. In contrast, viscous forces tend to suppress turbulence by damping out variations in motion through friction. Thus, a flow with a high viscosity (ice) tends to have less turbulence than a low viscosity flow (air).
+The numerator of the above equation denotes the inertial forces. **Inertia is the resistance to change in motion**, and inertial forces tend to make a bit of the fluid keep flowing in its own direction if it is misdirected from the main flow direction. Thus, high inertial forces tend to cause more turbulence. The denominator represents the viscous forces which tend to suppress turbulence by damping out variations in motion through friction. Thus, a flow with a high viscosity (honey) tends to have less turbulence than a low viscosity flow (air).
 
-The magnitude of Re gives an idea of whether the flow is turbulent or laminar. Turbulent flow has Re greater than 2000 and laminar flow has Re less than500. Flow with Re between 500 and 2000 is transitional and has some characteristics of laminar flow, but some turbulence as well. In most cases, water and air flows have high Re because l is large, u is high and µ is low. Rivers and wind storms are good examples of turbulent flow. In contrast, ice has a large µ and flows slowly (u is low), so it is usually laminar. Also, very thin, slow flows of water, such as water flowing off a smooth cement parking lot, has a low Re because l and u are small. Thus, it can be laminar. Laminar flow also occurs locally in turbulent flows right at the contact between the fluid and a smooth surface it is flowing over because u becomes very slow. This is really important for sediment transport, and we'll talk more about it in a few minutes.
 
-It is useful to think about which variables are important for different comparisons. When comparing ice and water, the main difference is viscosity; the viscosity of ice is >10^3 kg/(m*s) and up to more than 10^20 kg/(m*s) depending on temperature. In contrast, the viscosity of water is ~10^-3 kg/(m*s). The density of both is very close to 1000 kg/m^3. Thus, ice is almost always laminar but water is usually turbulent, although it can be laminar. When considering water flows, the flow speed and water depth are both very important. The viscosity and density change a little bit with temperature, but variations in flow speed and water depth are typically much larger effects.
+.. figure:: images/Laminar-Turbulent_Flow.png
+   :width: 95 %
+   :alt: Laminar and Turbulent
+   :align: center
 
-Images of glaciers:
-low viscosity (for a glacier): http://visibleearth.nasa.gov/view_rec.php?id=16438
-high viscosity: http://tinyurl.com/yhyrob9
+   Spheres in both Laminar (bottom) and Turbulent (top) flow. The sphere subjected to laminar flow does not display flow separation, mixing, or eddies. The sphere in turbulent flow experiences flow separation and eddy formation behind the sphere (from `openwetware.org <https://openwetware.org/wiki/Reynolds_Number_-_Blayne_Sarazin>`_)
 
-For air, both the density and viscosity are low, so does Re tend to be high or low? The density of dry air at 1 atm at 15°C is 1.225 kg/m3, and its viscosity is 1.8x10^-5 kg/(m*s), giving p/µ=6.8x10^5 s/m2 for air versus 1.0x10^6 s/m2 for water. Thus, air would tend to have a lower value for Re than water. However, the thickness of typical air flows (meters to 100’s of meters) promotes turbulence. p/µ for ice is 1 to 10^-17, which is why it is essentially always in a laminar flow regime.
 
-Boundary Layer - There is boundary layer at the edge of every flow. Flows have an average speed in the middle, but friction with immobile surfaces slows down the speed of the flow right at the surface. This creates a boundary layer that has different flow characteristics than the rest of the flow. Right at the surface, the water does not move, but as you go higher into the flow it starts to move more like the average flow. The area of the flow that has a reduced speed is called the boundary layer. The thickness of the boundary layer depends on Re (i.e. the amount of turbulence) and the roughness of the surface the flow is moving past. If the main water flow is very turbulent, it changes the velocity distribution because more of the high speed water is mixed down into the lower speed areas. Thus, the boundary layer tends to be thin. In less turbulent flow, there is little mixing of water from the center of the flow toward the edge of the flow, so the boundary layer tends to be thicker.
+The magnitude of :math:`Re` gives an idea of whether the flow is **turbulent** or **laminar**.
+
+- Turbulent flow has :math:`Re` greater than **2000**;
+- Laminar flow has :math:`Re` less than **500**;
+- Flow with :math:`Re` between 500 and 2000 is transitional and has some characteristics of laminar flow, but some turbulence as well.
+
+In most cases, water and air flows have high Re because :math:`l` is large, :math:`u` is high and :math:`\mu` is low. Rivers and wind storms are good examples of turbulent flow. In contrast, ice has a large :math:`\mu` and flows slowly (:math:`u` is low), so it is usually laminar. **Laminar flow also occurs locally in turbulent flows right at the contact between the fluid and a smooth surface it is flowing over because the velocity becomes very slow**. This has some important implications for sediment transport.
+
+
+Boundary Layer
+************************************************
+
+There is boundary layer at the edge of every flow. Flows have an average speed in the middle, but friction with immobile surfaces slows down the speed of the flow right at the surface. This creates a boundary layer that has different flow characteristics than the rest of the flow. Right at the surface, the water does not move, but as you go higher into the flow it starts to move more like the average flow. The area of the flow that has a reduced speed is called the boundary layer. The thickness of the boundary layer depends on Re (i.e. the amount of turbulence) and the roughness of the surface the flow is moving past. If the main water flow is very turbulent, it changes the velocity distribution because more of the high speed water is mixed down into the lower speed areas. Thus, the boundary layer tends to be thin. In less turbulent flow, there is little mixing of water from the center of the flow toward the edge of the flow, so the boundary layer tends to be thicker.
 
 Viscous/Laminar Sublayer - Within the boundary layer, right next to the surface, the laminar sublayer is present. Re=u*l*ρ/µ - remember this defines the difference between laminar and turbulent flow. Because u (water speed) is very low at the base of the boundary layer, the Re is low there and the flow is laminar. The laminar flow part of the boundary layer is called the viscous or laminar sublayer, “viscous” because the viscous effects are more important than the inertial effects. (The fluid is NOT more viscous here.) Farther up in the flow, u is higher, so the flow is typically turbulent. If grains do not extend above the top of this layer, they do not “see” much turbulence, and they are less likely to be transported. If they do stick up beyond the viscous sublayer because the viscous sublayer is thin or the grains are large, the grains feel the force of the turbulent flow.
 
