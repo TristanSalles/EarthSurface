@@ -120,7 +120,6 @@ Within the boundary layer, right next to the surface, a laminar sublayer is pres
 Sediment transport
 -------------------------------
 
-
 Bed shear stress
 ************************************************
 
@@ -196,7 +195,7 @@ The plot shows the areas where grains of different sizes are left on the bed, wh
 Sediment properties
 ********************************
 
-The fundamental properties of a sediment particle, especially with regard to potential transport, are size, shape, and composition. A population of mixed-size particles, typically found in nature, is usually described in terms of the statistical or graphical mean, sorting, skewness, and kurtosis of an appropriate sample.
+The fundamental properties of a sediment particle, especially with regard to potential transport, are **size**, **shape**, **density** and **composition**. A population of mixed-size particles, typically found in nature, is usually described in terms of the statistical or graphical mean, sorting, skewness, and kurtosis of an appropriate sample.
 
 .. figure:: images/sedproperties.jpg
    :width: 85 %
@@ -221,7 +220,7 @@ The sediment load of a river is transported in various ways although these disti
    :alt: Sediment transport
    :align: center
 
-   Sediment transport stages regarding the hydrologic, hydraulic, and geomorphological conditions: adopted from Marshak 2005.
+   Sediment transport stages regarding the hydrologic, hydraulic, and geomorphological conditions: adapted from Marshak 2005.
 
 Distinction is made between fully-suspended load and bed load by classifying the intermediate and transient transport state as saltation load transport. These are particles that bounce along the channel, partly supported by the turbulence in the flow and partly by the bed. They follow a distinctively asymmetric trajectory. Saltation load may be measured as suspended load (when in the water column) or as bedload (when on the bed). Although the distinction between saltation load and other types of sediment load may be important to those studying the physics of grain movement, most geomorphologists are content to ignore it as a special case.
 
@@ -256,44 +255,64 @@ Distinction is made between fully-suspended load and bed load by classifying the
 
 
 
-Sediment control on river channels
+Sediment controls on river channels
 -----------------------------------
 
+.. note::
+  This section of the chapter is based on the blog from J.D. Phillips from the Univeristy of Kentucky: `Lane diagram <https://www.as.uky.edu/blogs/jdp/changing-lanes>`_.
 
-.. figure:: images/lanescale.png
-   :width: 90 %
-   :alt: Lift & drag forces acting on a submerged particle.
-   :align: center
+.. note::
+  Sediment transport is critical to understanding how rivers work because it is the set of processes that mediates between the flowing water and the channel boundary. Erosion involves the removal and transport of sediment (mainly from the boundary) and deposition involves the transport and placement of sediment on the boundary. Erosion and deposition are what form the channel of any alluvial river as well as the floodplain through which it moves.
 
-    Lane Diagram (from E.W. Lane 1955)
-
-
-Sediment transport is critical to understanding how rivers work because
-it is the set of processes that mediates between the flowing water
-and the channel boundary. Erosion involves the removal and transport
-of sediment (mainly from the boundary) and deposition involves the
-transport and placement of sediment on the boundary. Erosion and
-deposition are what form the channel of any alluvial river as well as the
-floodplain through which it moves.
-
-The amount and size of sediment moving through a river channel are
-determined by three fundamental controls: competence, capacity and
-sediment supply.
+The amount and size of sediment moving through a river channel are determined by three fundamental controls: **competence**, **capacity** and **sediment supply**.
 
 Competence
 ********************************
 
-**Competence** refers to the largest size (diameter) of sediment particle or grain that the flow is capable of moving; it is a hydraulic limitation. If a river is sluggish and moving very slowly it simply may not have the power to mobilise and transport sediment of a given size even though such sediment is available to transport. So a river may be competent or incompetent with respect to a given grain size. If it is incompetent it will not transport sediment of the given size. If it is competent it may transport sediment of that size if such sediment is available (that is, the river is not supply-limited).
+**Competence** refers to the largest size (diameter) of sediment particle or grain that the flow is capable of moving; **it is a hydraulic limitation**.
+
+If a river is sluggish and moving very slowly it simply may not have the power to mobilise and transport sediment of a given size even though such sediment is available to transport. So a river may be **competent** or **incompetent** with respect to a given grain size. If it is incompetent it will not transport sediment of the given size. If it is competent it may transport sediment of that size if such sediment is available (that is, the river is not supply-limited).
 
 Capacity
 ********************************
 
-**Capacity** refers to the maximum amount of sediment of a given size that a stream can transport in traction as bedload. Given a supply of sediment, capacity depends on channel gradient, discharge and the calibre of the load (the presence of fines may increase fluid density and increase capacity; the presence of large particles may obstruct the flow and reduce capacity). Capacity transport is the competence-limited sediment transport (mass per unit time) predicted by all sediment transport equations, examples of which we will examine below. Capacity transport only occurs when sediment supply is abundant (non-limiting).
+
+.. figure:: images/capacity.png
+   :width: 80 %
+   :alt: River capacity
+   :align: center
+
+**Capacity** refers to the maximum amount of sediment of a given size that a stream can transport in traction as bedload.
+
+Given a supply of sediment, capacity depends on **channel gradient**, **discharge** and the **calibre of the load** (*i.e.* the presence of fines may increase fluid density and increase capacity; the presence of large particles may obstruct the flow and reduce capacity). Capacity transport only occurs when sediment supply is abundant (non-limiting).
 
 Sediment supply
 ********************************
 
-**Sediment supply** refers to the amount and size of sediment available for sediment transport. Capacity transport for a given grain size is only achieved if the supply of that calibre of sediment is not limiting (that is, the maximum amount of sediment a stream is capable of transporting is actually available). Because of these two different potential constraints (hydraulics and sediment supply) distinction is often made between supply-limited and capacity-limited transport. Most rivers probably function in a sediment-supply limited condition although we often assume that this is not the case.
+**Sediment supply** refers to the amount and size of sediment available for sediment transport. Capacity transport for a given grain size is only achieved if the supply of that calibre of sediment is not limiting (that is, the maximum amount of sediment a stream is capable of transporting is actually available).
 
-Much of the material supplied to a stream is so fine (silt and clay) that, provided it can be carried in suspension, almost any flow will transport it. Although there must be an upper limit to the capacity of the stream to transport such fines, it is probably never reached in natural channels
-and the amount moved is limited by supply. In contrast, transport of coarser material (say, coarser than fine sand) is largely capacity limited.
+Because of these two different potential constraints (hydraulics and sediment supply) distinction is often made between **supply-limited** and **capacity-limited** transport. Most rivers probably function in a sediment-supply limited condition although we often assume that this is not the case.
+
+
+.. note::
+  Much of the material supplied to a stream is so fine (silt and clay) that, provided it can be carried in suspension, almost any flow will transport it. Although there must be an upper limit to the capacity of the stream to transport such fines, it is probably never reached in natural channels and the amount moved is limited by supply. In contrast, transport of coarser material (say, coarser than fine sand) is largely capacity limited.
+
+
+Lane diagram
+********************************
+
+The **Lane diagram** is often used to illustrate the relationships between the **sediment supply** and the **transport capacity**, and its effects on channel aggradation or degradation.
+
+.. important:
+  It shows in a simple diagram that stream degradation (net erosion and incision) and aggradation (net deposition) responds to changes in the relationship between **sediment supply** (amount of sediment, Qs, and typical sediment size, D50) and **sediment transport capacity** (a function of discharge or flow, Qw, and slope, S).
+
+.. figure:: images/lanescale.png
+ :width: 90 %
+ :alt: Lane Diagram
+ :align: center
+
+  Lane Diagram (from E.W. Lane 1955)
+
+The Lane relationship shows that if the river system is precisely balanced (in steady-state), the slightest change in any factor will tip the scales one way or another. Also, if the scale is way overbalanced on the aggradation or degradation side, it may take a lot of change to level it out or tip it back the other way. Note that many rivers are undergoing net aggradation or degradation, while steady-state is relatively rare in nature.
+
+The Lane relationship means that a change in either sediment size, sediment quantity, discharge, or slope will result in a change in at least one of the other variables, and that aggradation and degradation depend on the proportionality of sediment supply and transport capacity.
