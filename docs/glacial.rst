@@ -228,7 +228,7 @@ When two U-shaped valleys are adjacent to each other, the ridge between them can
 
 
 .. figure:: images/eroglac.png
-   :width: 100 %
+   :width: 85 %
    :alt: Erosional glacial feature
    :align: center
 
@@ -248,11 +248,62 @@ When a smaller tributary glacier intersects a larger trunk glacier, the smaller 
 Depositional glacial landforms
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Characteristic depositional landscapes are produced when the ice melts and retreats and leaves behind these sediments with distinct shapes and compositions.
+Characteristic depositional landscapes are produced when the ice melts and retreats and leaves behind sediments with distinct shapes and compositions.
+
+.. figure:: images/sedglac.png
+   :width: 90 %
+   :alt: Sediment in ice
+   :align: center
+
+Sediment is deposited by glaciers in both alpine and continental environments. Since ice is responsible for a large amount of erosion, there is a lot of sediment in glacial ice. When sediment is left behind by a melting glacier, it is called **till** and is characteristically poorly sorted with grain sizes ranging from clay and silt to subrounded pebbles and boulders, possibly striated. Lithified rocks of this type are described as **diamictite**, meaning a rock with a wide range of clast sizes.
+
+
+..  admonition:: Types of debris transport
+    :class: toggle, important
+
+    Ice masses transport mineral clasts as **supraglacial** debris (valley glaciers only), **englacial** debris, or **subglacial** debris.
+
+    .. figure:: images/esp4879-fig-0014-m.jpg
+       :width: 90 %
+       :alt: Processes of debris supply, transport and removal
+       :align: center
+
+       Processes of debris supply, transport and removal from `Fyffe et al. (2020) <https://onlinelibrary.wiley.com/doi/10.1002/esp.4879>`_.
+
+    **Supraglacial debris** deposited on the glacier in the  accumulation zone may become part of the englacial or  subglacial load through interment by new snow, deformation of the glacier surface (crevasse, folding), or carried by meltwater into the glacier.
+    These debris are largely derived from mechanical weathering (freeze-thaw) of bounding valley slopes. They form lateral **moraines** at the margins of valley glaciers, or **medial moraines** where two or more glaciers merge. They tend to be poorly sorted, relatively  large, angular, slabby or elongate clasts.
+
+    **Subglacial debris** is a mixture of materials abraded or plucked/quarried from the bedrock, supraglacial and englacial clasts. Grinding of large clasts produces fine-grained (< silt-sized) quartz and feldspar (‘rock flour’). When waters freeze they can entrain large volumes of sediment from the bed, creating debris-rich strata within the ice mass, which can in some cases dominate sediment yield. Subglacial tills can be deposited in subglacial channels forming **eskers**, or as traction till (**ground moraine**). These debris are laterally extensive, massively bedded and poorly sorted. Clasts are rounded, striated and faceted.
+
+
+Material carried by the glacier is called **moraine**, which is an accumulation of glacial till produced by the grinding and erosive effects of a glacier. In valley glaciers, moraine also includes material falling on the sides of the glacier by mass wasting from the valley walls. The glacier acts like a conveyor belt, carrying sediment inside and on the ice and depositing it at the end and sides of the glacier. The type of moraine depends on its location. A **terminal moraine** is a ridge of unsorted till at the maximum extent of a glacier or the farthest extent of a glacier. When glaciers retreat in episodes, they may leave behind deposits called **recessional moraines**. Moraines located along the side of a glacier are called **lateral moraines** and mostly represent material that fell on the sides of the glacier from mass wasting of the valley walls. When two tributary glaciers join together, the two lateral moraines combine to form a **medial moraine**. Behind the terminal and recessional moraines is a veneer (or thin sheet) of till on top of bedrock called the **till sheet** (or **ground moraine**).
+
+
+.. figure:: images/glacierdepo.png
+   :width: 85 %
+   :alt: Glacier deposits
+   :align: center
+
+
+In addition to moraines, as glaciers melt they leave behind other depositional landforms. The intense grinding process creates a lot of silt. Streams of water melting from the glacier carry this silt (along with sand and gravel) and deposit it in front of the glacier in an area called an **outwash plain**. In the plain, discharge of meltwater carries bedload, suspended load and solutes from the terminus of the glacier which are typically *milky* in appearance due to high concentrations of rock flour from basal abrasion. The outwash streams tend to be high energy and  seasonally variable. The high sediment loads result in braided and anastomosing (diverging/branching) channel morphology, forming extensive plains of reworked till. As water is now involved, sorting of sediment by turbulent flows means that coarse clasts are deposited close to the ice margin, with fining  apparent with distance.
+
+In addition, when glaciers retreat large blocks of ice can be left behind to melt within the impermeable till and can create a depression called a **kettle** that can be later filled with surface water as a kettle lake. As glaciers melt, the meltwater flows over the ice surface until it descends into crevasses, perhaps finding channels within the ice or continuing to the base of the glacier into channels along the bottom. Such streams located under continental glaciers carry sediment in a sinuous channel within or under the ice, similar to a river. When the ice recedes, the sediment remains as a long sinuous ridge known as an **esker**.
+
+Also common in continental glacial areas are **drumlins**. A drumlin is an elongated asymmetrical drop-shaped hill with its steepest side pointing upstream to the flow of ice and streamlined side (low angle side) pointing in the direction the ice is flowing. The origin of drumlins is still debated and some leading ideas are incremental accumulation of till under the glacier, large catastrophic meltwater floods located under the glacier, and surface deformation by the weight of the overlying glacial ice.
 
 .. raw:: html
 
   <iframe src="https://opengeology.org/textbook/wp-admin/admin-ajax.php?action=h5p_embed&id=9" width="838" height="417" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://opengeology.org/textbook/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+
+..  admonition:: What have we seen so far...
+    :class: toggle
+
+    - Ice is an important part of the Earth system, drives landscape evolution at the mid to high latitudes and plays a central role in Earth’s climate.
+    - Ice masses transport mineral clasts passively as supraglacial debris, and act to denude bedrock through abrasion, plucking/quarrying and freezing;
+    - The capacity of an ice mass to erode is constrained by the production of water at the base of the ice mass, which facilitates bed sliding and  abrasion, and by the speed of the ice flow.
+    - Large volumes of sediment are deposited as tills, often as unique landscape features, or in outwash plains;
+    - Ice masses, therefore, play a pivotal role in transporting and generating  large volumes of material which are then transferred to other parts of the sediment routing system.
 
 
 Glaciomarine processes
