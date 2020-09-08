@@ -153,7 +153,7 @@ Three conditions are necessary to form a glacier:
 
 Glaciers can only form at latitudes or elevations above the **snowline**, which is the elevation above which snow can form and remain present year round. The snowline, at present, lies at sea level in polar latitudes and rises up to 6000 m in tropical areas.
 
-Glaciers form in these areas if the snow becomes compacted, forcing out the air between the snowflakes. As compaction occurs, the weight of the overlying snow causes the snow to recrystallise and increase its grain-size, until it increases its density and becomes a solid block of ice. In some cases, small air pockets remain trapped in the ice and form a record of the past atmosphere
+Glaciers form in these areas if the snow becomes compacted, forcing out the air between the snowflakes. As compaction occurs, the weight of the overlying snow causes the snow to recrystallise and increase its grain-size, until it increases its density and becomes a solid block of ice. The density of the ice increases from 50-100 kg/m3 for fresh snow up to 900 kg/m3 for fully compacted glacial ice. In some cases, small air pockets remain trapped in the ice and form a record of the past atmosphere
 
 .. image:: images/glacier.gif
 
@@ -168,7 +168,14 @@ The above animated figure from `OGGM-Edu <https://edu.oggm.org/en/latest/index.h
 Glacier movement
 ************************************************
 
-As the ice accumulates, it begins to flow downward under its own weight. Pressure-Temperature diagram of ice shows that ice actually melts under pressure (one of the unique properties of water) so **ice at the base of a typical glacier is actually melting**. About half of the overall glacial movement is from sliding on a film of meltwater along the bedrock surface and half from internal flow. These studies show that the ice near the surface (about the upper 165 feet [50 meters] depending on location, temperature, and flow rate) is rigid and brittle [4]. This upper zone is the brittle zone, the portion of the ice in which ice breaks when it moves forming large cracks along the top of a glacier called crevasses. These crevasses can be covered and hidden by a snow bridge and thus are a hazard for glacier travelers.
+As the ice accumulates, it begins to flow downward under its own weight. Pressure-Temperature diagram of ice shows that ice actually melts under pressure (one of the unique properties of water) so **ice at the base of a typical glacier is actually melting** (right hand side figure above). **About half of the overall glacial movement is from sliding on a film of meltwater along the bedrock surface and half from internal flow**. The ice near the surface (about the upper 50 meters depending on location, temperature, and flow rate) is rigid and brittle. This upper zone is the **brittle zone**, the portion of the ice in which ice breaks when it moves forming large cracks along the top of a glacier called **crevasses**.
+
+.. figure:: images/glacflow.png
+    :width: 90 %
+    :alt: Glacier movements
+    :align: center
+
+Below the **brittle zone**, there is so much weight of the overlying ice (typically exceeding 100 kilopascals-approximately 100,000 times atmospheric pressure) that it no longer breaks when force is applied to it but rather it bends or flows. **This is the plastic zone and within this zone the ice flows**.  The plastic zone represents the great majority of the ice of a glacier and often contains a fair amount of sediment from as large as boulders and as small as silt and clay which act as grinding agents. The bottom of the plastic zone slides across the bedrock surface and represents the zone of erosion.
 
 
 Glaciers landforms
