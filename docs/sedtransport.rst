@@ -87,9 +87,10 @@ The magnitude of :math:`Re` gives an idea of whether the flow is **turbulent** o
 
 In most cases, water and air flows have high Re because :math:`l` is large, :math:`u` is high and :math:`\mu` is low. Rivers and wind storms are good examples of turbulent flow. In contrast, ice has a large :math:`\mu` and flows slowly (:math:`u` is low), so it is usually laminar. **Laminar flow also occurs locally in turbulent flows right at the contact between the fluid and a smooth surface it is flowing over because the velocity becomes very slow**. This has some important implications for sediment transport.
 
-
-Boundary Layer
+Boundary Layer and viscous/laminar sublayer
 ************************************************
+
+There is **boundary layer** at the edge of every flow. Flows have an average speed in the middle, but friction with the bed surfaces slows down the speed of the flow. This creates a boundary layer that has different flow characteristics than the rest of the flow.
 
 .. raw:: html
 
@@ -98,29 +99,43 @@ Boundary Layer
     </div>
 
 
-There is boundary layer at the edge of every flow. Flows have an average speed in the middle, but friction with immobile surfaces slows down the speed of the flow right at the surface. This creates a boundary layer that has different flow characteristics than the rest of the flow. Right at the surface, the water does not move, but as you go higher into the flow it starts to move more like the average flow. The area of the flow that has a reduced speed is called the boundary layer. The thickness of the boundary layer depends on Re (i.e. the amount of turbulence) and the roughness of the surface the flow is moving past. If the main water flow is very turbulent, it changes the velocity distribution because more of the high speed water is mixed down into the lower speed areas. Thus, the boundary layer tends to be thin. In less turbulent flow, there is little mixing of water from the center of the flow toward the edge of the flow, so the boundary layer tends to be thicker.
+As shown on this video, right at the bed surface, the water flow is reduced, but as you go higher into the flow it starts to move more like the average flow. **The area of the flow that has a reduced speed is called the boundary layer**. The thickness of the boundary layer depends on :math:`Re` (*i.e.* the amount of turbulence) and the roughness of the surface the flow is moving past.
 
-Viscous/Laminar Sublayer - Within the boundary layer, right next to the surface, the laminar sublayer is present. Re=u*l*ρ/µ - remember this defines the difference between laminar and turbulent flow. Because u (water speed) is very low at the base of the boundary layer, the Re is low there and the flow is laminar. The laminar flow part of the boundary layer is called the viscous or laminar sublayer, “viscous” because the viscous effects are more important than the inertial effects. (The fluid is NOT more viscous here.) Farther up in the flow, u is higher, so the flow is typically turbulent. If grains do not extend above the top of this layer, they do not “see” much turbulence, and they are less likely to be transported. If they do stick up beyond the viscous sublayer because the viscous sublayer is thin or the grains are large, the grains feel the force of the turbulent flow.
+- If the main water flow is very **turbulent**, it changes the velocity distribution because more of the high speed water is mixed down into the lower speed areas. Thus, the **boundary layer tends to be thin**.
+- In less turbulent flow, there is **little mixing of water** from the center of the flow toward the edge of the flow, so the **boundary layer tends to be thicker**.
 
-Bed roughness or the characteristics of the surface also affect the boundary layer by affecting the amount of water that has to interact with the surface. A very smooth bed, say one made of mud, does not deflect the water at all, so there is less mixing and less turbulence. There is a well developed laminar sublayer. In contrast, a bed with pebbles or boulders disrupts the direction of water flow in the boundary layer. The water gets deflected around the pebbles. Water from above tends to take its place. Since it is moving faster, the average water speed in the boundary layer increases. Thus, a rough bed reduces the thickness of the boundary layer much like a more turbulent flow does. A rough bed also disrupts the laminar sublayer by forcing the flow to move around objects. The laminar sublayer is developed locally, but in general, rough beds are very turbulent.
+Within the boundary layer, right next to the surface, a laminar sublayer is present. Because :math:`u` (water speed) is very low at the base of the boundary layer, the :math:`Re` is low there and the flow is laminar. **The laminar flow part of the boundary layer is called the viscous or laminar sublayer**, “viscous” because the viscous effects are more important than the inertial effects. The fluid is NOT more viscous here. Farther up in the flow, :math:`u` is higher, so the flow is typically turbulent.
 
+..  admonition:: Relations between the viscous layer and the sediment bed
+    :class: toggle, important
 
+    **Bed roughness** or the characteristics of the surface also affect the boundary layer by affecting the amount of water that has to interact with the surface.
 
-Sediments and Flow
-Key Concept: The boundary layer strongly affects the amount of “Bed Shear Stress” which corresponds to the forces that tend to roll particles along the bed and the pressure differences above and below grains, which tend to lift them off the bed.
+    - A very smooth bed, say one made of mud, does not deflect the water at all, so there is less mixing and less turbulence. Consequently, there is a well developed laminar sublayer.
+    - In contrast, a bed with pebbles or boulders disrupts the direction of water flow in the boundary layer. The water gets deflected around the pebbles. Water from above tends to take its place. Since it is moving faster, the average water speed in the boundary layer increases. Thus, a rough bed reduces the thickness of the boundary layer much like a more turbulent flow does. A rough bed also disrupts the laminar sublayer by forcing the flow to move around objects. The laminar sublayer is developed locally, but in general, rough beds are very turbulent.
 
-Bed Shear Stress - Sediments are affected by the difference in flow speeds from the bottom to the top of the boundary layer, gravity, and friction with the ground. Bed shear stress is a measure of these differences; it is the differential force that a grain feels from top to bottom. In a thick boundary layer, the speed of water flow at the top of the grains is not much different from the bottom, so bed shear stress is lower, and sediment is less likely to move. In a thin boundary layer, bed shear stress is much higher, and grains are likely to roll down flow. Thus, more turbulent flow (with a thinner boundary layer) results in more sediment transport. Bed shear stress increases with increasing fluid density, slope, and turbulence (water depth and flow speed). For example, water is better at moving sediment than air because it has a higher density and exerts a larger bed shear stress than air can. Deep, fast rivers move more sediment than shallow, slow rivers because of more turbulence and higher flow speeds in the boundary layer in fast rivers.
-
-
-
-.. figure:: images/Hjulstromdiagram.png
-   :scale: 65 %
-   :alt: Hjulstrom diagram of sediment transport by running water
-   :align: center
-
-   Hjulstrom diagram of sediment transport by running water
+    In summary - if grains do not extend above the top of this laminar sublayer, they do not “see” much turbulence, and they are less likely to be transported. If they do stick up beyond the viscous sublayer because the sublayer is thin or the grains are large, the grains feel the force of the turbulent flow.
 
 
+Bed shear stress
+************************************************
+
+
+Sediments are affected by the difference in flow speeds from the bottom to the top of the boundary layer, gravity, and friction with the ground. **Bed shear stress** is a measure of these differences; it is the differential force that a grain feels from top to bottom.
+
+In a thick boundary layer, the speed of water flow at the top of the grains is not much different from the bottom, so bed shear stress is lower, and sediment is less likely to move.
+
+In a thin boundary layer, bed shear stress is much higher, and grains are likely to roll down flow. Thus, more turbulent flow (with a thinner boundary layer) results in more sediment transport.
+
+Bed shear stress increases with increasing fluid density, slope, and turbulence (water depth and flow speed). For example, water is better at moving sediment than air because it has a higher density and exerts a larger bed shear stress than air can. Deep, fast rivers move more sediment than shallow, slow rivers because they have more turbulence and higher flow speeds in their boundary layer.
+
+In the case of open channel flow, the bed shear stress (:math:`\tau_b`) is the force of moving water against the bed of the channel and is calculated as:
+
+.. math::
+
+   \tau_b = \rho_w g h S
+
+where :math:`\rho_w` is the density of water, :math:`g` the acceleration due to gravity, :math:`h` the average water depth and :math:`S` the water surface slope.
 
 
 Some definitions
@@ -160,6 +175,15 @@ and the amount moved is limited by supply. In contrast, transport of coarser mat
 
 Sediment transport
 *******************
+
+
+.. figure:: images/Hjulstromdiagram.png
+   :scale: 65 %
+   :alt: Hjulstrom diagram of sediment transport by running water
+   :align: center
+
+   Hjulstrom diagram of sediment transport by running water
+
 
 The sediment load of a river is transported in various ways although these distinctions are to some extent arbitrary and not always very practical in the sense that not all of the components can be separated in practice:
 
