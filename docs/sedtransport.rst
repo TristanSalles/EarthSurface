@@ -117,9 +117,11 @@ Within the boundary layer, right next to the surface, a laminar sublayer is pres
     In summary - if grains do not extend above the top of this laminar sublayer, they do not “see” much turbulence, and they are less likely to be transported. If they do stick up beyond the viscous sublayer because the sublayer is thin or the grains are large, the grains feel the force of the turbulent flow.
 
 
+Sediment transport
+-------------------------------
+
 Bed shear stress
 ************************************************
-
 
 Sediments are affected by the difference in flow speeds from the bottom to the top of the boundary layer, gravity, and friction with the ground. **Bed shear stress** is a measure of these differences; it is the differential force that a grain feels from top to bottom.
 
@@ -137,53 +139,70 @@ In the case of open channel flow, the bed shear stress (:math:`\tau_b`) is the f
 
 where :math:`\rho_w` is the density of water, :math:`g` the acceleration due to gravity, :math:`h` the average water depth and :math:`S` the water surface slope.
 
+Vertical changes in water velocity produces shear forces that are parallel to the bed.  These shear forces acting on the bed of a channel generate shear stress, which initiate sediment movement.  As shown in the equation above, the magnitude of these stresses is a function of water surface slope, channel geometry and flow.
 
-Some definitions
-*******************
+.. figure:: images/liftdrag.png
+   :scale: 47 %
+   :alt: Lift & drag forces acting on a submerged particle.
+   :align: center
 
-
-Sediment transport is critical to understanding how rivers work because
-it is the set of processes that mediates between the flowing water
-and the channel boundary. Erosion involves the removal and transport
-of sediment (mainly from the boundary) and deposition involves the
-transport and placement of sediment on the boundary. Erosion and
-deposition are what form the channel of any alluvial river as well as the
-floodplain through which it moves.
-
-The amount and size of sediment moving through a river channel are
-determined by three fundamental controls: competence, capacity and
-sediment supply.
-
-Competence
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-**Competence** refers to the largest size (diameter) of sediment particle or grain that the flow is capable of moving; it is a hydraulic limitation. If a river is sluggish and moving very slowly it simply may not have the power to mobilise and transport sediment of a given size even though such sediment is available to transport. So a river may be competent or incompetent with respect to a given grain size. If it is incompetent it will not transport sediment of the given size. If it is competent it may transport sediment of that size if such sediment is available (that is, the river is not supply-limited).
-
-Capacity
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-**Capacity** refers to the maximum amount of sediment of a given size that a stream can transport in traction as bedload. Given a supply of sediment, capacity depends on channel gradient, discharge and the calibre of the load (the presence of fines may increase fluid density and increase capacity; the presence of large particles may obstruct the flow and reduce capacity). Capacity transport is the competence-limited sediment transport (mass per unit time) predicted by all sediment transport equations, examples of which we will examine below. Capacity transport only occurs when sediment supply is abundant (non-limiting).
-
-Sediment supply
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-**Sediment supply** refers to the amount and size of sediment available for sediment transport. Capacity transport for a given grain size is only achieved if the supply of that calibre of sediment is not limiting (that is, the maximum amount of sediment a stream is capable of transporting is actually available). Because of these two different potential constraints (hydraulics and sediment supply) distinction is often made between supply-limited and capacity-limited transport. Most rivers probably function in a sediment-supply limited condition although we often assume that this is not the case.
-
-Much of the material supplied to a stream is so fine (silt and clay) that, provided it can be carried in suspension, almost any flow will transport it. Although there must be an upper limit to the capacity of the stream to transport such fines, it is probably never reached in natural channels
-and the amount moved is limited by supply. In contrast, transport of coarser material (say, coarser than fine sand) is largely capacity limited.
+   Lift & drag forces acting on a submerged particle.
 
 
-Sediment transport
-*******************
+At a very simple deterministic level of analysis, a particle of sediment will begin to move when the force of the flowing water applied to it equals its submerged weight. The moment where the directive forces (shear forces) overcome restrictive forces (inertia, friction) is known as the moment of incipient motion and is the threshold of particle entrainment. The shear stress at this threshold is known as the critical shear stress (:math:`\tau_{cr}`).
 
+
+Shields and Hjulstrom diagrams
+************************************************
+
+The most widely used semi-empirical approach to defining the threshold of sediment motion was proposed in the early 1900’s by the German physicist **Albert F. Shields**. Shields (1936) plotted the dimensionless shear stress (:math:`\theta = \tau_{cr} / (g(\rho_s - \rho_w)D)`) against the particle Reynolds number (:math:`Re_p = D u / \nu`) where :math:`D` and :math:`\rho_s` are the sediment diameter and density respectively.
+
+The dimensionless shear stress in the Shields diagram is commonly termed the Shields stress or the Shields parameter. Several aspects of the Shields diagram are particularly noteworthy:
+
+.. figure:: images/shields.png
+   :width: 87 %
+   :alt: Shields Diagram from Van Rijn (1984).
+   :align: center
+
+   Shields Diagram from Van Rijn (1984).
+
+
+1. The lowest Shields stress occurs in the sand range (0.06-2.00 mm). Sand is small enough to have small mass but too large for adhesion forces to come into play.
+2. Silt/clay, in spite of the smaller size, requires a higher shear stress for motion than sand. Here adhesion forces become overwhelmingly large and bind the sediment together into a mass that is very resistant to erosion.
+3. The Shields parameter for gravel is constant at 0.06, implying that Shields stress here becomes a simple function of grain size. This is a quite remarkable finding and allows us, as we will see below, to derive a simple relationship between the size of gravel and the shear stress required to move it.
+4. The Shields parameter applies well to natural gravel-bed rivers.
+
+
+Another more simple way of looking at sediment entrainment and transport consists in looking at the Hjulstrom diagram. Hjulstrom diagram shows grain entrainment on a plot of log grain size versus log flow speed which is much easier to comprehend.
 
 .. figure:: images/Hjulstromdiagram.png
-   :scale: 65 %
+   :width: 87 %
    :alt: Hjulstrom diagram of sediment transport by running water
    :align: center
 
    Hjulstrom diagram of sediment transport by running water
 
+The plot shows the areas where grains of different sizes are left on the bed, where they get moved sometimes, and where they get lifted up often and eroded away. Note that larger grains require higher flows - in general. The water speed that is required to transport a grain is call the critical velocity.
+
+..  admonition:: Some interesting trends from Hjulstrom diagram
+    :class: toggle, important
+
+    **Silt and Clay** - Notice that for the small end of grain size, the speed of flow required for erosion actually increases. One reason small grains are hard to erode is that they tend not to stick up through the laminar sublayer; they are just too small. Thus, thinner boundary layers are necessary to roll them or for the pressure differences to pick them up off the bed. The stickiness of the clay grains makes them difficult to erode, so faster water flows are required to move them. The smaller the grains, the more surface charges stick the grains together, thus the stronger the flow needed to erode them.
+
+    In the Hjulstrom diagram, there is an interesting area where the flow is not strong enough to move any of the particles on the bed, but those that are in the suspended load do not settle out either. This zone includes many of the waters on the surface of the earth. In flows with low velocity or that are very deep, :math:`Re` is high enough to keep some clay in suspension. Clay deposition usually occurs very slowly, *e.g.* when the rate of settling is just slightly faster than the average rate at which turbulence moves clay particles upward or when the clays clump together to form larger grains.
+
+
+Sediment properties
+********************************
+
+.. figure:: images/sedproperties.jpg.jpg
+   :width: 85 %
+   :alt: Sediment properties
+   :align: center
+
+
+Transport types
+********************************
 
 The sediment load of a river is transported in various ways although these distinctions are to some extent arbitrary and not always very practical in the sense that not all of the components can be separated in practice:
 
@@ -215,12 +234,6 @@ Suspended-sediment load
 
 The size and concentration of suspended-sediment typically varies logarithmically with height above the bed. That is, concentration and grain size form linear plots with the logarithm of height above the bed. Coarse sand is highly concentrated near the bed and declines with height at a faster rate than does fine sand. Fine silt is so easily suspended that it is far more uniformly distributed in a vertical section than is the coarser material. Similarly, the grain-size distribution within a sample of sand displays far more vertical variation than does the vertical distribution of grain size within the silt range. The former is too large for the flow to move much of it into the upper water column and the latter is so small and easily suspended that it is well represented at all levels thus giving rise to a more uniform grain-size profile.
 
-.. figure:: images/profiles.png
-   :scale: 32 %
-   :alt: vertical profiles
-   :align: center
-
-   Typical vertical profiles of suspended-sediment concentration (A) & grain size in open-channel flows (B)
 
 Wash load
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -228,7 +241,6 @@ Wash load
 Although **wash load** is part of the suspended-sediment load it is useful here to make a distinction. Unlike most suspended-sediment load, wash load does not rely on the force of mechanical turbulence generated by flowing water to keep it in suspension. It is so fine (in the clay range) that it is kept in suspension by thermal molecular agitation (sometimes known as Brownian motion, named for the early 19th century botanist who described the random motion of microscopic pollen spores and dust). Because these clays are always in suspension, wash load is that component of the particulate or clastic load that is “washed” through the river system. Unlike coarser suspended sediment, wash load tends to be uniformly distributed throughout the water column. That is, unlike the coarser load, it does not vary with height above the bed.
 
 Distinction is made between fully-suspended load and bed load by classifying the intermediate and transient transport state as saltation load transport. These are particles that bounce along the channel, partly supported by the turbulence in the flow and partly by the bed. They follow a distinctively asymmetric trajectory. Saltation load may be measured as suspended load (when in the water column) or as bedload (when on the bed). Although the distinction between saltation load and other types of sediment load may be important to those studying the physics of grain movement, most geomorphologists are content to ignore it as a special case.
-ore uniform grain-size profile.
 
 
 Bed load
@@ -238,41 +250,35 @@ Bed load
 
 **Bed-material load** is that part of the sediment load found in appreciable quantities in the bed (generally > 0.062 mm in diameter) and is collected in a bed-load sampler. That is, the bed material is the source of this load component and it includes particles that slide and roll along the bed (in bed-load transport) but also those near the bed transported in saltation or suspension. Bed load, strictly defined, is just that component of the moving sediment that is supported by the bed (and not by the flow).
 
-Theory of sediment entrainment
-*******************************
+Sediment control on river channels
+-----------------------------------
 
-.. figure:: images/liftdrag.png
-   :scale: 47 %
-   :alt: Lift & drag forces acting on a submerged particle.
-   :align: center
+Sediment transport is critical to understanding how rivers work because
+it is the set of processes that mediates between the flowing water
+and the channel boundary. Erosion involves the removal and transport
+of sediment (mainly from the boundary) and deposition involves the
+transport and placement of sediment on the boundary. Erosion and
+deposition are what form the channel of any alluvial river as well as the
+floodplain through which it moves.
 
-   Lift & drag forces acting on a submerged particle.
+The amount and size of sediment moving through a river channel are
+determined by three fundamental controls: competence, capacity and
+sediment supply.
 
+Competence
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-At a very simple deterministic level of analysis, a particle of sediment will begin to move when the force of the flowing water applied to it equals its submerged weight. This simple analysis leads to:
+**Competence** refers to the largest size (diameter) of sediment particle or grain that the flow is capable of moving; it is a hydraulic limitation. If a river is sluggish and moving very slowly it simply may not have the power to mobilise and transport sediment of a given size even though such sediment is available to transport. So a river may be competent or incompetent with respect to a given grain size. If it is incompetent it will not transport sediment of the given size. If it is competent it may transport sediment of that size if such sediment is available (that is, the river is not supply-limited).
 
+Capacity
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. math::
+**Capacity** refers to the maximum amount of sediment of a given size that a stream can transport in traction as bedload. Given a supply of sediment, capacity depends on channel gradient, discharge and the calibre of the load (the presence of fines may increase fluid density and increase capacity; the presence of large particles may obstruct the flow and reduce capacity). Capacity transport is the competence-limited sediment transport (mass per unit time) predicted by all sediment transport equations, examples of which we will examine below. Capacity transport only occurs when sediment supply is abundant (non-limiting).
 
-   \tau_{cr} = K g (\rho_s - \rho) D
+Sediment supply
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-where :math:`K = \eta /\tan(\phi)` and :math:`\eta = n D^2` (a packing coefficient) and :math:`\phi` is the internal angle of friction of the sediment.
+**Sediment supply** refers to the amount and size of sediment available for sediment transport. Capacity transport for a given grain size is only achieved if the supply of that calibre of sediment is not limiting (that is, the maximum amount of sediment a stream is capable of transporting is actually available). Because of these two different potential constraints (hydraulics and sediment supply) distinction is often made between supply-limited and capacity-limited transport. Most rivers probably function in a sediment-supply limited condition although we often assume that this is not the case.
 
-Although this simple analytical approach (called the White analysis, after its originator) is useful because it highlights the general structural relationships (balance of forces) involved in this problem, it is not of much practical use because it greatly oversimplifies the actual complex forces involved. That is, there is more to this problem of specifying the entrainment conditions than merely balancing mean boundary shear stress and the submerged weight of the particle. Mean boundary shear stress is just one of several impelling forces and the particle submerged weight is just one of several inertial forces. Unfortunately, the other forces are very difficult to characterise in a precise quantitative.
-
-The most widely used semi-empirical approach to defining the threshold of sediment motion was proposed in the early 1900’s by the German physicist Albert F. Shields. Shields (1936) plotted the dimensionless shear stress (:math:`\theta = \tau_{cr} / (g(\rho_s - \rho)D)`) against the particle Reynolds number (:math:`Re_p = D / \delta_0`) where :math:`\delta_0` is the thickness of the laminar sublayer.
-
-The dimensionless shear stress in the Shields diagram is commonly termed the Shields stress or the Shields parameter. Several aspects of the Shields diagram are particularly noteworthy:
-
-.. figure:: images/shield.png
-   :scale: 65 %
-   :alt: Shields Diagram from Van Rijn (1984).
-   :align: center
-
-   Shields Diagram from Van Rijn (1984).
-
-
-1. The lowest Shields stress occurs in the sand range (0.06-2.00 mm). Sand is small enough to have small mass but too large for adhesion forces to come into play.
-2. Silt/clay, in spite of the smaller size, requires a higher shear stress for motion than sand. Here adhesion forces become overwhelmingly large and bind the sediment together into a mass that is very resistant to erosion.
-3. The Shields parameter for gravel is constant at 0.06, implying that Shields stress here becomes a simple function of grain size. This is a quite remarkable finding and allows us, as we will see below, to derive a simple relationship between the size of gravel and the shear stress required to move it.
-4. The Shields parameter applies well to natural gravel-bed rivers.
+Much of the material supplied to a stream is so fine (silt and clay) that, provided it can be carried in suspension, almost any flow will transport it. Although there must be an upper limit to the capacity of the stream to transport such fines, it is probably never reached in natural channels
+and the amount moved is limited by supply. In contrast, transport of coarser material (say, coarser than fine sand) is largely capacity limited.
