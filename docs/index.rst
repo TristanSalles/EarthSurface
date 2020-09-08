@@ -45,8 +45,8 @@ B- Quantitative approach to geomorphology
 
 .. toctree::
    :maxdepth: 3
-   :name: Tectonic geomorphology
-   :caption: Tectonic geomorphology
+   :name: Earth surface processes
+   :caption: Earth surface processes
 
    tectonics
    sedtransport
