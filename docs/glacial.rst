@@ -138,6 +138,40 @@ It is uncertain as to why these ice ages, as symptoms of significant climatic ch
 Glacial processes
 ------------------------------
 
+.. note::
+  This section is based on the `open geology book <https://opengeology.org/textbook/14-glaciers/>`_ and Prof. Nelson from Tulane University `Glaciers and Glaciation lecture notes <https://www.tulane.edu/~sanelson/eens1110/glaciers.htm>.`_`
+
+
+Glacier formation and movement
+************************************************
+
+Three conditions are necessary to form a glacier:
+
+1. Cold local climate (polar latitudes or high elevation).
+2. snow must be abundant; more snow must fall than melts, and
+3. snow must not be removed by avalanches or wind.
+
+Glaciers can only form at latitudes or elevations above the **snowline**, which is the elevation above which snow can form and remain present year round. The snowline, at present, lies at sea level in polar latitudes and rises up to 6000 m in tropical areas.
+
+Glaciers form in these areas if the snow becomes compacted, forcing out the air between the snowflakes. As compaction occurs, the weight of the overlying snow causes the snow to recrystallize and increase its grain-size, until it increases its density and becomes a solid block of ice.
+
+.. image:: images/glacier.gif
+
+A glacier can change its size by **accumulation**, which occurs by addition of snowfall, compaction and recrystallization, and **ablation**, the loss of mass resulting from melting, usually at lower altitude, where temperatures may rise above freezing point in summer. Thus, depending on the balance between accumulation and ablation during a full season, the glacier can advance or retreat.
+
+
+Glaciers form in these areas when accumulating snow compresses and eventually turns into ice. In some cases, perennial snow accumulates on the ground and lasts all year. This makes a snow field and not a glacier since it is a thin accumulation of snow. Snow and glacial ice actually have a fair amount of void space that traps air. As the snow settles, compacts, and bonds with underlying snow, the amount of void space diminishes. When the snow gets buried by more snow, it compacts into granular firn (or névé)  with less air and it begins to resemble ice more than snow. Continual burial, compression, and recrystallization make the firn more dense and ice like. Eventually, the accumulated snow turns fully to ice, however, small air pockets remain trapped in the ice and form a record of the past atmosphere
+
+As the ice accumulates, it begins to flow downward under its own weight. Pressure-Temperature diagram of ice shows that ice actually melts under pressure (one of the unique properties of water) so **ice at the base of a typical glacier is actually melting**. About half of the overall glacial movement is from sliding on a film of meltwater along the bedrock surface and half from internal flow. These studies show that the ice near the surface (about the upper 165 feet [50 meters] depending on location, temperature, and flow rate) is rigid and brittle [4]. This upper zone is the brittle zone, the portion of the ice in which ice breaks when it moves forming large cracks along the top of a glacier called crevasses. These crevasses can be covered and hidden by a snow bridge and thus are a hazard for glacier travelers.
+
+.. raw:: html
+
+  <iframe src="https://opengeology.org/textbook/wp-admin/admin-ajax.php?action=h5p_embed&id=7" width="838" height="820" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://opengeology.org/textbook/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+
+Glaciers formation
+************************************************
+
 
 
 
