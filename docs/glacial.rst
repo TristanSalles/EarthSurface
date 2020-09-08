@@ -220,11 +220,25 @@ Erosional landforms are formed by removing material from the bedrock. The intern
     **Plucking** (or glacial quarrying) is the second dominant mode of erosion by ice masses. Blocks cracked from bedrock by ice melting/freezing and are picked up and transported by the overlying ice. This process depends upon joints or other weaknesses in bedrock that predate the ice mass. It often occurs on the lee side of an irregularity in the bed  (with the stoss side smoothly abraded and the lee side quarried following jointing in the rock).
 
 
-Since glaciers are typically much wider than rivers of similar length, and since they tend to erode more at their bases than their sides, they transform former V-shaped stream valleys into broad valleys that have relatively flat bottoms and steep sides with a distinctive “U” shape [5]. Little Cottonwood Canyon near Salt Lake City, Utah was occupied by a large glacier that extended down to the mouth of the canyon and into Salt Lake Valley [10]. Today, that canyon is the location of many erosional landforms including the U-shaped valley, as well as polished and striated rock surfaces. In contrast, river-carved canyons have a V-shaped profile when viewed in cross-section. Big Cottonwood Canyon, its neighbor to the north, has that V-shape in its lower parts, indicating that its glacier did not extend clear to its mouth but was confined to its upper parts.
+Since glaciers are typically much wider than rivers of similar length, and since they tend to erode more at their bases than their sides, they transform former **V-shaped stream valleys** into broad valleys that have relatively flat bottoms and steep sides with a **distinctive “U” shape**. The animated figure below illustrates the formation of a glacial valley - Glaciers change the shape of the valley from a “V” shape to a “U” (bBy Cecilia Bernal [CC BY-SA 4.0], via Wikimedia Commons).
 
-When two U-shaped valleys are adjacent to each other, the ridge between them can be carved into a sharp ridge called an arête. Since glaciers erode a broad valley, the arêtes are left behind with steep walls separating them. At the head of a glacially carved valley is a a bowl-shaped feautre called a cirque representing where the head of the glacier is eroding against the mountain by plucking rock away from it and the weight of the thick ice is eroding out a bowl.  After the glacier is gone, the bowl at the bottom of the cirque is often occupied by a lake called a tarn. Headward cirque erosion by three or more mountain glaciers produce horns, which are steep-sided, spire-shaped mountains with pronounced cirques on three or more sides. Low points along arêtes or between horns (also mountain passes) are termed cols. When a smaller tributary glacier intersects a larger trunk glacier, the smaller glacier erodes down less. Therefore, once the ice has been removed, the tributary valley is left as a hanging valley, sometimes with a waterfall. Where the trunk glacier straightens and widens the former V-shaped valley and erodes the ends of side ridges, the result is a steep triangle-shaped cliff called a truncated spur.
+.. image:: images/Glacier_Valley_formation-_Formación_Valle_glaciar.gif
+
+When two U-shaped valleys are adjacent to each other, the ridge between them can be carved into a sharp ridge called an **arête**.
 
 
+.. figure:: images/eroglac.png
+   :width: 85 %
+   :alt: Erosional glacial feature
+   :align: center
+
+   Example of erosional glacier landscapes.
+
+Since glaciers erode a broad valley, the arêtes are left behind with steep walls separating them. At the head of a glacially carved valley is a a bowl-shaped feature called a **cirque** representing where the head of the glacier is eroding against the mountain by plucking rock away from it and the weight of the thick ice is eroding out a bowl.
+
+Headward cirque erosion by three or more mountain glaciers produce **horns**, which are steep-sided, spire-shaped mountains with pronounced cirques on three or more sides. Low points along arêtes or between horns (also mountain passes) are termed **cols**.
+
+When a smaller tributary glacier intersects a larger trunk glacier, the smaller glacier erodes down less. Therefore, once the ice has been removed, the tributary valley is left as a hanging valley, sometimes with a waterfall.
 
 .. raw:: html
 
