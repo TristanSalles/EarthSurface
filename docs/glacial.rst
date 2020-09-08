@@ -31,7 +31,6 @@ Distribution and significance
   This part of the notes is based on the IPCC Special Report on the Ocean and Cryosphere in a Changing Climate (2019) (`link <https://www.ipcc.ch/site/assets/uploads/sites/3/2019/11/06_SROCC_Ch02_FINAL.pdf>`_).
 
 
-
 .. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
@@ -59,12 +58,10 @@ Distribution and significance
 
     Permafrost is ground that continuously remains frozen for two or more years, located on land or under the ocean.
 
-
-
 Cryosphere in high mountain regions
 *******************************************************************
 
-The cryosphere (including, snow, glaciers, permafrost, lake and river ice) is an integral element of high mountain regions. Widespread cryosphere changes affect physical, biological and human systems in the mountains and surrounding lowlands, with impacts evident even in the ocean. Almost 10% (671 million people) of the global population lived in high mountain regions in 2010, based on gridded population data (Jones and O’Neill, 2016) and a distance of less than 100 km from glaciers or permafrost located in mountains areas as defined in the following figure.
+The cryosphere (including, snow, glaciers, permafrost, lake and river ice) is an integral element of high mountain regions. Ice presently covers about 10% of Earth’s surface (Most of it is in the polar ice caps, particularly Antarctica). Widespread cryosphere changes affect physical, biological and human systems in the mountains and surrounding lowlands, with impacts evident even in the ocean. Almost 10% (671 million people) of the global population lived in high mountain regions in 2010, based on gridded population data (Jones and O’Neill, 2016) and a distance of less than 100 km from glaciers or permafrost located in mountains areas as defined in the following figure.
 
 
 .. figure:: images/IPCC-SROCC-CH_2_1.jpg
@@ -89,6 +86,24 @@ Ice sheets play a central role in the climate system. They store significant amo
 
 If the current warming of the climate continues, the ice sheets will respond at a yet unknown rate, with unknown consequences for the rest of the climate system.
 
+
+
+..  admonition:: Hydrological cycles, climate and landscape evolution
+    :class: toggle, important
+
+    - Ice masses (glaciers and ice sheets) are important sinks in the hydrological cycle,
+    - More than 82% of Earth’s freshwater is stored in the Antarctic and Greenland ice-sheets alone;
+    - Ice masses are important ‘drivers’ of environmental processes, including  climate, deep-water formation in the Southern Ocean driving carbon sequestration, planetary albedo as a feedback mechanism for glacial advance, and changes in atmospheric circulation.
+
+    .. figure:: images/Albedo.jpg
+        :width: 90 %
+        :alt: Albedo
+        :align: center
+
+        Sea ice reflects as much as 85% of solar radiation hitting the surface,  hence absorbing only 15%.  Ocean water,  by contrast,  reflects only about 7% of  solar radiation,  absorbing 93%. (from Don Perovich, CRREL)
+
+
+
 How has the distribution of glaciers and ice sheets changed?
 *******************************************************************
 
@@ -111,7 +126,7 @@ In recent geologic time the trend in ice coverage was not one of recession. Afte
 The figure below shows the estimated extent of global ice cover around 18,000 years ago. It is important to notice that the amount of ice in the Northern Hemisphere is double that of the Southern Hemisphere, and that only relatively small areas of the Australian Alps and Tasmania were covered by ice. At the peak of this ice age it is thought that ice covered 6000 square kilometres of the central plateau of Tasmania to a depth of 700 metres.
 
 .. figure:: images/prevglace.png
-    :width: 80 %
+    :width: 100 %
     :alt: Global glaciation about 18 000 years ago
     :align: center
 
