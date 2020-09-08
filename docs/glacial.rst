@@ -171,11 +171,19 @@ Glacier movement
 As the ice accumulates, it begins to flow downward under its own weight. Pressure-Temperature diagram of ice shows that ice actually melts under pressure (one of the unique properties of water) so **ice at the base of a typical glacier is actually melting** (right hand side figure above). **About half of the overall glacial movement is from sliding on a film of meltwater along the bedrock surface and half from internal flow**. The ice near the surface (about the upper 50 meters depending on location, temperature, and flow rate) is rigid and brittle. This upper zone is the **brittle zone**, the portion of the ice in which ice breaks when it moves forming large cracks along the top of a glacier called **crevasses**.
 
 .. figure:: images/glacflow.png
-    :width: 90 %
+    :width: 100 %
     :alt: Glacier movements
     :align: center
 
 Below the **brittle zone**, there is so much weight of the overlying ice (typically exceeding 100 kilopascals-approximately 100,000 times atmospheric pressure) that it no longer breaks when force is applied to it but rather it bends or flows. **This is the plastic zone and within this zone the ice flows**.  The plastic zone represents the great majority of the ice of a glacier and often contains a fair amount of sediment from as large as boulders and as small as silt and clay which act as grinding agents. The bottom of the plastic zone slides across the bedrock surface and represents the zone of erosion.
+
+Valley glaciers move (on average) at 10-200 m per year. In comparison, ice sheets (or ‘ice streams’ within the ice sheets) can move at 200-1400 m per year. The video below shows the glacial ice velocity ranges from a few m/year near divides to a few km/year on fast-moving glaciers and floating ice shelves on the Antarctic ice sheets.
+
+.. raw:: html
+
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" height="380" src="https://www.youtube.com/embed/KlDO0C8r_ws?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 
 
 Glaciers landforms
