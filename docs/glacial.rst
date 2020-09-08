@@ -162,7 +162,7 @@ The above animated figure from `OGGM-Edu <https://edu.oggm.org/en/latest/index.h
 - **accumulation**, which occurs by addition of snowfall, compaction and recrystallisation, and
 - **ablation**, the loss of mass resulting from melting, usually at lower altitude, where temperatures may rise above freezing point in summer.
 
-.. important:
+.. important::
   Depending on the balance between accumulation and ablation during a full season, the glacier can advance or retreat. The zone where there is net accumulation (where there is more mass gained than lost) is the **accumulation zone**. The part of the glacier that has more ablation than accumulation is the **ablation zone**. Where ablation is equal to accumulation is the **Equilibrium line altitude ELA**.
 
 Glacier movement
