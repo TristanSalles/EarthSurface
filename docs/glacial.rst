@@ -139,11 +139,13 @@ Glacial processes
 ------------------------------
 
 .. note::
-  This section is based on the `open geology book <https://opengeology.org/textbook/14-glaciers/>`_, Prof. Nelson from Tulane University `Glaciers and Glaciation lecture notes <https://www.tulane.edu/~sanelson/eens1110/glaciers.htm>`_ and the `antarcticglaciers.org http://www.antarcticglaciers.org`_ website from Dr Davies from Royal Holloway, University of London.
+  This section is based on the `open geology book <https://opengeology.org/textbook/14-glaciers/>`_, Prof. Nelson from Tulane University `Glaciers and Glaciation lecture notes <https://www.tulane.edu/~sanelson/eens1110/glaciers.htm>`_ and the `antarcticglaciers.org <http://www.antarcticglaciers.org>`_ website from Dr Davies from Royal Holloway, University of London.
 
 
 Glacier formation and movement
 ************************************************
+
+.. image:: images/glacier.gif
 
 Three conditions are necessary to form a glacier:
 
@@ -155,7 +157,6 @@ Glaciers can only form at latitudes or elevations above the **snowline**, which 
 
 Glaciers form in these areas if the snow becomes compacted, forcing out the air between the snowflakes. As compaction occurs, the weight of the overlying snow causes the snow to recrystallize and increase its grain-size, until it increases its density and becomes a solid block of ice.
 
-.. image:: images/glacier.gif
 
 A glacier can change its size by **accumulation**, which occurs by addition of snowfall, compaction and recrystallization, and **ablation**, the loss of mass resulting from melting, usually at lower altitude, where temperatures may rise above freezing point in summer. Thus, depending on the balance between accumulation and ablation during a full season, the glacier can advance or retreat.
 
