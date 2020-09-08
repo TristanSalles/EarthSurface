@@ -73,8 +73,8 @@ The variables for the Reynolds number (:math:`Re`) are: flow velocity (:math:`u`
 The numerator of the above equation denotes the inertial forces. **Inertia is the resistance to change in motion**, and inertial forces tend to make a bit of the fluid keep flowing in its own direction if it is misdirected from the main flow direction. Thus, high inertial forces tend to cause more turbulence. The denominator represents the viscous forces which tend to suppress turbulence by damping out variations in motion through friction. Thus, a flow with a high viscosity (honey) tends to have less turbulence than a low viscosity flow (air).
 
 
-.. figure:: images/Laminar-Turbulent_Flow.png
-   :width: 95 %
+.. figure:: images/Flow-Regime.png
+   :width: 53 %
    :alt: Laminar and Turbulent
    :align: center
 
@@ -93,13 +93,19 @@ In most cases, water and air flows have high Re because :math:`l` is large, :mat
 Boundary Layer
 ************************************************
 
+.. raw:: html
+
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" height="380" src="https://www.youtube.com/embed/cUTkqZeiMow?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+
 There is boundary layer at the edge of every flow. Flows have an average speed in the middle, but friction with immobile surfaces slows down the speed of the flow right at the surface. This creates a boundary layer that has different flow characteristics than the rest of the flow. Right at the surface, the water does not move, but as you go higher into the flow it starts to move more like the average flow. The area of the flow that has a reduced speed is called the boundary layer. The thickness of the boundary layer depends on Re (i.e. the amount of turbulence) and the roughness of the surface the flow is moving past. If the main water flow is very turbulent, it changes the velocity distribution because more of the high speed water is mixed down into the lower speed areas. Thus, the boundary layer tends to be thin. In less turbulent flow, there is little mixing of water from the center of the flow toward the edge of the flow, so the boundary layer tends to be thicker.
 
 Viscous/Laminar Sublayer - Within the boundary layer, right next to the surface, the laminar sublayer is present. Re=u*l*ρ/µ - remember this defines the difference between laminar and turbulent flow. Because u (water speed) is very low at the base of the boundary layer, the Re is low there and the flow is laminar. The laminar flow part of the boundary layer is called the viscous or laminar sublayer, “viscous” because the viscous effects are more important than the inertial effects. (The fluid is NOT more viscous here.) Farther up in the flow, u is higher, so the flow is typically turbulent. If grains do not extend above the top of this layer, they do not “see” much turbulence, and they are less likely to be transported. If they do stick up beyond the viscous sublayer because the viscous sublayer is thin or the grains are large, the grains feel the force of the turbulent flow.
 
 Bed roughness or the characteristics of the surface also affect the boundary layer by affecting the amount of water that has to interact with the surface. A very smooth bed, say one made of mud, does not deflect the water at all, so there is less mixing and less turbulence. There is a well developed laminar sublayer. In contrast, a bed with pebbles or boulders disrupts the direction of water flow in the boundary layer. The water gets deflected around the pebbles. Water from above tends to take its place. Since it is moving faster, the average water speed in the boundary layer increases. Thus, a rough bed reduces the thickness of the boundary layer much like a more turbulent flow does. A rough bed also disrupts the laminar sublayer by forcing the flow to move around objects. The laminar sublayer is developed locally, but in general, rough beds are very turbulent.
 
-The boundary layer in a flume:
 
 
 Sediments and Flow
