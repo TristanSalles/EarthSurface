@@ -139,7 +139,7 @@ Glacial processes
 ------------------------------
 
 .. note::
-  This section is based on the `open geology book <https://opengeology.org/textbook/14-glaciers/>`_ and Prof. Nelson from Tulane University `Glaciers and Glaciation lecture notes <https://www.tulane.edu/~sanelson/eens1110/glaciers.htm>.`_`
+  This section is based on the `open geology book <https://opengeology.org/textbook/14-glaciers/>`_, Prof. Nelson from Tulane University `Glaciers and Glaciation lecture notes <https://www.tulane.edu/~sanelson/eens1110/glaciers.htm>`_ and the `antarcticglaciers.org http://www.antarcticglaciers.org`_ website from Dr Davies from Royal Holloway, University of London.
 
 
 Glacier formation and movement
