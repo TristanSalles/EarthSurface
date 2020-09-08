@@ -189,16 +189,41 @@ Valley glaciers move (on average) at 10-200 m per year. In comparison, ice sheet
 Glaciers landforms
 ************************************************
 
-Glacial landforms are of two kinds, erosional and depositional landforms. Erosional landforms are formed by removing material. The internal pressure and movement within glacial ice causes some melting and glaciers slide over bedrock on a thin film of water. Glacial ice also contains a large amount of sediment such as sand, gravel, and boulders. Together, the movement plucks off bedrock and grinds the bedrock producing a polished surface and fine sediment called rock flour as well as other poorly-sorted sediments. Characteristic depositional landscapes are produced when the ice melts and retreats and leaves behind these sediments with distinct shapes and compositions. Because glaciers are among the earliest geological processes studied by geologists whose studies were in Europe, the terminology applied to glaciers and glacial features contains many terms from European languages.
+Glacial landforms are of two kinds, **erosional** and **depositional** landforms.
 
 Erosional glacial landforms
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Erosional landforms are formed by removing material from the bedrock. The internal pressure and movement within glacial ice causes some melting and glaciers slide over bedrock on a thin film of water. Glacial ice also contains a large amount of sediment such as sand, gravel, and boulders. Together, the movement plucks off bedrock and grinds the bedrock producing a polished surface and fine sediment called rock flour as well as other poorly-sorted sediments.
 
 .. figure:: images/glacero.png
    :width: 85 %
-   :alt: Becker and Faccenna
+   :alt: Erosional glacial landform
    :align: center
+
+..  admonition:: Abrasion
+    :class: toggle, important
+
+    **Abrasion** occurs at the contact between the bedrock boundary (*e.g.* the base in the case of ice sheets, the base and sides in the case of mountain glaciers) and rock clasts embedded in the basal ice.
+
+    The effectiveness of abrasion (in terms of yield of sediment) is dependent upon a range of factors:
+
+    - the relative hardness of the bedrock material and the debris in the basal ice (they need to be different materials);
+    - the normal pressure at the base of the ice mass;
+    - the rate of basal sliding.
+
+    Elongated grooves are created by fragments of rock embedded in the ice at the base of a glacier scraping along the bedrock surface called **glacial striations**.
+
+..  admonition:: Plucking
+    :class: toggle, important
+
+    **Plucking** (or glacial quarrying) is the second dominant mode of erosion by ice masses. Blocks cracked from bedrock by ice melting/freezing and are picked up and transported by the overlying ice. This process depends upon joints or other weaknesses in bedrock that predate the ice mass. It often occurs on the lee side of an irregularity in the bed  (with the stoss side smoothly abraded and the lee side quarried following jointing in the rock).
+
+
+Since glaciers are typically much wider than rivers of similar length, and since they tend to erode more at their bases than their sides, they transform former V-shaped stream valleys into broad valleys that have relatively flat bottoms and steep sides with a distinctive “U” shape [5]. Little Cottonwood Canyon near Salt Lake City, Utah was occupied by a large glacier that extended down to the mouth of the canyon and into Salt Lake Valley [10]. Today, that canyon is the location of many erosional landforms including the U-shaped valley, as well as polished and striated rock surfaces. In contrast, river-carved canyons have a V-shaped profile when viewed in cross-section. Big Cottonwood Canyon, its neighbor to the north, has that V-shape in its lower parts, indicating that its glacier did not extend clear to its mouth but was confined to its upper parts.
+
+When two U-shaped valleys are adjacent to each other, the ridge between them can be carved into a sharp ridge called an arête. Since glaciers erode a broad valley, the arêtes are left behind with steep walls separating them. At the head of a glacially carved valley is a a bowl-shaped feautre called a cirque representing where the head of the glacier is eroding against the mountain by plucking rock away from it and the weight of the thick ice is eroding out a bowl.  After the glacier is gone, the bowl at the bottom of the cirque is often occupied by a lake called a tarn. Headward cirque erosion by three or more mountain glaciers produce horns, which are steep-sided, spire-shaped mountains with pronounced cirques on three or more sides. Low points along arêtes or between horns (also mountain passes) are termed cols. When a smaller tributary glacier intersects a larger trunk glacier, the smaller glacier erodes down less. Therefore, once the ice has been removed, the tributary valley is left as a hanging valley, sometimes with a waterfall. Where the trunk glacier straightens and widens the former V-shaped valley and erodes the ends of side ridges, the result is a steep triangle-shaped cliff called a truncated spur.
+
 
 
 .. raw:: html
@@ -209,6 +234,7 @@ Erosional glacial landforms
 Depositional glacial landforms
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Characteristic depositional landscapes are produced when the ice melts and retreats and leaves behind these sediments with distinct shapes and compositions.
 .. raw:: html
 
   <iframe src="https://opengeology.org/textbook/wp-admin/admin-ajax.php?action=h5p_embed&id=9" width="838" height="417" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://opengeology.org/textbook/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
