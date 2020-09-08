@@ -278,7 +278,7 @@ Capacity
 
 
 .. figure:: images/capacity.png
-   :width: 80 %
+   :width: 60 %
    :alt: River capacity
    :align: center
 
