@@ -20,17 +20,12 @@ In this chapter we will discuss 1) the forces governing the settling and movemen
     - Appreciate the role of sediment transport processes in landform development
 
 
-.. figure:: images/Hjulstromdiagram.png
-   :scale: 65 %
-   :alt: Hjulstrom diagram of sediment transport by running water
-   :align: center
-
-   Hjulstrom diagram of sediment transport by running water
-
-
 
 Fluid flow and flow properties
 -------------------------------
+
+.. note::
+  This section is based on the lecture by Dawn Sumner from UC Davies: `**Walther's Law and Fluid Flow** <http://dawnssedstrat.blogspot.com/2011/01/lecture-2-walthers-law-and-fluid-flow.html>`_.
 
 
 Flow types
@@ -59,13 +54,23 @@ Much of what we understand concerning sediment transport is based on a series of
 Reynolds Number
 ************************************************
 
-The Reynolds number predicts the extent of turbulence in a fluid based on how fast the fluid is flowing, the geometry of the flow (how deep and wide it is, etc.), and the density and viscosity the of the fluid.
+.. important::
 
-[Viscosity is a measure of the resistance of a material to flow, i.e. how “thick” and easily deformed it is. Viscosity is sort-of like the amount of friction within a substance. Walking through air is easy, because there is not much friction between air molecules. Air has a low viscosity. Swimming is more difficult because the water drags on your body. This is due to the “friction” between adjacent water molecules, i.e. higher viscosity. Ice is more viscous and impossible to move through because of the crystal bonds between the water molecules. It flows, but it does so slowly. ]
+  The **Reynolds number** predicts the extent of turbulence in a fluid based on how fast the fluid is flowing, the geometry of the flow (how deep and wide it is, *etc.*), and the density and viscosity the of the fluid. The number is **dimensionless** and represents the ratio between **fluid inertial forces** and **fluid viscous forces**.
 
-Back to the Reynolds number. The variables for the Reynolds number (Re) are: flow velocity (u), characteristic length (l) which represents flow geometry, say river depth, fluid density (ρ), and fluid viscosity (µ). The book uses µ/ρ = v (kinematic viscosity). Re = (fluid inertial forces)/(fluid viscous forces) = l*u*ρ/µ. The units for this equation are typically (length)*(length/time)*(mass/length3) / (mass/(length*time)). These all cancel out to form a unitless number, if you choose the same set of units for each variable, which you should always do.
+..  admonition:: Viscosity
+    :class: toggle, note
 
-Re can be viewed as inertial forces divided by viscous forces. Inertia is the resistance to change in motion, and inertial forces tend to make a bit of the fluid keep flowing in its own direction if it is misdirected from the main flow direction. Thus, high inertial forces tend to cause more turbulence. In contrast, viscous forces tend to suppress turbulence by damping out variations in motion through friction. Thus, a flow with a high viscosity (ice) tends to have less turbulence than a low viscosity flow (air).
+    Viscosity is a measure of the resistance of a material to flow, *i.e.* how **thick** and easily deformed it is. Viscosity is sort-of like the amount of friction within a substance. Walking through air is easy, because there is not much friction between air molecules. Air has a low viscosity. Swimming is more difficult because the water drags on your body. This is due to the **friction** between adjacent water molecules, *i.e.* higher viscosity.
+
+The variables for the Reynolds number (:math:`Re`) are: flow velocity (:math:`u`), characteristic length (:math:`l`) which represents flow geometry, like the river depth, fluid density (:math:`\rho`), and fluid viscosity (:math:`\mu` in general the kinematic viscosity is preferred in the equation definition :math:`\nu=\mu / \rho`). 
+
+.. math::
+
+   Re = \frac{ l \times u}{\nu}
+
+
+:math:`Re` can be viewed as inertial forces divided by viscous forces. Inertia is the resistance to change in motion, and inertial forces tend to make a bit of the fluid keep flowing in its own direction if it is misdirected from the main flow direction. Thus, high inertial forces tend to cause more turbulence. In contrast, viscous forces tend to suppress turbulence by damping out variations in motion through friction. Thus, a flow with a high viscosity (ice) tends to have less turbulence than a low viscosity flow (air).
 
 The magnitude of Re gives an idea of whether the flow is turbulent or laminar. Turbulent flow has Re greater than 2000 and laminar flow has Re less than500. Flow with Re between 500 and 2000 is transitional and has some characteristics of laminar flow, but some turbulence as well. In most cases, water and air flows have high Re because l is large, u is high and µ is low. Rivers and wind storms are good examples of turbulent flow. In contrast, ice has a large µ and flows slowly (u is low), so it is usually laminar. Also, very thin, slow flows of water, such as water flowing off a smooth cement parking lot, has a low Re because l and u are small. Thus, it can be laminar. Laminar flow also occurs locally in turbulent flows right at the contact between the fluid and a smooth surface it is flowing over because u becomes very slow. This is really important for sediment transport, and we'll talk more about it in a few minutes.
 
@@ -90,6 +95,18 @@ Sediments and Flow
 Key Concept: The boundary layer strongly affects the amount of “Bed Shear Stress” which corresponds to the forces that tend to roll particles along the bed and the pressure differences above and below grains, which tend to lift them off the bed.
 
 Bed Shear Stress - Sediments are affected by the difference in flow speeds from the bottom to the top of the boundary layer, gravity, and friction with the ground. Bed shear stress is a measure of these differences; it is the differential force that a grain feels from top to bottom. In a thick boundary layer, the speed of water flow at the top of the grains is not much different from the bottom, so bed shear stress is lower, and sediment is less likely to move. In a thin boundary layer, bed shear stress is much higher, and grains are likely to roll down flow. Thus, more turbulent flow (with a thinner boundary layer) results in more sediment transport. Bed shear stress increases with increasing fluid density, slope, and turbulence (water depth and flow speed). For example, water is better at moving sediment than air because it has a higher density and exerts a larger bed shear stress than air can. Deep, fast rivers move more sediment than shallow, slow rivers because of more turbulence and higher flow speeds in the boundary layer in fast rivers.
+
+
+
+.. figure:: images/Hjulstromdiagram.png
+   :scale: 65 %
+   :alt: Hjulstrom diagram of sediment transport by running water
+   :align: center
+
+   Hjulstrom diagram of sediment transport by running water
+
+
+
 
 Some definitions
 *******************

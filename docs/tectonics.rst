@@ -336,10 +336,10 @@ Australian landscape evolution since the Jurassic
 Australia is an outstanding natural laboratory to study the influence of dynamic topography on landscape evolution, having been largely unaffected by tectonic deformation since the Jurassic. Recent studies of the past eastern Australian landscape from present-day longitudinal river profiles and from mantle flow models suggest that the interaction of plate motion with mantle convection accounts for the two phases of large-scale uplift of the region since 120 Ma.
 
 
-In this video, I present how we coupled the dynamic topography predicted by one of these mantle flow models to a surface process model to quantify the feedbacks between mantle flow, landscape dynamics and sediment transport at continental scale over the last 150 Ma.
+In this video, I present how we coupled the dynamic topography predicted by one of these mantle flow models to a surface process model to quantify the feedbacks between mantle flow, landscape dynamics and sediment transport at continental scale over the last 150 Ma (associated paper `Salles et al., 2017 <https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GC006617>`_)
 
 .. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="100%" height="380" src="https://www.youtube.com/embed/v-b1nM0RbOs?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="100%" height="380" src="https://www.youtube.com/embed/grPO4uyKykg?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
