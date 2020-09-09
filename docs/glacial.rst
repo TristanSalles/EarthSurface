@@ -10,7 +10,6 @@ Glacial geomorphology
 
 
 Glacial geomorphology is the scientific study of the processes, landscapes, and landforms produced by ice sheets, valley glaciers, and other ice masses on the surface of the Earth.
-
 These processes include understanding how ice masses move, and how glacial ice erodes, transports, and deposits sediment.
 
 ..  admonition:: Learning outcomes
@@ -408,7 +407,7 @@ Glaciers that reach the oceans or even lakes, may calve off into large **iceberg
     **Rain-out from icebergs** takes place in deep water, because of low density contrast between ice and water. Sediment is settling on sea bottom due to basal melting of icebergs. The sediment is diamictic, and graded if the water depth is high.
 
 
-..  admonition:: So what do we know ?
+..  admonition:: So what did you learn?
    :class: toggle, important
 
 
