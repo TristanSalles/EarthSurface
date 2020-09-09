@@ -160,47 +160,148 @@ The processes of transport and deposition by wind produce bedforms that are in s
 Aeolian ripples
 ****************************
 
+As wind blows across a bed of sand, grains will move
+by saltation forming a thin carpet of moving sand
+grains. The grains are only in temporary suspension,
+and as each grain lands, it has sufficient energy to
+knock impacted grains up into the free stream of air,
+continuing the process of saltation. Irregularities in
+the surface of the sand and the turbulence of the air
+flow will create patches where the grains are slightly
+more piled up. Grains in these piles will be more
+susceptible to being picked up by the flow and at a
+constant wind velocity all medium sand grains will
+move about the same distance each time they saltate.
+The result is a series of piles of grains aligned perpendicular
+to the wind and spaced equal distances apart.
+These are the crests of aeolian ripples (Figs 8.4 &
+8.5). The troughs in between are shadow zones where
+grains will not be picked up by the air flow and where
+few saltating grains land.
+
+Aeolian ripples have extremely variable wavelengths
+(crest to crest distance) ranging from a few
+centimetres to several metres. Ripple heights (bottom
+of the trough to the top of a crest) range from less than
+a centimetre to more than ten centimetres. Coarser
+grains tend to be concentrated at the crests, where
+the finer grains are winnowed away by the wind, and
+as aeolian ripples migrate they may form a layer of
+inversely graded sand. Where a crest becomes well
+developed grains may avalanche down into the adjacent
+trough forming cross-lamination, but this is less
+common in aeolian ripples than in their subaqueous
+counterparts.
 
 Aeolian dunes
 ****************************
 
-.. figure:: images/crossbed.jpg
-    :width: 60 %
+.. figure:: images/DuneTypes.jpg
+    :width: 100 %
     :alt: Cross-bedding
     :align: center
+
+    Main aeolian dune types, their forms determined by the direction of the prevailing wind(s) and the availability of sand.
+    Cross-bedded facies could be used to infer the likely distribution of palaeo-wind directions.
+
+Aeolian dunes are bedforms that range from 3m to
+600m in wavelength and are between 10 cm and
+100m high. They migrate by the saltation of sand
+up the stoss (upwind) side of the dune to the crest
+(Fig. 8.6). This saltation may result in the formation
+of aeolian ripples which are commonly seen on the
+stoss sides of dunes (Fig. 8.7). Sand accumulating at
+the crest of the dune is unstable and will cascade
+down the lee slope as an avalanche or grain flow
+(Fig. 8.8) (4.5.3) to form an inclined layer of sand
+(Fig. 8.6). Repeated avalanches build up a set of crossbeds
+that may be preserved if there is a net accumulation
+of sand. At high wind speeds some sand grains
+are in temporary suspension and are blown directly
+over the crest of the dune and fall out onto the
+lee slope. These grain fall deposits accumulate on
+the lee slope, but they will usually be reworked
+from the upper slope by avalanching: some may
+be preserved at the toe bedded with grain flow
+deposits.
+
+The orientation and form (planar or trough) of the
+cross-bedding will depend on the type of dune
+(Figs 8.9 & 8.10) (McKee 1979; Wasson & Hyde
+1983). Planar cross-beds will form by the migration
+of transverse dunes, straight-crested forms aligned
+perpendicular to the prevailing wind direction. Transverse
+dunes form where there is an abundant supply
+of sand and as the sand supply decreases there is a
+transition to barchan dunes, which are lunate structures
+with arcuate slip faces forming trough crossbedding.
+Under circumstances where there are two
+prominent wind directions at approximately 908 to
+each other, linear or seif dunes form. The deposits
+of these linear dunes are characterised by cross-bedding
+reflecting avalanching down both sides of the dune and
+hence oriented in different directions. In areas of multiple
+wind directions star dunes have slip faces in many
+orientations and hence the cross-bedding directions
+display a similar variability.
+
+
+There are circumstances in which the whole dune
+bedform is preserved but more commonly the upper
+part of the dune is removed as more aeolian sand is
+deposited in an accumulating succession. The size of
+the set of cross-beds formed by the migration of aeolian
+dunes can vary from around a metre to ten or twenty
+metres (Fig. 8.11). Such large scale cross-bedding is
+common in aeolian deposits but is seen less frequently
+in subaqueous sands, which are typically cross-bedded
+in sets a few tens of centimetres to metres thick.
+
 
 Desert environments
 ****************************
 
-Palaeowind directions
+Aeolian sands form one part of an arid zone facies
+association that also includes ephemeral lake deposits
+and alluvial fan and/or ephemeral river sediments
+(Figs 8.12 & 8.13). In these dry areas, sediment is
+brought into the basin by rivers that bring weathered
+detritus from the surrounding catchment areas and
+deposit poorly sorted mixtures of sediment on alluvial
+fans (9.5) or associated with the channels of ephemeral
+rivers (9.2.3). The sandy component of these
+deposits is subsequently reworked by the wind and
+redeposited in other parts of the basin in aeolian dune
+complexes. Water from these rivers and fans ponds in
+the basin to form ephemeral lakes and these temporary
+lakes dry up to leave deposits of mud and evaporite
+minerals (10.4). Through time the positions of the
+ephemeral lakes, sand dunes and the alluvial fans will
+change, and the deposits of these three sub-environments
+will be preserved as intercalated beds in the
+succession of strata (5.6.3).
+
+The dominant factor in determining the distribution
+and extent of sandy deserts is climate. Arid conditions
+are necessary to inhibit the development of
+plants and a soil that would stabilise loose sediment,
+and an absence of abundant surface water prevents
+sediment from being reworked and removed by fluvial
+processes. Sand accumulates to form an erg where
+there are local or regional depressions: these may
+range from small build-ups of sand adjacent to topography
+to broad areas of the continent covering many
+thousands of square kilometres.
+
+
+Palaeo-wind directions
 ****************************
 
+.. note::
+  The slip faces of aeolian dunes generally face downwind so by measuring the direction of dip of cross-beds formed by the migration of aeolian dunes it is possible to determine the direction of the prevailing wind at the time of deposition.
 
-The slip faces of aeolian dunes generally face downwind
-so by measuring the direction of dip of crossbeds
-formed by the migration of aeolian dunes it is
-possible to determine the direction of the prevailing
-wind at the time of deposition (Fig. 8.9). Results can
-be presented as a rose diagram (5.3.3). The variability
-of the readings obtained from cross-beds will depend
-upon the type of dune (McKee 1979). Transverse
-dunes generate cross-beds with little variability in
-orientation, whereas the curved faces of barchan
-dunes produce cross-beds that may vary by as much
-as 458 from the actual downwind direction. Multiple
-directions of cross-bedding result from the numerous
-slip faces of a star dune. In all cases the confidence
-with which the palaeowind direction can be inferred
-from cross-bedding orientations is improved with the
-more readings that are taken.
-Wind directions are normally expressed in terms of
-the direction the wind blows from, that is, a southwesterly
-wind is one that is blowing from the southwest
-towards the northeast and will generate dune
-cross-bedding which dips towards the northeast. Note
-that this form of expression of direction is different from
-that of water currents that are normally presented in
-terms of the direction the flow is towards.
+The variability of the readings obtained from cross-beds will depend upon the type of dune. Transverse dunes generate cross-beds with little variability in orientation, whereas the curved faces of barchan dunes produce cross-beds that may vary by as much as 45 degrees from the actual downwind direction. Multiple directions of cross-bedding result from the numerous slip faces of a star dune.
+
 
 Aeolian deposits outside deserts
 ---------------------------------
@@ -209,6 +310,36 @@ Aeolian dust deposits
 ****************************
 
 
+There are deposits of Quaternary age in eastern Europe, North America and China that are interpreted as accumulations of wind-blown dust. These deposits, known as **loess**, locally occur in beds several metres thick made up predominantly of well-sorted silt-sized material, with little clay or sand-sized material present.
+
+.. figure:: images/loess.png
+    :width: 90 %
+    :alt: Loess
+    :align: center
+
+    Loess forms as a ‘blanket’ over the existing topography (up to 300 m thick). Loess covers about 5% of the world’s terrestrial surface, the thickest and  most extensive deposits in China, central Asia, central and eastern Europe, Great Plains of north America and Argentina. The Loess Plateau (China Central and western China) covers around 500,000 km2. It is composed of a blanket of fine sediment between 100 and 300 m in thickness.
+
+
+The particle size distribution of loess tends to be bi-modal, or strongly  positively skewed (indicating a tail of fine particles);
+composed of particles 10-50 μm in size with a primary modal peak between 20-30 μm.
+
+The origin of **loess** is related to episodes of retreat of ice sheets, as large amounts of loose detritus carried in the ice were released.
+
+..  admonition:: Loess origin from periglacial environment
+    :class: toggle, important
+
+    In the cold periglacial environment in front of the receding ice colonisation by plants and stabilisation of the soil would have been slow, so the glacial debris was exposed on the outwash plains, where wind picked up and transported the silt-sized dust. This dust was probably transported over large parts of the globe but accumulated as loess deposits in some places. Similar processes probably occurred during other glacial episodes in Earth history, but pre-Quaternary loess deposits have not been recognised. The preservation potential of loess is likely to be quite low because it is soft, loose material that is easily reworked and mixed with other sediment.
+
+..  admonition:: Loess origin from volcanism
+    :class: toggle, important
+
+    Volcanism is an important source of dust in the atmosphere. Explosive eruptions can send plumes of volcanic ash high up into the atmosphere where it is distributed by wind. Coarser ash tends to be deposited close to the volcano, while the silt-sized ash particles can be transported around the world. Large amounts of atmospheric dust from eruptions can darken the sky, and it will gradually fall as fine sediment.
+
+..  admonition:: Loess origin from fires
+    :class: toggle, important
+
+    A further source of atmospheric dust is from fires that propel soot (fine carbon) up into the air, where it can be redistributed by the wind. Despite the fine grain size, soot, volcanic and terrigenous dust can all be distinguished by geochemical analysis.
+
 
 .. raw:: html
 
@@ -216,59 +347,7 @@ Aeolian dust deposits
     <iframe width="100%" height="380" src="https://www.youtube.com/embed/Esz6ne9x9yM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
-There are deposits of Quaternary age in eastern Europe,
-North America and China that are interpreted as
-accumulations of wind-blown dust (Pye 1987). These
-deposits, known as loess, locally occur in beds several
-metres thick made up predominantly of well-sorted
-silt-sized material, with little clay or sand-sized material
-present. The origin of loess is related to episodes of
-retreat of ice sheets, as large amounts of loose detritus
-carried in the ice were released. In the cold periglacial
-environment in front of the receding ice colonisation
-by plants and stabilisation of the soil would have been
-slow, so the glacial debris was exposed on the outwash
-plains, where wind picked up and transported
-the silt-sized dust. This dust was probably transported
-over large parts of the globe but accumulated as loess
-deposits in some places. Similar processes probably
-occurred during other glacial episodes in Earth history,
-but pre-Quaternary loess deposits have not been
-recognised. The preservation potential of loess is likely
-to be quite low because it is soft, loose material that is
-easily reworked and mixed with other sediment.
-Volcanism is an important source of dust in the
-atmosphere. Explosive eruptions can send plumes of
-volcanic ash high up into the atmosphere where it is
-distributed by wind. Coarser ash tends to be deposited
-close to the volcano (although in very large eruptions
-this can be hundreds of kilometres away – 17.6.2),
-while the silt-sized ash particles can be transported
-around the world. Large amounts of atmospheric dust
-from eruptions can darken the sky, and it will gradually
-fall as fine sediment. A further source of atmospheric
-dust is from fires that propel soot (fine carbon)
-up into the air, where it can be redistributed by the
-wind. Despite the fine grain size, soot, volcanic and
-terrigenous dust can all be distinguished by geochemical
-analysis.
-Aeolian dust is dispersed worldwide, but most of it
-ends up in other marine and continental depositional
-environments where it mixes with other sediment and
-its origin cannot easily be determined. In most places
-the proportion of aeolian dust is very low compared
-with other sediment being deposited, but there are
-some environments where terrigenous clastic deposition
-is very low, and the main source of silt and clay
-can be aeolian dust. Limestones formed in carbonateforming
-environments can usually be shown to contain
-a residue of dust if the calcium carbonate is dissolved,
-and dust settled on ice sheets and glaciers may
-be seen as layers within the ice. The parts of the deep
-oceans that are distant from any continental margin
-receive very little sediment (16.5): airborne dust that
-settles through the water column can therefore be an
-important component of deep ocean deposits.
+**Aeolian dust** is dispersed worldwide, but most of it ends up in other marine and continental depositional environments where it mixes with other sediment and its origin cannot easily be determined. In most places the proportion of aeolian dust is very low compared with other sediment being deposited, but there are some environments where terrigenous clastic deposition is very low, and the main source of silt and clay can be aeolian dust. The parts of the deep oceans that are distant from any continental margin receive very little sediment: **airborne dust that settles through the water column can therefore be an important component of deep ocean deposits**.
 
 Aeolian sands in other environments
 ************************************************
@@ -276,38 +355,14 @@ Aeolian sands in other environments
 Beach dunes
 ^^^^^^^^^^^^^^^^^^^^^
 
-Sand dunes built up by aeolian action can form adjacent
-to beaches in any climatic setting. In the intertidal
-zone of a foreshore loose sediment is subaerially
-exposed at low tide, and as it dries out it is available to
-be picked up and redeposited by the wind. Beach dune
-ridges form where the foreshore sediments are mainly
-sandy, exposed at low tide and subject to removal by
-onshore winds. The sand then accumulates at the
-head of the beach, either as a simple narrow ridge or
-sometimes extending for hundreds of metres inland.
-In humid climates the dunes become colonised by
-grasses, shrubs and trees that stabilise the sand and
-allow the ridges to build up metres to tens of metres
-thickness. The roots of these plants and burrowing
-animals disrupt any depositional stratification, so the
-cross-bedding characteristic of desert dunes may not
-be preserved in beach dune ridges.
+**Sand dunes built up by aeolian action can form adjacent to beaches in any climatic setting**. In the intertidal zone of a foreshore loose sediment is subaerially exposed at low tide, and as it dries out it is available to be picked up and redeposited by the wind. Beach dune ridges form where the foreshore sediments are mainly sandy, exposed at low tide and subject to removal by onshore winds. The sand then accumulates at the head of the beach, either as a simple narrow ridge or sometimes extending for hundreds of metres inland.
+
+In humid climates the dunes become colonised by grasses, shrubs and trees that stabilise the sand and allow the ridges to build up metres to tens of metres thickness.
 
 Periglacial deposits
 ^^^^^^^^^^^^^^^^^^^^^
 
-
-Glacial outwash areas (7.4.3) are places where loose
-detritus that has been released from melting ice
-remains exposed on the surface for long periods of
-time because plant growth and soil formation is slow
-in periglacial regions. Wind blowing over the outwash
-plain can pick up sand and redeposit it locally,
-usually against topographic features such as the side
-of a valley. These patches of aeolian sand may therefore
-occur intercalated with fluvio-glacial facies
-(7.4.3), but rarely form large deposits.
+Glacial outwash areas are places where loose detritus that has been released from melting ice remains exposed on the surface for long periods of time because plant growth and soil formation is slow in periglacial regions. Wind blowing over the outwash plain can pick up sand and redeposit it locally, usually against topographic features such as the side of a valley. These patches of aeolian sand may therefore occur intercalated with fluvio-glacial facies, but rarely form large deposits.
 
 
 ..  admonition:: So what did you learn?
