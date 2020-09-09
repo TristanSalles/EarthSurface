@@ -160,43 +160,29 @@ The processes of transport and deposition by wind produce bedforms that are in s
 Aeolian ripples
 ****************************
 
-As wind blows across a bed of sand, grains will move
-by saltation forming a thin carpet of moving sand
-grains. The grains are only in temporary suspension,
-and as each grain lands, it has sufficient energy to
-knock impacted grains up into the free stream of air,
-continuing the process of saltation. Irregularities in
-the surface of the sand and the turbulence of the air
-flow will create patches where the grains are slightly
-more piled up. Grains in these piles will be more
-susceptible to being picked up by the flow and at a
-constant wind velocity all medium sand grains will
-move about the same distance each time they saltate.
-The result is a series of piles of grains aligned perpendicular
-to the wind and spaced equal distances apart.
-These are the crests of aeolian ripples (Figs 8.4 &
-8.5). The troughs in between are shadow zones where
-grains will not be picked up by the air flow and where
-few saltating grains land.
 
-Aeolian ripples have extremely variable wavelengths
-(crest to crest distance) ranging from a few
-centimetres to several metres. Ripple heights (bottom
-of the trough to the top of a crest) range from less than
-a centimetre to more than ten centimetres. Coarser
-grains tend to be concentrated at the crests, where
-the finer grains are winnowed away by the wind, and
-as aeolian ripples migrate they may form a layer of
-inversely graded sand. Where a crest becomes well
-developed grains may avalanche down into the adjacent
-trough forming cross-lamination, but this is less
-common in aeolian ripples than in their subaqueous
-counterparts.
+.. figure:: images/ripple.png
+    :width: 90 %
+    :alt: Cross-bedding
+    :align: center
+
+    Top: a sand dune and sand ripples in the Kelso dunes; sand ripples and coarse-grained ripples in the Devil's playground in the Mojave desert (CA, USA) - photos from `L.K. Fenton <https://www.planetary.org/articles/0219-sand-waves-in-the-desert>`_. Bottom: Aeolian ripples form by sand grains saltating: finer grains are winnowed from the crests creating a slight inverse grading between the trough and the crest of the ripple that may be preserved in laminae.
+
+..  admonition:: Ripples formation
+    :class: toggle, toggle-shown, important
+
+    As wind blows across a bed of sand, grains will move by **saltation** forming a thin carpet of moving sand grains. The grains are only in **temporary suspension**, and as each grain lands, it has sufficient energy to **knock impacted grains up into the free stream of air**, continuing the process of saltation.
+
+    Irregularities in the surface of the sand and the turbulence of the air flow will create patches where the grains are slightly more piled up. Grains in these piles will be more susceptible to being picked up by the flow and at a constant wind velocity all medium sand grains will move about the same distance each time they saltate. Therefore ripple wavelength approximates saltation length.
+
+    The result is a series of piles of grains aligned perpendicular to the wind and spaced equal distances apart. These are the **crests of aeolian ripples**. The troughs in between are shadow zones where grains will not be picked up by the air flow and where few saltating grains land.
+
+**Aeolian ripples have extremely variable wavelengths** (crest to crest distance) ranging from a few centimetres to several metres. Ripple heights (bottom of the trough to the top of a crest) range from less than a centimetre to more than ten centimetres. Coarser grains tend to be concentrated at the crests, where the finer grains are winnowed away by the wind, and as **aeolian ripples migrate they may form a layer of inversely graded sand**. Where a crest becomes well developed grains may avalanche down into the adjacent trough forming **cross-lamination**, but this is less common in aeolian ripples than in their subaqueous counterparts.
 
 Aeolian dunes
 ****************************
 
-.. figure:: images/DuneTypes.jpg
+.. figure:: images/DuneTypes.png
     :width: 100 %
     :alt: Cross-bedding
     :align: center
@@ -228,37 +214,18 @@ They migrate by the **saltation** of sand up the stoss (upwind) side of the dune
 Desert environments
 ****************************
 
-Aeolian sands form one part of an arid zone facies
-association that also includes ephemeral lake deposits
-and alluvial fan and/or ephemeral river sediments
-(Figs 8.12 & 8.13). In these dry areas, sediment is
-brought into the basin by rivers that bring weathered
-detritus from the surrounding catchment areas and
-deposit poorly sorted mixtures of sediment on alluvial
-fans (9.5) or associated with the channels of ephemeral
-rivers (9.2.3). The sandy component of these
-deposits is subsequently reworked by the wind and
-redeposited in other parts of the basin in aeolian dune
-complexes. Water from these rivers and fans ponds in
-the basin to form ephemeral lakes and these temporary
-lakes dry up to leave deposits of mud and evaporite
-minerals (10.4). Through time the positions of the
-ephemeral lakes, sand dunes and the alluvial fans will
-change, and the deposits of these three sub-environments
-will be preserved as intercalated beds in the
-succession of strata (5.6.3).
+.. figure:: images/depoenv.png
+    :width: 100 %
+    :alt: Depositional environments in arid regions
+    :align: center
 
-The dominant factor in determining the distribution
-and extent of sandy deserts is climate. Arid conditions
-are necessary to inhibit the development of
-plants and a soil that would stabilise loose sediment,
-and an absence of abundant surface water prevents
-sediment from being reworked and removed by fluvial
-processes. Sand accumulates to form an erg where
-there are local or regional depressions: these may
-range from small build-ups of sand adjacent to topography
-to broad areas of the continent covering many
-thousands of square kilometres.
+    Depositional environments in arid regions: coarse material is deposited on alluvial fans, sand accumulates to form aeolian dunes and occasional rainfall feeds ephemeral lakes where mud and evaporite minerals are deposited.
+
+Aeolian sands form one part of an **arid zone** facies association that also includes **ephemeral lake deposits** and **alluvial fan and/or ephemeral river sediments** (above figure). In these dry areas, sediment is brought into the basin by rivers that bring weathered detritus from the surrounding catchment areas and deposit poorly sorted mixtures of sediment on alluvial fans or associated with the channels of ephemeral rivers.
+
+The sandy component of these deposits is subsequently reworked by the wind and redeposited in other parts of the basin in aeolian dune complexes. Water from these rivers and fans ponds in the basin to form ephemeral lakes and these temporary lakes dry up to leave deposits of **mud and evaporite minerals**. Through time the positions of the **ephemeral lakes**, **sand dunes** and the **alluvial fans** will change, and the deposits of these three sub-environments will be preserved as intercalated beds in the succession of strata.
+
+**The dominant factor in determining the distribution and extent of sandy deserts is climate**. Arid conditions are necessary to inhibit the development of plants and a soil that would stabilise loose sediment, and an absence of abundant surface water prevents sediment from being reworked and removed by fluvial processes. Sand accumulates to form an **erg** where there are local or regional depressions: these may range from small build-ups of sand adjacent to topography to broad areas of the continent covering many thousands of square kilometres.
 
 
 Palaeo-wind directions
@@ -275,7 +242,6 @@ Aeolian deposits outside deserts
 
 Aeolian dust deposits
 ****************************
-
 
 There are deposits of Quaternary age in eastern Europe, North America and China that are interpreted as accumulations of wind-blown dust. These deposits, known as **loess**, locally occur in beds several metres thick made up predominantly of well-sorted silt-sized material, with little clay or sand-sized material present.
 
@@ -329,7 +295,9 @@ In humid climates the dunes become colonised by grasses, shrubs and trees that s
 Periglacial deposits
 ^^^^^^^^^^^^^^^^^^^^^
 
-Glacial outwash areas are places where loose detritus that has been released from melting ice remains exposed on the surface for long periods of time because plant growth and soil formation is slow in periglacial regions. Wind blowing over the outwash plain can pick up sand and redeposit it locally, usually against topographic features such as the side of a valley. These patches of aeolian sand may therefore occur intercalated with fluvio-glacial facies, but rarely form large deposits.
+**Glacial outwash** areas are places where loose detritus that has been released from melting ice remains exposed on the surface for long periods of time because plant growth and soil formation is slow in periglacial regions.
+
+Wind blowing over the outwash plain can pick up sand and redeposit it locally, usually against topographic features such as the side of a valley. These patches of aeolian sand may therefore occur *intercalated with fluvio-glacial facies*, but rarely form large deposits.
 
 
 ..  admonition:: So what did you learn?
