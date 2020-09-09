@@ -310,6 +310,8 @@ Also common in continental glacial areas are **drumlins**. A drumlin is an elong
 Glaciomarine processes
 ------------------------------
 
+.. note::
+  This section of the notes is based on the book: **Past Glacial Environments**  - `Chapter 7: Modern Glaciomarine environments and sediments <http://www.sdgs.usd.edu/Pubs/PAPERS_PUBLICATIONS/Past%20Glacial%20Environments%202nd%20Edition%202017/Chapter-7---Modern-Glaciomarine-Environments-and-Sedim_2018_Past-Glacial-Env.pdf>`_ from Domack & Powell (2018).
 
 
 .. figure:: images/glaciomarine.png
@@ -320,6 +322,24 @@ Glaciomarine processes
    Source: International Thwaites Glacier Collaboration.
 
 
+Glaciomarine environments may be defined as marine settings in sufficient proximity to glacial ice that a glacial signature can be detected within the sediments. Glaciation at sea level depends on latitudinal and regional climatic factors such as winter- and summer temperatures, insolation, snowfall and cloudiness, and a wide range of climatic conditions. In these systems some or all, of the sediment is released from **grounded glaciers**, their associated **meltwater**, **ice shelves** and **icebergs**. These environments have a multitude of processes and sediment sources, owing to the combined action of ice (glacial and sea), water (fresh and sea), wind, and biological activity. In addition, normal marine processes such as waves, tides, storm surges and gravity flows can effectively redistribute some of the components of glacial sediment.
+
+..  admonition:: Grounding line
+    :class: toggle
+
+    The **grounding line** of a floating terminus is the position where glacial ice meets the sea floor, but it may vary in position on time-scales of a tidal cycle, and actually forms a zone of partial attachment and detachment salients and reentrants. The zone of partial attachment in large ice shelves is referred to as the **ice plain**.
+
+    One key element for grounding lines in ice shelf sedimentation is that the basal debris zone of ice streams is introduced to the aqueous interface , where it can begin to melt and release debris to the seafloor. From this point on marine processes dominate in the sorting and redistribution of the glacial debris.
+
+
+..  admonition:: Ice calving
+    :class: toggle
+
+    **Ice calving**, also known as glacier calving or iceberg calving, is the breaking of ice chunks from the edge of a glacier (as shown in the first video of the chapter). It is a form of ice ablation or ice disruption. It is the sudden release and breaking away of a mass of ice from a glacier, iceberg, ice front, ice shelf, or crevasse.
+
+
+Meltwater plumes
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: images/meltwater.png
    :width: 90 %
@@ -328,6 +348,27 @@ Glaciomarine processes
 
    Processes of glacimarine sedimentation at the marine-terminating margin of a Greenland outlet glacier (from `Hogan et al., 2020 <https://tc.copernicus.org/articles/14/261/2020/>`_).
 
+When fresh water exits from the glacier at depth and interacts with the salty seawater. The fresh water moves upwards due to the density difference between freshwater and saltwater, forming a *turbulent column of mixing water*. This is a meltwater plume and it will continue to flow up through the water column and entrain surrounding saltwater until it is thoroughly mixed (*i.e.* there is no difference in the density between the plume and the surrounding water). At this point, a meltwater plume will reach its neutral buoyancy and the water will cease flowing upwards and flow horizontally away from the glacier front.
+
+
+An example of a surfacing meltwater plume in a tidewater glacier is shown below, you can note the distinctive shape and the dark colour (indicating sediment content) of the surface expression.
+
+.. image:: images/tuna_plume.gif
+
+
+When meltwater springs exit the ice front below sea level, their  buoyancy relative to the ambient sea water forces the water to rise and form a floating lens of freshwater and suspended  (subglacial) rock flour.
+
+As the plume mixes, fine clast (< silt fraction) will floc readily in salt  water. The subsequent **rain out** of flocculated fines over proximal and distal areas, potentially over a very large area depending on wave and wind action. They will form stratified fine-grained sediments deposited in depocentres.
+
+
+Glacial dumping & grounding line fans
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The transport and deposition of englacial and subglacial debris by marine ending glaciers is similar to terrestrial glaciers. However, important differences do occur owing to the fast and seasonal flow behind grounding lines of major marine ending glaciers.
+
+The terminating face of the calving line in sea water also cuts off much of what would be the terrestrial ablation zone, thus removing a mass of material that normally would accumulate as morainal debris at a terrestrial margin. Lodgment of basal debris can occur in the form of **till sheets** that may be discontinuous. However, because of fast basal ice flow and high basal water pressures, deforming beds can be common.
+
+Observations of relict grounding line zones show that grounding zone wedges can be breached apparently producing submarine debris fans that are stratified. Sedimentation beneath ice shelves is governed by the nature of both debris entrainment, flow patterns above the base of ice sheet that modify the debris distribution and release, therefore reflecting the flow patterns and velocity of the glacial ice as well as the temperature, salinity, and current velocity of the underlying water column. The transition from transport in ice (poor sorting) to water (sorting) results in characteristic  sediment facies that can be mapped and used to infer past glacial activity.
 
 
 
@@ -338,6 +379,11 @@ Glaciomarine processes
 
    Sediment supply and associated deposition processes in glaciomarine setting - `Rosenblume & Powell, 2019 <https://onlinelibrary.wiley.com/doi/abs/10.1111/sed.12592>`_.
 
+
+Icebergs
+^^^^^^^^^
+
+Glaciers that reach the oceans or even lakes, may calve off into large icebergs which then float on the water surface until they melt. Upon melting, the rock debris that they contain becomes immediately deposited on the sea floor or lake bed as an unsorted chaotic deposit. Sometimes single large rock fragments fall out on the floor of the water body, and these are called dropstones.
 
 
 
