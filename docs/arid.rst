@@ -95,9 +95,12 @@ At high wind velocities silt- and clay-sized particles are carried as **suspende
 
     Larger clasts will move (roll or slide) incrementally along the bed as a result of the continual bombardment by smaller clasts and wind stress (called creep).
 
-Deserts and ergs
+Aeolian terrains
 ------------------------------
 
+
+Deserts and ergs
+****************************
 
 .. important::
   A **desert** is a continental area that receives little precipitation: they are arid areas that receive **less than 250 mm/yr precipitation**. Areas that receive average precipitation of between **250 and 500 mm/yr** are defined as **semi-arid** and are not usually considered to be true deserts.
@@ -114,3 +117,71 @@ The **shortage of water** limits the quantity and diversity of life in a desert.
 An **erg** (*Arabic for sand*) is an area where sand has accumulated as a result of aeolian processes. Ergs are prominent features of some deserts (deserts of Arabia, the Sahara and Namibia), but in fact most deserts are not sandy but are large barren areas known as *rocky deserts* (also called **Reg** – Arabic for stone).
 
 Rocky deserts (such as the *Gibber plains* in Australia) are areas of deflation, that is, removal of material, and as such are not depositional environments. However, pebbles, cobbles and boulders that lie on the surface may subsequently be preserved if they are covered by other sediment, and these clasts may show evidence of their history in a rocky desert.
+
+Mesa-and-scarp
+****************************
+
+
+Aeolian bedforms
+------------------------------
+
+The processes of transport and deposition by wind produce bedforms that are in some ways similar to subaqueous bedforms, but with some important differences that can be used to help distinguish aeolian from subaqueous sands. Two groups are separated in this section on the basis of their size: **aeolian ripples and dunes**.
+
+Aeolian ripples
+****************************
+
+
+Aeolian dunes
+****************************
+
+
+Palaeowind directions
+****************************
+
+
+
+Aeolian deposits outside deserts
+---------------------------------
+
+Aeolian dust deposits
+****************************
+
+
+
+.. raw:: html
+
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" height="380" src="https://www.youtube.com/embed/Esz6ne9x9yM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+
+
+Aeolian sands in other environments
+************************************************
+
+Beach dunes
+^^^^^^^^^^^^^^^^^^^^^
+
+
+Periglacial deposits
+^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+..  admonition:: So what did you learn?
+   :class: toggle, important
+
+   - Aeolian deposits occur mainly in arid environments where surface water is intermittent and there is little plant cover. Sands deposited in these desert areas are characteristically both compositionally and mineralogically mature with large-scale cross-bedding formed by the migration of dune bedforms.
+
+   - Associated facies in arid regions are mud and evaporites deposited in ephemeral lakes and poorly sorted fluvial and alluvial fan deposits. Aeolian deposits are less common outside of desert environments, occurring as local sandy facies associated with beaches and glaciers, and as dust distributed over large distances into many different environments, but, apart from Quaternary loess, rarely in significant quantities.
+
+   Characteristics of aeolian deposits
+   - lithologies – sand and silt only
+   - mineralogy – mainly quartz, with rare examples of carbonate or other grains
+   - texture – well- to very well-sorted silt to medium sand
+   - bed geometry – sheets or lenses of sand
+   - sedimentary structures – large-scale dune crossbedding and parallel stratification in sands
+   - palaeocurrents – dune orientations reconstructed from cross-bedding indicate wind direction
+   - facies associations – occur with alluvial fans, ephemeral river and lake facies in deserts, also with beach deposits or glacial outwash facies
