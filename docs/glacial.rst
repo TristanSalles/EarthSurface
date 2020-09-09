@@ -298,7 +298,7 @@ Also common in continental glacial areas are **drumlins**. A drumlin is an elong
 
 
 ..  admonition:: What have we seen so far...
-    :class: toggle
+    :class: toggle, important
 
     - Ice is an important part of the Earth system, drives landscape evolution at the mid to high latitudes and plays a central role in Earth’s climate.
     - Ice masses transport mineral clasts passively as supraglacial debris, and act to denude bedrock through abrasion, plucking/quarrying and freezing;
@@ -339,7 +339,7 @@ Glaciomarine environments may be defined as marine settings in sufficient proxim
 
 
 Meltwater plumes
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+************************************************
 
 .. figure:: images/meltwater.png
    :width: 90 %
@@ -361,15 +361,24 @@ When meltwater springs exit the ice front below sea level, their  buoyancy rela
 As the plume mixes, fine clast (< silt fraction) will floc readily in salt  water. The subsequent **rain out** of flocculated fines over proximal and distal areas, potentially over a very large area depending on wave and wind action. They will form stratified fine-grained sediments deposited in depocentres.
 
 
+..  admonition:: Settling from suspension
+    :class: toggle
+
+    The settling from suspension is accelerated by:
+
+    1. Flocculation, which is increased by salinity. The clay particles have negatively charged surfaces, and positive ions can make the particles flocculate.
+    2. Agglomeration: When clay particles are ’glued’ together by organic matter.
+    3. Pelletisation: When the clay particles are ’glued’ together by faecal pellets.
+
+
 Glacial dumping & grounding line fans
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+************************************************
 
 The transport and deposition of englacial and subglacial debris by marine ending glaciers is similar to terrestrial glaciers. However, important differences do occur owing to the fast and seasonal flow behind grounding lines of major marine ending glaciers.
 
 The terminating face of the calving line in sea water also cuts off much of what would be the terrestrial ablation zone, thus removing a mass of material that normally would accumulate as morainal debris at a terrestrial margin. Lodgment of basal debris can occur in the form of **till sheets** that may be discontinuous. However, because of fast basal ice flow and high basal water pressures, deforming beds can be common.
 
 Observations of relict grounding line zones show that grounding zone wedges can be breached apparently producing submarine debris fans that are stratified. Sedimentation beneath ice shelves is governed by the nature of both debris entrainment, flow patterns above the base of ice sheet that modify the debris distribution and release, therefore reflecting the flow patterns and velocity of the glacial ice as well as the temperature, salinity, and current velocity of the underlying water column. The transition from transport in ice (poor sorting) to water (sorting) results in characteristic  sediment facies that can be mapped and used to infer past glacial activity.
-
 
 
 .. figure:: images/marglac.png
@@ -379,12 +388,27 @@ Observations of relict grounding line zones show that grounding zone wedges can 
 
    Sediment supply and associated deposition processes in glaciomarine setting - `Rosenblume & Powell, 2019 <https://onlinelibrary.wiley.com/doi/abs/10.1111/sed.12592>`_.
 
+Re-sedimentation by gravity flows
+************************************************
+
+Part of the flow types commonly found close to the ground line are turbidites and linear gravity flows. These deposits will show a grain sizes decrease down-flow (normal grading), and a sorting increase down-flow. Observed debris flows in modern glacial environments
+are often cohesionless, because of the absence of clay minerals. Turbitidy currents can be
+initiated in at least three different ways:
+
+1. Directly form sediment-laden meltwater discharging from meltstreams or submerged conduit (channel) mouths, in form of hyperpycnal underflows. Such underflows are important agents for transporting and depositing sediment in glacier-fed lakes. In glacier-fed lakes, the sediment-laden inflowing water is often considerably denser than the lake water, and quasi-continuous underflows occur as a result.
+2. Turbidity currents may evolve less directly by intense sediment fallout from suspension plumes.
+3. From the progressive down-flow dilution of debris flows, resulting from turbulent mixing with the overlying water column.
+
 
 Icebergs
-^^^^^^^^^
+************************************************
 
-Glaciers that reach the oceans or even lakes, may calve off into large icebergs which then float on the water surface until they melt. Upon melting, the rock debris that they contain becomes immediately deposited on the sea floor or lake bed as an unsorted chaotic deposit. Sometimes single large rock fragments fall out on the floor of the water body, and these are called dropstones.
+Glaciers that reach the oceans or even lakes, may calve off into large icebergs which then float on the water surface until they melt. Upon melting, the rock debris that they contain becomes immediately deposited on the sea floor or lake bed as an unsorted chaotic deposit. Sometimes single large rock fragments fall out on the floor of the water body, and these are called **dropstones**.
 
+..  admonition:: Rain-out from icebergs
+    :class: toggle
+
+    Takes place in deep water, because of low density contrast between ice and water. Sediment is settling on sea bottom due to basal melting of icebergs. The sediment is diamictic, and graded if the water depth is high. 
 
 
 ..  admonition:: So what do we know ?
