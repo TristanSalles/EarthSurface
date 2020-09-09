@@ -245,6 +245,7 @@ When a smaller tributary glacier intersects a larger trunk glacier, the smaller 
   <iframe src="https://opengeology.org/textbook/wp-admin/admin-ajax.php?action=h5p_embed&id=7" width="838" height="820" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://opengeology.org/textbook/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
+
 Depositional glacial landforms
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -308,3 +309,12 @@ Also common in continental glacial areas are **drumlins**. A drumlin is an elong
 
 Glaciomarine processes
 ------------------------------
+
+
+
+.. figure:: images/glaciomarine.png
+   :width: 90 %
+   :alt: Glaciomarine processes
+   :align: center
+
+   Source: International Thwaites Glacier Collaboration.
