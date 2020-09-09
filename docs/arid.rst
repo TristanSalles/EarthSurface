@@ -26,18 +26,14 @@ Aeolian sedimentary processes involve transport and deposition of material by th
 Aeolian transport
 ------------------------------
 
-Global wind patterns
-**************************
+..  admonition:: Global wind patterns
+    :class: toggle, toggle-shown, important
 
-
-
-
-
-..  admonition:: Winds distribution
-    :class: toggle, toggle-shown
+    Global wind patterns
+    **************************
 
     .. figure:: images/1226px-Earth_Global_Circulation_-_en.svg_.png
-        :width: 100 %
+        :width: 90 %
         :alt: Winds
         :align: center
 
@@ -47,16 +43,53 @@ Global wind patterns
 
     This simple pattern is, however, complicated by two other factors:
 
-    1. the circulation pattern breaks up into smaller cells, three in each hemisphere.
-    2. the Coriolis force deflects the pathway of the air mass from simple north–south directions. The result is the pattern of winds shown in the above figure.
+    1. the **circulation pattern breaks up into smaller cells**, three in each hemisphere.
+    2. the **Coriolis force** deflects the pathway of the air mass from simple north–south directions. The result is the pattern of winds shown in the above figure.
 
-        
+
     .. figure:: images/Drylands_world_map1-orig.jpg
         :width: 100 %
         :alt: Drylands
         :align: center
 
         Arid and hyper-arid regions make up approximately 20% of Earth’s surface and are arranged in two latitudinal zones around 30°N and S of equator, as a result of dry air associated with the descending arm of a Hadley Cell.
+
+Aeolian transport processes
+****************************
+
+A flow of air over a loose grain of sand exerts a lift force on the particle and with increasing velocity the force may increase to the point where the grain rolls or saltates. The strength of the lift force is proportional to both the velocity of the flow and the density of the medium. Air has a density of 1.3 kg
+m
+3, which is three orders of magnitude less than
+that of water (1000 kg m
+3) so, whereas water flows
+of only a few tens of centimetres a second can cause
+movement of sand grains, much higher velocities are
+required for the wind to move the same grains. Winds
+of 55m s
+1 or more are recorded during hurricanes,
+but strong winds over land areas are typically around
+30m s
+1, and at these velocities the upper limit on
+the size of quartz grains moved by the wind is around
+a half a millimetre in diameter, that is, medium sand
+size storms (Pye 1987; Nickling 1994). This provides
+an important criterion for the recognition of aeolian
+deposits in the stratigraphic record: deposits consisting
+of grains coarser than coarse sand are unlikely to
+be aeolian deposits.
+
+At high wind velocities silt- and clay-sized particles
+are carried as suspended load. This aeolian dust can
+become entrained in the wind in large quantities
+in dry areas to create dust storms that can carry
+airborne sediment large distances away from its origin.
+The dust will remain in suspension until the wind
+speed drops and the fine sediment starts to fall to
+the ground or onto a water surface. Significant accumulations of aeolian dust are relatively uncommon
+(8.6.2), but airborne material can be literally
+carried around the world by winds and be deposited
+in all depositional environments.
+
 
 Arid and semi-arid regions are distinguished on the basis of their annual precipitation sums and include:
 
