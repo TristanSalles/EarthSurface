@@ -165,11 +165,12 @@ Aeolian dunes
 ****************************
 
 .. figure:: images/crossbed.jpg
-    :width: 75 %
+    :width: 60 %
     :alt: Cross-bedding
     :align: center
 
-
+Desert environments
+****************************
 
 Palaeowind directions
 ****************************
