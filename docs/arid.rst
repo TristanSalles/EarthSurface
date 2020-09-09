@@ -64,7 +64,7 @@ Wind erosion is based on two distinct mechanisms:
 2. **Abrasion** where particles carried by the wind blast larger features in the landscape, abrading their surface and wearing away the rock.
 
 .. figure:: images/wdist.png
-    :width: 80 %
+    :width: 100 %
     :alt: erosion processes
     :align: center
 
@@ -94,3 +94,23 @@ At high wind velocities silt- and clay-sized particles are carried as **suspende
     The impact of these clasts on stationary grains further downwind imparts energy that mobilises stationary grains as ‘splashed up’. Particles moved into the suspended load temporarily (called saltation, representing about  20-25% of bedload transport);
 
     Larger clasts will move (roll or slide) incrementally along the bed as a result of the continual bombardment by smaller clasts and wind stress (called creep).
+
+Deserts and ergs
+------------------------------
+
+
+.. important::
+  A **desert** is a continental area that receives little precipitation: they are arid areas that receive **less than 250 mm/yr precipitation**. Areas that receive average precipitation of between **250 and 500 mm/yr** are defined as **semi-arid** and are not usually considered to be true deserts.
+
+.. figure:: images/desert.png
+    :width: 80 %
+    :alt: distance of transport
+    :align: center
+
+This definition of a desert does consider temperature to be a factor, for, although the ‘classic’ deserts of the world today, such as the Sahara, are hot as well as dry places, there are also many dry areas that are also cold, including **polar deserts** of high latitudes.
+
+The **shortage of water** limits the quantity and diversity of life in a desert. The **lack of vegetation** is an important influence on surface processes because without a plant cover detritus lies loose on the surface where it is subject to aeolian activity.
+
+An **erg** (*Arabic for sand*) is an area where sand has accumulated as a result of aeolian processes. Ergs are prominent features of some deserts (deserts of Arabia, the Sahara and Namibia), but in fact most deserts are not sandy but are large barren areas known as *rocky deserts* (also called **Reg** – Arabic for stone).
+
+Rocky deserts (such as the *Gibber plains* in Australia) are areas of deflation, that is, removal of material, and as such are not depositional environments. However, pebbles, cobbles and boulders that lie on the surface may subsequently be preserved if they are covered by other sediment, and these clasts may show evidence of their history in a rocky desert.
