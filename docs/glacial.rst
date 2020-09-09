@@ -346,7 +346,7 @@ Glaciomarine processes
 
 
    .. figure:: images/iceend.png
-      :width: 90 %
+      :width: 100 %
       :alt: Glaciomarine processes
       :align: center
 
