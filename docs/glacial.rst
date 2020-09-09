@@ -337,3 +337,20 @@ Glaciomarine processes
    :align: center
 
    Sediment supply and associated deposition processes in glaciomarine setting - `Rosenblume & Powell, 2019 <https://onlinelibrary.wiley.com/doi/abs/10.1111/sed.12592>`_.
+
+
+
+
+..  admonition:: So what do we know ?
+   :class: toggle, important
+
+
+   .. figure:: images/iceend.png
+      :width: 90 %
+      :alt: Glaciomarine processes
+      :align: center
+
+   - Where ice masses meet the ocean, sediment is deposited via a  number of process that can produce distinctive submarine sediment facies and facies architectures;
+   - The rate at which ice is ablated (and sediment liberated) is  dependent upon the type of ice front (grounded or floating), and the speed of the ice flow;
+   - Ablation, and particularly the calving of icebergs, is known to be highly sensitive to climate, reflecting both changes in global temperature and processes within the ice mass itself (*e.g.* ice surges);
+   - Glacial sediments can be widely distributed throughout the polar oceans via icebergs, and their abundance in deep marine sediments  is indicative of the population of icebergs at that point in time.
