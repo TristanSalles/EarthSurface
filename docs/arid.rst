@@ -122,6 +122,12 @@ Mesa-and-scarp
 ****************************
 
 
+.. figure:: images/mesa.png
+    :width: 80 %
+    :alt: Mesa-and-scarp
+    :align: center
+
+
 Aeolian bedforms
 ------------------------------
 
@@ -178,6 +184,7 @@ Periglacial deposits
    - Associated facies in arid regions are mud and evaporites deposited in ephemeral lakes and poorly sorted fluvial and alluvial fan deposits. Aeolian deposits are less common outside of desert environments, occurring as local sandy facies associated with beaches and glaciers, and as dust distributed over large distances into many different environments, but, apart from Quaternary loess, rarely in significant quantities.
 
    Characteristics of aeolian deposits
+
    - lithologies – sand and silt only
    - mineralogy – mainly quartz, with rare examples of carbonate or other grains
    - texture – well- to very well-sorted silt to medium sand
