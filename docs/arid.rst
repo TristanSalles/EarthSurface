@@ -202,60 +202,27 @@ Aeolian dunes
     :align: center
 
     Main aeolian dune types, their forms determined by the direction of the prevailing wind(s) and the availability of sand.
-    Cross-bedded facies could be used to infer the likely distribution of palaeo-wind directions.
+    Cross-bedded facies could be used to infer the likely distribution of palaeo-wind directions (from this `blog <http://people.uwplatt.edu/~stradfot/PHYSICAL104/ReviewCD/15_page3.html>`_).
 
-Aeolian dunes are bedforms that range from 3m to
-600m in wavelength and are between 10 cm and
-100m high. They migrate by the saltation of sand
-up the stoss (upwind) side of the dune to the crest
-(Fig. 8.6). This saltation may result in the formation
-of aeolian ripples which are commonly seen on the
-stoss sides of dunes (Fig. 8.7). Sand accumulating at
-the crest of the dune is unstable and will cascade
-down the lee slope as an avalanche or grain flow
-(Fig. 8.8) (4.5.3) to form an inclined layer of sand
-(Fig. 8.6). Repeated avalanches build up a set of crossbeds
-that may be preserved if there is a net accumulation
-of sand. At high wind speeds some sand grains
-are in temporary suspension and are blown directly
-over the crest of the dune and fall out onto the
-lee slope. These grain fall deposits accumulate on
-the lee slope, but they will usually be reworked
-from the upper slope by avalanching: some may
-be preserved at the toe bedded with grain flow
-deposits.
+.. note::
+  **Aeolian dunes** are bedforms that range from 3 m to 600 m in wavelength and are between 10 cm and 100 m high.
 
-The orientation and form (planar or trough) of the
-cross-bedding will depend on the type of dune
-(Figs 8.9 & 8.10) (McKee 1979; Wasson & Hyde
-1983). Planar cross-beds will form by the migration
-of transverse dunes, straight-crested forms aligned
-perpendicular to the prevailing wind direction. Transverse
-dunes form where there is an abundant supply
-of sand and as the sand supply decreases there is a
-transition to barchan dunes, which are lunate structures
-with arcuate slip faces forming trough crossbedding.
-Under circumstances where there are two
-prominent wind directions at approximately 908 to
-each other, linear or seif dunes form. The deposits
-of these linear dunes are characterised by cross-bedding
-reflecting avalanching down both sides of the dune and
-hence oriented in different directions. In areas of multiple
-wind directions star dunes have slip faces in many
-orientations and hence the cross-bedding directions
-display a similar variability.
+They migrate by the **saltation** of sand up the stoss (upwind) side of the dune to the crest (panel c in above figure). This saltation may result in the formation of aeolian ripples which are commonly seen on the stoss sides of dunes (panel b in above figure).
 
+..  admonition:: Cross-bed formation
+    :class: toggle, toggle-shown, important
 
-There are circumstances in which the whole dune
-bedform is preserved but more commonly the upper
-part of the dune is removed as more aeolian sand is
-deposited in an accumulating succession. The size of
-the set of cross-beds formed by the migration of aeolian
-dunes can vary from around a metre to ten or twenty
-metres (Fig. 8.11). Such large scale cross-bedding is
-common in aeolian deposits but is seen less frequently
-in subaqueous sands, which are typically cross-bedded
-in sets a few tens of centimetres to metres thick.
+    Sand accumulating at the crest of the dune is **unstable** and will **cascade down** the lee slope as an avalanche or grain flow to form an inclined layer of sand (which is at or near the angle of repose, 30-40 degrees). **Repeated avalanches build up a set of cross-beds** that may be preserved if there is a net accumulation of sand.
+
+    At high wind speeds some sand grains are in temporary **suspension** and are blown directly over the crest of the dune and fall out onto the lee slope. These grain fall deposits accumulate on the lee slope, but *they will usually be reworked from the upper slope by avalanching*: some may be preserved at the toe bedded with grain flow deposits.
+
+    The orientation and form (planar or trough) of the cross-bedding will depend on the type of dune (panel a in above figure).
+
+    - Planar cross-beds will form by the migration of **transverse dunes**, straight-crested forms aligned **perpendicular to the prevailing wind direction**.
+    - **Transverse dunes** form where there is an **abundant supply of sand**
+    - as the **sand supply decreases** there is a transition to **barchan dunes**, which are lunate structures with arcuate slip faces forming trough crossbedding.
+    - Under circumstances where there are two prominent wind directions at approximately 90 degrees to each other, **longitudinal** or **seif dunes** form. The deposits of these linear dunes are characterised by cross-bedding reflecting avalanching down both sides of the dune and hence oriented in different directions.
+    - In areas of multiple wind directions **star dunes** have slip faces in many orientations and hence the cross-bedding directions display a similar variability.
 
 
 Desert environments
@@ -313,7 +280,7 @@ Aeolian dust deposits
 There are deposits of Quaternary age in eastern Europe, North America and China that are interpreted as accumulations of wind-blown dust. These deposits, known as **loess**, locally occur in beds several metres thick made up predominantly of well-sorted silt-sized material, with little clay or sand-sized material present.
 
 .. figure:: images/loess.png
-    :width: 90 %
+    :width: 100 %
     :alt: Loess
     :align: center
 
