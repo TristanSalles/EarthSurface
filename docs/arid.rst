@@ -26,11 +26,11 @@ Aeolian sedimentary processes involve transport and deposition of material by th
 Aeolian transport
 ------------------------------
 
-..  admonition:: Global wind patterns
-    :class: toggle, toggle-shown, important
+Global wind patterns
+**************************
 
-    Global wind patterns
-    **************************
+..  admonition:: Global wind distribution
+    :class: toggle, toggle-shown, important
 
     .. figure:: images/1226px-Earth_Global_Circulation_-_en.svg_.png
         :width: 90 %
@@ -54,58 +54,43 @@ Aeolian transport
 
         Arid and hyper-arid regions make up approximately 20% of Earth’s surface and are arranged in two latitudinal zones around 30°N and S of equator, as a result of dry air associated with the descending arm of a Hadley Cell.
 
+
+Aeolian erosion
+**************************
+
+Wind erosion is based on two distinct mechanisms:
+
+1. **Deflation** which is related to small particles eroded from the landscape by wind over time, leaving larger particles behind to form a desert pavement (ground surface lowers);
+2. **Abrasion** where particles carried by the wind blast larger features in the landscape, abrading their surface and wearing away the rock.
+
+.. figure:: images/wdist.png
+    :width: 80 %
+    :alt: erosion processes
+    :align: center
+
+The source of aeolian sediment transported by deflation is made of seasonally arid ephemeral stream or river beds, floodplains and alluvial fans in arid regions of the Earth (also glacial outwash in colder periods of Earth’s history). The process varies based on **bed adhesion**, which will increase the **fluid threshold velocity** (*i.e.* wind speed at which saltation is initiated) and which is dependent upon soil moisture, clay content, vegetation, armouring or cementation. However, once grains have become entrained, bombardment of the bed liberates smaller grains, effectively reducing the threshold velocity. The trajectory of individual grains, then, is  dependent upon their size, mineralogy (density), the wind speed and bed form characteristics. Once the speed of the wind decreases suspension and saltation will cease. The wind speed at which saltation is halted is defined as the **impact threshold** (see above figure - left panel).
+
 Aeolian transport processes
 ****************************
 
-A flow of air over a loose grain of sand exerts a lift force on the particle and with increasing velocity the force may increase to the point where the grain rolls or saltates. The strength of the lift force is proportional to both the velocity of the flow and the density of the medium. Air has a density of 1.3 kg
-m
-3, which is three orders of magnitude less than
-that of water (1000 kg m
-3) so, whereas water flows
-of only a few tens of centimetres a second can cause
-movement of sand grains, much higher velocities are
-required for the wind to move the same grains. Winds
-of 55m s
-1 or more are recorded during hurricanes,
-but strong winds over land areas are typically around
-30m s
-1, and at these velocities the upper limit on
-the size of quartz grains moved by the wind is around
-a half a millimetre in diameter, that is, medium sand
-size storms (Pye 1987; Nickling 1994). This provides
-an important criterion for the recognition of aeolian
-deposits in the stratigraphic record: deposits consisting
-of grains coarser than coarse sand are unlikely to
-be aeolian deposits.
+A flow of air over a loose grain of sand exerts a lift force on the particle and with increasing velocity the force may increase to the point where the grain rolls or saltates. The strength of the lift force is proportional to both the velocity of the flow and the density of the medium. Air has a density of 1.3 kg/m3, which is three orders of magnitude less than that of water (1000 kg/m3) so, whereas water flows of only a few tens of centimetres a second can cause movement of sand grains, much higher velocities are
+required for the wind to move the same grains.
 
-At high wind velocities silt- and clay-sized particles
-are carried as suspended load. This aeolian dust can
-become entrained in the wind in large quantities
-in dry areas to create dust storms that can carry
-airborne sediment large distances away from its origin.
-The dust will remain in suspension until the wind
-speed drops and the fine sediment starts to fall to
-the ground or onto a water surface. Significant accumulations of aeolian dust are relatively uncommon
-(8.6.2), but airborne material can be literally
-carried around the world by winds and be deposited
-in all depositional environments.
+.. figure:: images/defab.png
+    :width: 80 %
+    :alt: distance of transport
+    :align: center
 
 
-Arid and semi-arid regions are distinguished on the basis of their annual precipitation sums and include:
+Winds of 55 m/s or more are recorded during hurricanes, but strong winds over land areas are typically around 30 m/s, and at these velocities the upper limit on the size of quartz grains moved by the wind is around a half a millimetre in diameter. **This provides an important criterion for the recognition of aeolian deposits in the stratigraphic record: deposits consisting of grains coarser than coarse sand are unlikely to be aeolian deposits**.
 
-Deserts with an annual precipitation sum <50 mm/year and devoid of vegetation,
-Arid regions with 50-250 mm/year precipitation and sparse vegetation, and
-Semi-arid regions with a precipitation sum of 250 to 500 mm per annum and a steppe savannah/prairie/pampa vegetation.
-Most deserts and (semi-)arid regions occur between 10° and 35° latitude (e.g. Sahara desert, Kalahari desert), in the interior parts of continents (e.g. Australia, Gobi desert) and in rain shadow areas in fold belts (e.g. Peru, Nepal). Large parts of the arctic tundra receive less then 250 mm precipitation per annum and qualify as `arid regions' too. Figure 1 presents a sketch map of the desert areas of the world.
+At high wind velocities silt- and clay-sized particles are carried as **suspended load**. This aeolian dust can become entrained in the wind in large quantities in dry areas to create **dust storms** that can carry airborne sediment large distances away from its origin. The dust will remain in suspension until the wind speed drops and the fine sediment starts to fall to the ground or onto a water surface. Significant accumulations of aeolian dust are relatively uncommon, but airborne material can be literally carried around the world by winds and be deposited in all depositional environments.
 
-Important geomorphic processes in the dry regions of the world differ from those in more humid environments:
+..  admonition:: Clasts transport
+    :class: toggle
 
-streams are intermittent or ephemeral (and have very irregular discharges),
-mass-wasting processes and unconfined sheet floods are prominent,
-many rivers do not debauch into the sea but end in inland depressions without outlet,
-salt lakes are a common landscape feature,
-aeolian processes play an important role, particularly in areas below the 150 mm/year isohyet, and
-physical weathering processes are prominent whereas hydrolysis of minerals is subdued.
-Polar and subtropical fronts have shifted southwards in the (geologically) recent past and many regions that are arid today once had a more humid climate. Conversely, many of the present humid regions were much drier in glacial periods, especially between 20,000 and 13,000 BP when aeolian processes influenced land formation more than at present.
+    Smaller clasts (0.01-0.1 mm, depending on wind shear velocity) are kept aloft temporarily, and will rejoin the bed load, often at high velocity;
 
-Mass wasting, fluvial processes and aeolian processes are the most important landform-shaping factors in arid and semi-arid regions. This chapter will solely discuss mass wasting and fluvial and lacustrine landforms in arid environments; sandy aeolian deposits were treated in an earlier chapter and loess deposits will be dealt with later when the major landforms of steppes and prairie regions will be discussed.
+    The impact of these clasts on stationary grains further downwind imparts energy that mobilises stationary grains as ‘splashed up’. Particles moved into the suspended load temporarily (called saltation, representing about  20-25% of bedload transport);
+
+    Larger clasts will move (roll or slide) incrementally along the bed as a result of the continual bombardment by smaller clasts and wind stress (called creep).
