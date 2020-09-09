@@ -121,11 +121,35 @@ Rocky deserts (such as the *Gibber plains* in Australia) are areas of deflation,
 Mesa-and-scarp
 ****************************
 
-
 .. figure:: images/mesa.png
     :width: 100 %
     :alt: Mesa-and-scarp
     :align: center
+
+    Residual landforms resultant from the dissection of a plateau in semiarid climate, Monument Valley, USA.
+
+**Mesas** are defined as flat-topped elevations, which are bounded from all sides by steep escarpments and hence they stand distinctly above the surrounding country, as a table stands above the floor upon which it rests. They are capped by more resistant layers, usually sandstones, basalts or duricrusts, beneath which more erodible rocks are present. Such a sequence sustains the general mesa form, with planar top surface, vertical cliffs in the upper part and less inclined slopes truncating weaker strata below, although the areal extent of the mesa becomes reduced over time due to complex processes involved in cliff retreat. The reduction in the width of the mesa by cliff retreat forms a **butte**.
+
+
+..  admonition:: Differential weathering
+    :class: toggle
+
+    Differential weathering exploits various properties and characteristics of rock series exposed in escarpments. The most important are mineralogical composition, porosity and the presence of discontinuities.
+
+
+    .. figure:: images/bm.jpg
+        :width: 80 %
+        :alt: Differential weathering
+        :align: center
+
+        Differential weathering of a sandstone cliff, with some parts of the rock wall being slightly recessed and the others dotted with well-developed tafoni and honeycomb structures, Blue Mountains, Australia.
+
+..  admonition:: Bornhardt
+    :class: toggle, important
+
+    A German geologist described (1900) certain prominent hills on the East African shield as **inselberge** (island mounts). Subsequently, the term inselberg acquired a wider connotation and Bailey Willis (1936) suggested the term **bornhardt** to describe hills with *bare surfaces, domelike summits, precipitous sides becoming steeper toward the base, an absence of talus, alluvial cones or soil, a close adjustment of form to internal structure*.
+
+    Bornhardts are usually made up of granites or gneisses, but can sometimes be found in other rock types like limestone, sandstone and conglomerate. They are therefore **weathering resistant** and lied below ground within layers of sediment that slowly become exposed by erosion (Uluru Australia). The ground level may drop over thousands of years as sediment surrounding the rock is washed away by flooding or blown away by the wind. They occur more often in the desert where there is little vegetation to protect the ground from erosion.
 
 
 Aeolian bedforms
@@ -151,6 +175,31 @@ Palaeowind directions
 ****************************
 
 
+The slip faces of aeolian dunes generally face downwind
+so by measuring the direction of dip of crossbeds
+formed by the migration of aeolian dunes it is
+possible to determine the direction of the prevailing
+wind at the time of deposition (Fig. 8.9). Results can
+be presented as a rose diagram (5.3.3). The variability
+of the readings obtained from cross-beds will depend
+upon the type of dune (McKee 1979). Transverse
+dunes generate cross-beds with little variability in
+orientation, whereas the curved faces of barchan
+dunes produce cross-beds that may vary by as much
+as 458 from the actual downwind direction. Multiple
+directions of cross-bedding result from the numerous
+slip faces of a star dune. In all cases the confidence
+with which the palaeowind direction can be inferred
+from cross-bedding orientations is improved with the
+more readings that are taken.
+Wind directions are normally expressed in terms of
+the direction the wind blows from, that is, a southwesterly
+wind is one that is blowing from the southwest
+towards the northeast and will generate dune
+cross-bedding which dips towards the northeast. Note
+that this form of expression of direction is different from
+that of water currents that are normally presented in
+terms of the direction the flow is towards.
 
 Aeolian deposits outside deserts
 ---------------------------------
@@ -166,7 +215,59 @@ Aeolian dust deposits
     <iframe width="100%" height="380" src="https://www.youtube.com/embed/Esz6ne9x9yM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
-
+There are deposits of Quaternary age in eastern Europe,
+North America and China that are interpreted as
+accumulations of wind-blown dust (Pye 1987). These
+deposits, known as loess, locally occur in beds several
+metres thick made up predominantly of well-sorted
+silt-sized material, with little clay or sand-sized material
+present. The origin of loess is related to episodes of
+retreat of ice sheets, as large amounts of loose detritus
+carried in the ice were released. In the cold periglacial
+environment in front of the receding ice colonisation
+by plants and stabilisation of the soil would have been
+slow, so the glacial debris was exposed on the outwash
+plains, where wind picked up and transported
+the silt-sized dust. This dust was probably transported
+over large parts of the globe but accumulated as loess
+deposits in some places. Similar processes probably
+occurred during other glacial episodes in Earth history,
+but pre-Quaternary loess deposits have not been
+recognised. The preservation potential of loess is likely
+to be quite low because it is soft, loose material that is
+easily reworked and mixed with other sediment.
+Volcanism is an important source of dust in the
+atmosphere. Explosive eruptions can send plumes of
+volcanic ash high up into the atmosphere where it is
+distributed by wind. Coarser ash tends to be deposited
+close to the volcano (although in very large eruptions
+this can be hundreds of kilometres away – 17.6.2),
+while the silt-sized ash particles can be transported
+around the world. Large amounts of atmospheric dust
+from eruptions can darken the sky, and it will gradually
+fall as fine sediment. A further source of atmospheric
+dust is from fires that propel soot (fine carbon)
+up into the air, where it can be redistributed by the
+wind. Despite the fine grain size, soot, volcanic and
+terrigenous dust can all be distinguished by geochemical
+analysis.
+Aeolian dust is dispersed worldwide, but most of it
+ends up in other marine and continental depositional
+environments where it mixes with other sediment and
+its origin cannot easily be determined. In most places
+the proportion of aeolian dust is very low compared
+with other sediment being deposited, but there are
+some environments where terrigenous clastic deposition
+is very low, and the main source of silt and clay
+can be aeolian dust. Limestones formed in carbonateforming
+environments can usually be shown to contain
+a residue of dust if the calcium carbonate is dissolved,
+and dust settled on ice sheets and glaciers may
+be seen as layers within the ice. The parts of the deep
+oceans that are distant from any continental margin
+receive very little sediment (16.5): airborne dust that
+settles through the water column can therefore be an
+important component of deep ocean deposits.
 
 Aeolian sands in other environments
 ************************************************
@@ -174,12 +275,38 @@ Aeolian sands in other environments
 Beach dunes
 ^^^^^^^^^^^^^^^^^^^^^
 
+Sand dunes built up by aeolian action can form adjacent
+to beaches in any climatic setting. In the intertidal
+zone of a foreshore loose sediment is subaerially
+exposed at low tide, and as it dries out it is available to
+be picked up and redeposited by the wind. Beach dune
+ridges form where the foreshore sediments are mainly
+sandy, exposed at low tide and subject to removal by
+onshore winds. The sand then accumulates at the
+head of the beach, either as a simple narrow ridge or
+sometimes extending for hundreds of metres inland.
+In humid climates the dunes become colonised by
+grasses, shrubs and trees that stabilise the sand and
+allow the ridges to build up metres to tens of metres
+thickness. The roots of these plants and burrowing
+animals disrupt any depositional stratification, so the
+cross-bedding characteristic of desert dunes may not
+be preserved in beach dune ridges.
 
 Periglacial deposits
 ^^^^^^^^^^^^^^^^^^^^^
 
 
-
+Glacial outwash areas (7.4.3) are places where loose
+detritus that has been released from melting ice
+remains exposed on the surface for long periods of
+time because plant growth and soil formation is slow
+in periglacial regions. Wind blowing over the outwash
+plain can pick up sand and redeposit it locally,
+usually against topographic features such as the side
+of a valley. These patches of aeolian sand may therefore
+occur intercalated with fluvio-glacial facies
+(7.4.3), but rarely form large deposits.
 
 
 ..  admonition:: So what did you learn?
