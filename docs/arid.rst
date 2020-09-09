@@ -123,7 +123,7 @@ Mesa-and-scarp
 
 
 .. figure:: images/mesa.png
-    :width: 80 %
+    :width: 100 %
     :alt: Mesa-and-scarp
     :align: center
 
@@ -139,6 +139,12 @@ Aeolian ripples
 
 Aeolian dunes
 ****************************
+
+.. figure:: images/crossbed.jpg
+    :width: 75 %
+    :alt: Cross-bedding
+    :align: center
+
 
 
 Palaeowind directions
