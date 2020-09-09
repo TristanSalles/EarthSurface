@@ -318,3 +318,22 @@ Glaciomarine processes
    :align: center
 
    Source: International Thwaites Glacier Collaboration.
+
+
+
+.. figure:: images/meltwater.png
+   :width: 90 %
+   :alt: Glaciomarine processes
+   :align: center
+
+   Processes of glacimarine sedimentation at the marine-terminating margin of a Greenland outlet glacier (from `Hogan et al., 2020 <https://tc.copernicus.org/articles/14/261/2020/>`_).
+
+
+
+
+.. figure:: images/marglac.png
+   :width: 90 %
+   :alt: Glaciomarine processes
+   :align: center
+
+   Sediment supply and associated deposition processes in glaciomarine setting - `Rosenblume & Powell, 2019 <https://onlinelibrary.wiley.com/doi/abs/10.1111/sed.12592>`_.
