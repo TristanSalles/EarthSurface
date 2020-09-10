@@ -305,7 +305,7 @@ Transient adjustments of longitudinal profiles, characterised by knickpoints and
 
 
 .. figure:: images/chi1.jpg
-  :width: 40 %
+  :width: 80 %
   :alt: chi-plot
   :align: center
 

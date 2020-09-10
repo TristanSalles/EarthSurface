@@ -49,9 +49,9 @@ B- Quantitative approach to geomorphology
    :caption: Earth surface processes
 
    tectonics
+   hillslope
    sedtransport
    landform
-   hillslope
    fluvial
    glacial
    arid
