@@ -31,66 +31,51 @@ Drainage networks display many types of quantitative regularity that are useful 
 Stream order
 *****************
 
-**Stream order** is used to denote the **hierarchical relationship between stream segments** and **allows drainage basins to be classified according to size**.
-
-Stream order is a basic property of stream networks because it relates to the relative discharge of a channel segment. Several stream-ordering systems exist, the most commonly used being the one devised by **Arthur N. Strahler**. In **Strahler’s ordering** system, a stream segment with no tributaries that flows from the stream source is denoted as a **first order segment**. A **second-order segment** is created by joining two first-order segments, a third-order segment by joining two second-order segments, and so on.
+Seen from above, river systems display a tree-like pattern, with many small streams feeding into fewer larger rivers and eventually into one very large river. **Stream order** is used to denote the **hierarchical relationship between stream segments** and **allows drainage basins to be classified according to size**.
 
 .. image:: images/Strahler.png
-   :width: 70 %
+   :width: 80 %
    :alt: Stream order
    :align: center
 
-s shown in the figure above, **there is no increase in order when a segment of one order is joined by another of a lower order**. Strahler’s system takes no account of distance and all fourth-order basins are considered as similar.
+Stream order is a basic property of stream networks because it relates to the relative discharge of a channel segment. Several stream-ordering systems exist, the most commonly used being the one devised by **Arthur N. Strahler**. In **Strahler’s ordering** system, a stream segment with no tributaries that flows from the stream source is denoted as a **first order segment**. A **second-order segment** is created by joining two first-order segments, a third-order segment by joining two second-order segments, and so on.
+
+As shown in the figure above, **there is no increase in order when a segment of one order is joined by another of a lower order**. Strahler’s system takes no account of distance and all fourth-order basins are considered as similar.
 
 .. note::
-  Strahler’s stream order has been applied to many river systems and it has been proved statistically to be related to a number of drainage basin morphometry elements.
+  Strahler’s stream order has been applied to many river systems and it has been proved statistically to be related to a number of drainage basin morphometry elements. Each higher order of stream is formed from the confluence of two lower order streams, and the watersheds of lower-order streams are included within the watersheds of higher order streams. **Orders 10–12 correspond to the main channels of large world rivers**. In general, individual streams get wider and longer with increasing stream order.
 
 
 Drainage basin patterns
 ********************************
 
-The pattern of tributaries within a drainage basin depends largely on the type of rock beneath, and on structures within that rock (folds, fractures, faults, etc.).
+Most stream networks are adapted to regional slope and geological structures, picking out the main fractures in the underlying rocks. The high degree of conformity between stream networks and geological structure is evident in the main drainage patterns presented in the figure below.
 
-Most stream networks are adapted to regional
-slope and geological structures, picking out the
-main fractures in the underlying rocks. The high
-degree of conformity between stream networks
-and geological structure is evident in the nine
-chief drainage patterns
+..  admonition:: Drainage patterns explained...
+:class: toggle, toggle-shown
 
+    .. figure:: images/patterns.png
+       :width: 100 %
+       :alt: patterns
+       :align: center
 
+       Drainage patterns controlled by structure or slope (from Summerfield, 1991).
 
+    - **Dendritic drainage** has a spreading, tree-like pattern with an irregular branching of tributaries in many directions and at almost any angle. It occurs mostly on horizontal and uniformly resistant strata and unconsolidated sediments and on homogeneous igneous rocks where there are no structural controls. **Pinnate drainage**, which is associated with very steep slopes, is a special dendritic pattern wherein the tributaries are more or less parallel and join the main stream at acute angles.
 
-The three main types of drainage patterns are illustrated in the figure below.
+    - **Parallel drainage** displays regularly spaced and more or less parallel main streams with tributaries joining at acute angles. Parallel dip streams dominate the pattern. It develops where strata are uniformly resistant and the regional slope is marked, or where there is strong structural control exerted by a series of closely spaced faults, monoclines, or isoclines.
 
-.. figure:: images/patterns.png
-   :scale: 52 %
-   :alt: patterns
-   :align: center
+    - **Trellis drainage**  has a dominant drainage direction with a secondary direction parallel to it, so that primary tributaries join main streams at right angles and secondary tributaries run parallel to the main streams. It is associated with alternating bands of hard and soft dipping or folded beds or recently deposited and aligned glacial debris. Fold mountains tend to have trellis drainage patterns.
 
-   Stream drainage patterns (from Summerfield (1991)).
+    - **Radial drainage** has streams flowing outwards in all directions from a central elevated tract. It is found on topographic domes, such as volcanic cones and other sorts of isolated conical hills. On a large scale, radial drainage networks form on rifted continental margins over mantle plumes, which create lithospheric domes.
 
-Dendritic patterns, which are by far the most common, develop in areas where the rock (or unconsolidated material) beneath the stream has no particular fabric or structure and can be eroded equally easily in all directions. Examples would be granite, gneiss, volcanic rock, and sedimentary rock that has not been folded.
+    - **Rectangular drainage** displays a perpendicular network of streams with tributaries and main streams joining at right angles. It is less regular than trellis drainage, and is controlled by joints and faults.
 
-Trellis drainage patterns typically develop where sedimentary rocks have been folded or tilted and then eroded to varying degrees depending on their strength.
+    - **Angulate drainage** is a variant of rectangular drainage and occurs where joints or faults join each other at acute or obtuse angles rather than at right angles.
 
-Rectangular patterns develop in areas that have very little topography and a system of bedding planes, fractures, or faults that form a rectangular network.
+    - **Annular drainage** has main streams arranged in a circular pattern with subsidiary streams lying at right angles to them. It evolves in a breached or dissected dome or basin in which erosion exposes concentrically arranged hard and soft bands of rock.
 
-
-Stream organisation
-^^^^^^^^^^^^^^^^^^^^
-
-Seen from above, river systems display a tree-like pattern, with many small streams feeding into fewer larger rivers and eventually into one very large river. Many systems have been developed to classify the different “levels” of streams in this pattern. In the system devised by **Strahler**, each level of stream is assigned an order.
-
-.. image:: images/stream.png
-   :scale: 32 %
-   :alt: Stream organisation
-   :align: center
-
-**Order 1** streams are the very smallest, uppermost streams (*i.e.*, with no upstream tributaries). Two order 1 streams combine to form a **stream of order 2**. **Order 3** streams are formed from the confluence of two order 2 streams.
-
-Each higher order of stream is formed from the confluence of two lower order streams, and the watersheds of lower-order streams are included within the watersheds of higher order streams. Orders 10–12 correspond to the main channels of large world rivers. In general, individual streams get wider and longer with increasing stream order.
-
+    - **Deranged drainage** forms on newly exposed land, such as that exposed beneath a retreating ice sheet, where there is almost no structural or bedrock control and drainage is characterised by irregular stream courses with short tributaries, lakes, and swamps.
 
 
 River morphology and landforms
