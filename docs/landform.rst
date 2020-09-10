@@ -106,49 +106,31 @@ River long profiles, baselevel, and grade
 River landforms
 ********************************************
 
-Most rivers are considered as reaches with different geomorphological
-characteristics. The most simple division generally made is to divide
-the river into **upper**, **middle** and **lower** river reaches.
+Most rivers are considered as reaches with different geomorphological characteristics. The most simple division generally made is to divide the river into **upper**, **middle** and **lower** river reaches.
+
+.. figure:: images/ZonesFluvia.jpg
+   :width: 90 %
+   :alt: deathvalley
+   :align: center
+
+   Upper River: headwaters, Middle river: low gradient valleys and flood plains, Lower river: depositional zone (from T.L. Thornberry-Ehrlich, Colorado State University)
+
 
 Upper river
 ^^^^^^^^^^^^^
 
 The uppermost portion of a river system includes the river headwaters and low-order streams at higher elevation. The upper river basin is usually characterised by steep gradients and by erosion that carries sediment downstream. Streams in this upper region are usually steep and torrential, and often include rapids and waterfalls. These streams generally have little floodplain, although part of the bank and surrounding land may be wetted during periods of high flow.
 
-
-.. figure:: images/deathvalley.jpeg
-   :scale: 35 %
-   :alt: deathvalley
-   :align: center
-
-   Transition from upper to middle river. An imaginary of Death Valley with blue water raining and flowing over its bedrock and alluvial fans (based on Lidar elevation data from OpenTopography; byproduct of project from Clastics Lab)
-
-
 Middle river
 ^^^^^^^^^^^^^
 
-In the middle course the river has more energy and a high volume of water. The gradient here is gentle and lateral erosion has widened the river channel. The river channel has also deepened. A larger river channel means there is less friction, so the water flows faster:
+In the middle course the river has more energy and a high volume of water. The gradient here is gentle and lateral erosion has widened the river channel. The river channel has also deepened. A larger river channel means there is less friction, so the water flows faster.
 
-First video shows meandering rivers and their deposits from E. Steel (base image by Planetlabs, Queen's University). Second video shows a time-lapse animation of a short segment of the Mamore River (from Z. Sylvester, Clastic Lab, BEG).
-
-.. raw:: html
-
-    <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="100%" height="380" src="https://www.youtube.com/embed/ZJAYDPoZzlM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-
-.. raw:: html
-
-    <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="100%" height="380" src="https://www.youtube.com/embed/5UG1_GGWD6c?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-
-
-* As the river erodes laterally, to the right side then the left side, it forms large bends, and then horseshoe-like loops called meanders.
-* The formation of meanders is due to both deposition and erosion and meanders gradually migrate downstream.
-* The force of the water erodes and undercuts the river bank on the outside of the bend where water flow has most energy due to decreased friction.
-* On the inside of the bend, where the river flow is slower, material is deposited, as there is more friction.
-* Over time the horseshoe become tighter, until the ends become very close together. As the river breaks through, *e.g.* during a flood when the river has a higher discharge and more energy, and the ends join, the loop is cut-off from the main channel. The cut-off loop is called an oxbow lake.
+- As the river erodes laterally, to the right side then the left side, it forms large bends, and then horseshoe-like loops called meanders.
+- The formation of meanders is due to both deposition and erosion and meanders gradually migrate downstream.
+- The force of the water erodes and undercuts the river bank on the outside of the bend where water flow has most energy due to decreased friction.
+- On the inside of the bend, where the river flow is slower, material is deposited, as there is more friction.
+- Over time the horseshoe become tighter, until the ends become very close together. As the river breaks through, *e.g.* during a flood when the river has a higher discharge and more energy, and the ends join, the loop is cut-off from the main channel. The cut-off loop is called an oxbow lake.
 
 Lower river
 ^^^^^^^^^^^^^
@@ -158,20 +140,21 @@ The river channel is now deep and wide and the landscape around it is flat. Howe
 Floodplains
 ^^^^^^^^^^^
 
-The river now has a wide floodplain. A floodplain is the area around a
-river that is covered in times of flood. A floodplain is a very fertile area due to the rich alluvium deposited by floodwaters. This makes floodplains a good place for agriculture. A build up of alluvium on the banks of a river can create levees, which raise the river bank.
+In addition to the streams themselves, the depositional habits of fluvial systems produce striking landforms. Fluvial deposits are sediments deposited by the flowing water of a stream.
 
-
-Deltas
-^^^^^^^^^^^
-
-.. image:: images/deltasp.png
-   :scale: 37 %
-   :alt: deltasp
+.. figure:: images/GeomorphicChacoCanyon.jpg
+   :width: 90 %
+   :alt: floodplain
    :align: center
 
-Deltas are found at the mouth of large rivers - for example, the Mississippi. A delta is formed when the river deposits its material faster than the sea can remove it.
+   Illustration of channel features from Chaco Culture National Historical Park geologic report (from T.L. Thornberry-Ehrlich, Colorado State University).
 
+A floodplain is the relatively flat surface adjacent to the river or stream. During floods, when the stream overflows its banks, water flows over the floodplain and deposits sediment. Through fluvial processes, streams construct floodplains that accommodate their maximum flood capacity. Geomorphic features of the floodplain include:
+
+- Natural levees—river may be immediately flanked by a buildup of sediment that forms natural levees. These provide some defense against flooding, but are occasionally breached in areas producing flood-plain splays—coarse fan-shaped deposit of sediment created during high flow events
+- Oxbows and oxbow lakes—See below, features of a Meandering Stream Channel
+- Point Bars—See below, features of a Meandering Stream Channel
+- Terraces
 
 
 Hierarchical organisation
