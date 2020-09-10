@@ -3,95 +3,6 @@ Fluvial landforms & hierarchical organisation
 
 This chapter focuses on the characterisation of fluvial systems. We will put the emphasis on specific landforms associated with river networks as well as the organisation of drainage basins and streams.
 
-Drainage networks
-------------------
-
-Drainage networks display many types of quantitative regularity that are useful in analysing both the fluvial systems and the terrains that they dissect (Howard, 1967). Drainage basins are the principal hydrologic unit considered in fluvial geomorphology. A drainage basin is the source for water and sediment that moves from higher elevation through the river system to lower elevations as they reshape the channel forms.
-
-.. note::
-  The fluvial dissection of the landscape consists of **valleys** and their included **channel** ways organised into a system of connection known as a **drainage network**. As such a river system can be considered as a network in which nodes (stream tips and stream junctions) are joined by links (streams). Stream segments or links are the basic units of stream networks.
-
-
-..  admonition:: Drainage basin definitions
-    :class: toggle, toggle-shown
-
-    .. image:: images/drainagebasin.png
-       :width: 70 %
-       :alt: Drainage basins
-       :align: center
-
-    The **drainage basin** is the land surface drained by a **stream system**; an **interfluve** is a **divide**, an area of higher land that separates one valley from the next (within a drainage basin); a **drainage divide** is an interfluve that separates two drainage basins.
-
-    .. raw:: html
-
-        <div style="text-align: center; margin-bottom: 2em;">
-        <iframe width="100%" height="380" src="https://www.youtube.com/embed/v-b1nM0RbOs?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
-
-Stream order
-*****************
-
-**Stream order** is used to denote the **hierarchical relationship between stream segments** and **allows drainage basins to be classified according to size**.
-
-Stream order is a basic property of stream networks because it relates to the relative discharge of a channel segment. Several stream-ordering systems exist, the most commonly used being the one devised by **Arthur N. Strahler**. In **Strahler’s ordering** system, a stream segment with no tributaries that flows from the stream source is denoted as a **first order segment**. A **second-order segment** is created by joining two first-order segments, a third-order segment by joining two second-order segments, and so on.
-
-.. image:: images/Strahler.png
-   :width: 70 %
-   :alt: Stream order
-   :align: center
-
-s shown in the figure above, **there is no increase in order when a segment of one order is joined by another of a lower order**. Strahler’s system takes no account of distance and all fourth-order basins are considered as similar.
-
-.. note::
-  Strahler’s stream order has been applied to many river systems and it has been proved statistically to be related to a number of drainage basin morphometry elements.
-
-
-Drainage basin patterns
-********************************
-
-The pattern of tributaries within a drainage basin depends largely on the type of rock beneath, and on structures within that rock (folds, fractures, faults, etc.).
-
-Most stream networks are adapted to regional
-slope and geological structures, picking out the
-main fractures in the underlying rocks. The high
-degree of conformity between stream networks
-and geological structure is evident in the nine
-chief drainage patterns
-
-
-
-
-The three main types of drainage patterns are illustrated in the figure below.
-
-.. figure:: images/patterns.png
-   :scale: 52 %
-   :alt: patterns
-   :align: center
-
-   Stream drainage patterns (from Summerfield (1991)).
-
-Dendritic patterns, which are by far the most common, develop in areas where the rock (or unconsolidated material) beneath the stream has no particular fabric or structure and can be eroded equally easily in all directions. Examples would be granite, gneiss, volcanic rock, and sedimentary rock that has not been folded.
-
-Trellis drainage patterns typically develop where sedimentary rocks have been folded or tilted and then eroded to varying degrees depending on their strength.
-
-Rectangular patterns develop in areas that have very little topography and a system of bedding planes, fractures, or faults that form a rectangular network.
-
-
-Stream organisation
-^^^^^^^^^^^^^^^^^^^^
-
-Seen from above, river systems display a tree-like pattern, with many small streams feeding into fewer larger rivers and eventually into one very large river. Many systems have been developed to classify the different “levels” of streams in this pattern. In the system devised by **Strahler**, each level of stream is assigned an order.
-
-.. image:: images/stream.png
-   :scale: 32 %
-   :alt: Stream organisation
-   :align: center
-
-**Order 1** streams are the very smallest, uppermost streams (*i.e.*, with no upstream tributaries). Two order 1 streams combine to form a **stream of order 2**. **Order 3** streams are formed from the confluence of two order 2 streams.
-
-Each higher order of stream is formed from the confluence of two lower order streams, and the watersheds of lower-order streams are included within the watersheds of higher order streams. Orders 10–12 correspond to the main channels of large world rivers. In general, individual streams get wider and longer with increasing stream order.
-
-
 
 River morphology and landforms
 ------------------------------------------
@@ -107,8 +18,6 @@ River long profiles, baselevel, and grade
         :alt: River longitudinal profile
         :align: center
 
-        River long profiles, baselevel and knickpoints (adapted from Bierman & Montgomery: Key Concepts in Geomorphology, 2014)
-
     The longitudinal profile or long profile of a river is the gradient of its water-surface line from source to mouth. Streams with discharge increasing downstream have **concave long profiles**. This is because the **drag force of flowing water depends on the product of channel gradient and water depth**. Depth increases with increasing discharge and so, in moving downstream, a progressively lower gradient is sufficient to transport the bed load. Many river long profiles are not smoothly concave but contain flatter and steeper sections.
 
     The steeper sections, which start at **knickpoints**, may result from outcrops of hard rock, the action of local tectonic movements, sudden changes in discharge, or critical stages in valley development such as active headward erosion.
@@ -121,8 +30,39 @@ River long profiles, baselevel, and grade
 
 
 
+
+Preamble
+----------------------
+
+Tectonic geomorphology is the study of the interplay between tectonic and surface processes that shape the landscape in regions of active deformation and at time scales ranging from up to millions of years.
+
+.. figure:: images/dietrichperron.jpg
+    :scale: 100 %
+    :alt: Unidirectional moisture flux and mountain-belt evolution
+    :align: center
+
+    Unidirectional moisture flux and mountain-belt evolution (from Dietrich & Perron 2006)
+
+
+In this course, we will analyse different landforms, the modes of sediment transport, the main equations that are used to simulate geomorphological changes and some of the numerical techniques that exist to model landscape evolution.
+
+During the practicals, we will make a quantitative assessment of the impact of tectonic forces on landscape and drainage evolution. We will also look at how climate, and in particular how the spatial pattern of precipitation, is affecting the topographic and tectonic evolution of mountain belts through erosion.
+
+.. important::
+  The goals for this course are:
+
+  1. to better understand interactions between climate, tectonics and the Earth surface;
+  2. get an overview of fluvial and hillslope processes and their importance;
+  3. learn basic geomorphic transport laws to predict past and future landscape behaviour from present observations;
+  4. use numerical modelling for quantitative analysis of landscape dynamics.
+
+Tectonic processes govern the dynamic nature of Earth’s crust and shape the global distribution of continents, ocean basins, and landforms. Setting the template on which climate and erosion interact, tectonics elevates rocks above sea level where weathering prepares the ground for wind, rain, and rivers to erode and sculpt landscapes.
+
+It is no coincidence that many of our planet’s major surface features coincide with the boundaries of tectonic plates, where uplift, deformation, and erosion are focused. The imprint of tectonics on geomorphology is apparent not only in the size, extent, and location of mountain ranges, but in the localised steepness of river profiles, the character of mountain slopes, and in the form of river networks that flow along regional joint patterns or are offset across faults.
+
+
 River landforms
-********************************************
+------------------
 
 Most rivers are considered as reaches with different geomorphological
 characteristics. The most simple division generally made is to divide
@@ -192,6 +132,62 @@ Deltas are found at the mouth of large rivers - for example, the Mississippi. A 
 
 Drainage basins
 ****************
+
+
+The fluvial dissection of the landscape consists of valleys and their included channel ways organised into a system of connection known as a drainage network.
+
+Drainage networks display many types of quantitative regularity that are useful in analysing both the fluvial systems and the terrains that they dissect (Howard, 1967). Drainage basins are the principal hydrologic unit considered in fluvial geomorphology. A drainage basin is the source for water and sediment that moves from higher elevation through the river system to lower elevations as they reshape the channel forms.
+
+.. raw:: html
+
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" height="380" src="https://www.youtube.com/embed/v-b1nM0RbOs?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+The drainage basin is the land surface drained by a stream system; an interfluve is a divide, an area of higher land that separates one valley from the next (within a drainage basin); a drainage divide is an interfluve that separates two drainage basins.
+
+.. note::
+  The drainage pattern of the river reflects the rock materials and landscape through with the river flows; stream order is a hierarchical system to define river system complexity; and base level is a level below which a river cannot erode its channel.
+
+
+.. image:: images/drainagebasin.png
+   :scale: 30 %
+   :alt: Drainage basins
+   :align: center
+
+
+Drainage basin patterns
+********************************
+
+The pattern of tributaries within a drainage basin depends largely on the type of rock beneath, and on structures within that rock (folds, fractures, faults, etc.). The three main types of drainage patterns are illustrated in the figure below.
+
+.. figure:: images/patterns.png
+   :scale: 52 %
+   :alt: patterns
+   :align: center
+
+   Stream drainage patterns (from Summerfield (1991)).
+
+Dendritic patterns, which are by far the most common, develop in areas where the rock (or unconsolidated material) beneath the stream has no particular fabric or structure and can be eroded equally easily in all directions. Examples would be granite, gneiss, volcanic rock, and sedimentary rock that has not been folded.
+
+Trellis drainage patterns typically develop where sedimentary rocks have been folded or tilted and then eroded to varying degrees depending on their strength.
+
+Rectangular patterns develop in areas that have very little topography and a system of bedding planes, fractures, or faults that form a rectangular network.
+
+
+Stream organisation
+^^^^^^^^^^^^^^^^^^^^
+
+Seen from above, river systems display a tree-like pattern, with many small streams feeding into fewer larger rivers and eventually into one very large river. Many systems have been developed to classify the different “levels” of streams in this pattern. In the system devised by **Strahler**, each level of stream is assigned an order.
+
+.. image:: images/stream.png
+   :scale: 32 %
+   :alt: Stream organisation
+   :align: center
+
+**Order 1** streams are the very smallest, uppermost streams (*i.e.*, with no upstream tributaries). Two order 1 streams combine to form a **stream of order 2**. **Order 3** streams are formed from the confluence of two order 2 streams.
+
+Each higher order of stream is formed from the confluence of two lower order streams, and the watersheds of lower-order streams are included within the watersheds of higher order streams. Orders 10–12 correspond to the main channels of large world rivers. In general, individual streams get wider and longer with increasing stream order.
 
 
 Hierarchical organisation
