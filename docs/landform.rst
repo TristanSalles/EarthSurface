@@ -1,17 +1,16 @@
-The fluvial system: hierarchical organisation and quantitative analysis
+Fluvial landforms & hierarchical organisation
 =========================================================================
 
-This chapter focuses on the characterisation of fluvial systems. We will put the emphasis on specific landforms associated with river networks as well as the organisation of drainage basins and streams. We will also review some quantitative metrics used to understand landscape evolution in response to both climate and tectonic processes.
-
-
-
-
+This chapter focuses on the characterisation of fluvial systems. We will put the emphasis on specific landforms associated with river networks as well as the organisation of drainage basins and streams.
 
 
 River morphology and landforms
 ------------------------------------------
 
-..  admonition:: River long profiles, baselevel, and grade
+River long profiles, baselevel, and grade
+********************************************
+
+..  admonition:: Definitions
     :class: toggle, toggle-shown, important
 
     .. figure:: images/graded.png
