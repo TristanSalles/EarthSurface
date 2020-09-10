@@ -1,5 +1,36 @@
-Landforms and hierarchical organisation
-==========================================
+The fluvial system: hierarchical organisation and quantitative analysis
+=========================================================================
+
+This chapter focuses on the characterisation of fluvial systems. We will put the emphasis on specific landforms associated with river networks as well as the organisation of drainage basins and streams. We will also review some quantitative metrics used to understand landscape evolution in response to both climate and tectonic processes.
+
+
+
+
+
+
+River morphology and landforms
+------------------------------------------
+
+..  admonition:: River long profiles, baselevel, and grade
+    :class: toggle, toggle-shown, important
+
+    .. figure:: images/graded.png
+        :width: 100 %
+        :alt: River longitudinal profile
+        :align: center
+
+    The longitudinal profile or long profile of a river is the gradient of its water-surface line from source to mouth. Streams with discharge increasing downstream have **concave long profiles**. This is because the **drag force of flowing water depends on the product of channel gradient and water depth**. Depth increases with increasing discharge and so, in moving downstream, a progressively lower gradient is sufficient to transport the bed load. Many river long profiles are not smoothly concave but contain flatter and steeper sections.
+
+    The steeper sections, which start at **knickpoints**, may result from outcrops of hard rock, the action of local tectonic movements, sudden changes in discharge, or critical stages in valley development such as active headward erosion.
+
+    **Baselevel** is the lowest elevation to which downcutting by a stream is possible. The ultimate baselevel for any stream is the **water body into which it flows** – sea, lake, or, in the case of some enclosed basins, playa, or salt lake. Main channels also prevent further downcutting by tributaries and so provide a baselevel. **Local baselevels** arise from bands of resistant rock, dams of woody debris, beaver ponds, and human-made dams, weirs, and so on.
+
+    **Grade** is a state of a river system in which controlling variables and baselevel are **constant**. A graded stream is one in which, over a period of years, slope is delicately adjusted to provide, with available discharge and with prevailing channel characteristics, just the velocity required for the transportation of the load provided by the drainage basin. The **graded stream is a system in equilibrium**; its diagnostic characteristic is that any change in any of the controlling factors will cause a displacement of the equilibrium in a direction that will tend to absorb the effect of the change. If the baselevel changes, then **streams adjust their grade by changing their channel slope (through aggradation or degradation), or by changing their channel pattern, width, or roughness**. However, as the controlling variables usually change more frequently than the time taken for the channel properties to respond, a graded stream displays a quasi-equilibrium rather than a true steady state.
+
+
+
+
+
 
 Preamble
 ----------------------

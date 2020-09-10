@@ -126,7 +126,7 @@ Mesa-and-scarp
     :alt: Mesa-and-scarp
     :align: center
 
-    Residual landforms resultant from the dissection of a plateau in semiarid climate, Monument Valley, USA.
+    Top: Residual landforms resultant from the dissection of a plateau in semiarid climate, Monument Valley, USA. Bottom: Bornhardt formation.
 
 **Mesas** are defined as flat-topped elevations, which are bounded from all sides by steep escarpments and hence they stand distinctly above the surrounding country, as a table stands above the floor upon which it rests. They are capped by more resistant layers, usually sandstones, basalts or duricrusts, beneath which more erodible rocks are present. Such a sequence sustains the general mesa form, with planar top surface, vertical cliffs in the upper part and less inclined slopes truncating weaker strata below, although the areal extent of the mesa becomes reduced over time due to complex processes involved in cliff retreat. The reduction in the width of the mesa by cliff retreat forms a **butte**.
 
