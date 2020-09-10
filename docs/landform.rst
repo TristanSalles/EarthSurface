@@ -52,7 +52,7 @@ Drainage basin patterns
 Most stream networks are adapted to regional slope and geological structures, picking out the main fractures in the underlying rocks. The high degree of conformity between stream networks and geological structure is evident in the main drainage patterns presented in the figure below.
 
 ..  admonition:: Drainage patterns explained...
-:class: toggle, toggle-shown
+    :class: toggle, toggle-shown
 
     .. figure:: images/patterns.png
        :width: 100 %
@@ -65,7 +65,7 @@ Most stream networks are adapted to regional slope and geological structures, pi
 
     - **Parallel drainage** displays regularly spaced and more or less parallel main streams with tributaries joining at acute angles. Parallel dip streams dominate the pattern. It develops where strata are uniformly resistant and the regional slope is marked, or where there is strong structural control exerted by a series of closely spaced faults, monoclines, or isoclines.
 
-    - **Trellis drainage**  has a dominant drainage direction with a secondary direction parallel to it, so that primary tributaries join main streams at right angles and secondary tributaries run parallel to the main streams. It is associated with alternating bands of hard and soft dipping or folded beds or recently deposited and aligned glacial debris. Fold mountains tend to have trellis drainage patterns.
+    - **Trellis drainage** has a dominant drainage direction with a secondary direction parallel to it, so that primary tributaries join main streams at right angles and secondary tributaries run parallel to the main streams. It is associated with alternating bands of hard and soft dipping or folded beds or recently deposited and aligned glacial debris. Fold mountains tend to have trellis drainage patterns.
 
     - **Radial drainage** has streams flowing outwards in all directions from a central elevated tract. It is found on topographic domes, such as volcanic cones and other sorts of isolated conical hills. On a large scale, radial drainage networks form on rifted continental margins over mantle plumes, which create lithospheric domes.
 
@@ -103,9 +103,6 @@ River long profiles, baselevel, and grade
     **Grade** is a state of a river system in which controlling variables and baselevel are **constant**. A graded stream is one in which, over a period of years, slope is delicately adjusted to provide, with available discharge and with prevailing channel characteristics, just the velocity required for the transportation of the load provided by the drainage basin. The **graded stream is a system in equilibrium**; its diagnostic characteristic is that any change in any of the controlling factors will cause a displacement of the equilibrium in a direction that will tend to absorb the effect of the change. If the baselevel changes, then **streams adjust their grade by changing their channel slope (through aggradation or degradation), or by changing their channel pattern, width, or roughness**. However, as the controlling variables usually change more frequently than the time taken for the channel properties to respond, a graded stream displays a quasi-equilibrium rather than a true steady state.
 
 
-
-
-
 River landforms
 ********************************************
 
@@ -114,7 +111,7 @@ characteristics. The most simple division generally made is to divide
 the river into **upper**, **middle** and **lower** river reaches.
 
 Upper river
-************
+^^^^^^^^^^^^^
 
 The uppermost portion of a river system includes the river headwaters and low-order streams at higher elevation. The upper river basin is usually characterised by steep gradients and by erosion that carries sediment downstream. Streams in this upper region are usually steep and torrential, and often include rapids and waterfalls. These streams generally have little floodplain, although part of the bank and surrounding land may be wetted during periods of high flow.
 
@@ -128,7 +125,7 @@ The uppermost portion of a river system includes the river headwaters and low-or
 
 
 Middle river
-**************
+^^^^^^^^^^^^^
 
 In the middle course the river has more energy and a high volume of water. The gradient here is gentle and lateral erosion has widened the river channel. The river channel has also deepened. A larger river channel means there is less friction, so the water flows faster:
 
@@ -154,7 +151,7 @@ First video shows meandering rivers and their deposits from E. Steel (base image
 * Over time the horseshoe become tighter, until the ends become very close together. As the river breaks through, *e.g.* during a flood when the river has a higher discharge and more energy, and the ends join, the loop is cut-off from the main channel. The cut-off loop is called an oxbow lake.
 
 Lower river
-*************
+^^^^^^^^^^^^^
 
 The river channel is now deep and wide and the landscape around it is flat. However, as a river reaches the end of its journey, energy levels are low and deposition takes place.
 
@@ -175,12 +172,10 @@ Deltas
 
 Deltas are found at the mouth of large rivers - for example, the Mississippi. A delta is formed when the river deposits its material faster than the sea can remove it.
 
-Drainage basins
-****************
 
 
 Hierarchical organisation
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------------------
 
 Characteristics of a river system depend on the landscape, climate, other geographical features and natural processes. Most river systems can be divided into different sections from the headwaters to the river mouth.
 
