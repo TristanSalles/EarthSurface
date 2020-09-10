@@ -133,7 +133,7 @@ Knickpoints migrate upstream, separating a downstream reach, broadly in equilibr
    :alt: knickpoint
    :align: center
 
-   Knickpoints (often waterfalls) are often located at dynamic boundaries within landscapes, separating a downstream reach characterised by steep channels and long steep hillslopes (highlighted in red) from a low relief landscape upstream (shown in green) (source: Waterfall3d model adapted from Hurst et al. (2012))
+   Knickpoints (often waterfalls) are often located at dynamic boundaries within landscapes, separating a downstream reach characterised by steep channels and long steep hillslopes (highlighted in red) from a low relief landscape upstream (shown in green) (Hurst et al., 2012).
 
 Knickpoints generally retreat very slowly through landscapes which makes the erosion processes very difficult to monitor in real time. Experimental flume tanks can allow these processes to be simulated in a controlled environment, as the timescale of knickpoint migration is reduced and the controls on formation and retreat processes can be isolated and quantified.
 
@@ -195,7 +195,7 @@ A floodplain is the relatively flat surface adjacent to the river or stream. Dur
     :class: toggle, toggle-shown, important
 
     .. figure:: images/limited.png
-       :width: 90 %
+       :width: 100 %
        :alt: Limited conditions for landscape evolution
        :align: center
 
@@ -237,7 +237,7 @@ Relationship between river slope and drainage area
 As emphasised above, bedrock rivers play a important role in setting the boundary conditions for the relief production and its evolution. Of particular importance is the analysis of river profiles to detect those zones where rock uplift is high because rivers respond to tectonic forcing by steepening their gradient and enhancing their incision into bedrock.
 
 .. figure:: images/ksn.png
-   :scale: 48 %
+   :width: 90 %
    :alt: ksn
    :align: center
 
@@ -256,7 +256,7 @@ Relationship between valley spacing
 ****************************************************************
 
 .. figure:: images/hovius.png
-   :scale: 45 %
+   :width: 100 %
    :alt: Stream organisation
    :align: center
 
