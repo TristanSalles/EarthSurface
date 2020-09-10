@@ -1,7 +1,27 @@
 Fluvial landforms & hierarchical organisation
 =========================================================================
 
-This chapter focuses on the characterisation of fluvial systems. We will put the emphasis on specific landforms associated with river networks as well as the organisation of drainage basins and streams.
+
+.. note::
+  This chapter is mainly based on R.J. Huggett book: Fundamentals of Geomorphology (3rd ed.), 2011 (`link <https://sudartomas.files.wordpress.com/2012/11/fundamentalsofgeomorphology_routledgefundamentalsofphysicalgeography.pdf>`_).
+
+
+..  admonition:: Chapter structure
+    :class: toggle
+
+    - Drainage networks characterisation from stream order and patterns
+    - River morphology and landforms: profiles, knickpoints and basin zonation
+    - Geomorphic transport laws
+
+
+The section focuses on the characterisation of fluvial systems. We will put the emphasis on specific landforms associated with river networks as well as the organisation of drainage basins and streams. Finally we will review some of the geomorphic transport laws that predict landscape form and evolution.
+
+..  admonition:: Learning outcomes
+    :class: toggle
+
+    - To understand the different components of fluvial catchments;
+    - To consider how drainage networks are labelled and how they interact with other components of sediment routing systems;
+    - To evaluate how simple geomorphic transport laws derived from field evidence can be used to estimate landform and fluvial landscape evolution.
 
 Drainage networks
 ------------------
@@ -34,7 +54,7 @@ Stream order
 Seen from above, river systems display a tree-like pattern, with many small streams feeding into fewer larger rivers and eventually into one very large river. **Stream order** is used to denote the **hierarchical relationship between stream segments** and **allows drainage basins to be classified according to size**.
 
 .. image:: images/Strahler.png
-   :width: 80 %
+   :width: 70 %
    :alt: Stream order
    :align: center
 
@@ -103,6 +123,23 @@ River long profiles, baselevel, and grade
     **Grade** is a state of a river system in which controlling variables and baselevel are **constant**. A graded stream is one in which, over a period of years, slope is delicately adjusted to provide, with available discharge and with prevailing channel characteristics, just the velocity required for the transportation of the load provided by the drainage basin. The **graded stream is a system in equilibrium**; its diagnostic characteristic is that any change in any of the controlling factors will cause a displacement of the equilibrium in a direction that will tend to absorb the effect of the change. If the baselevel changes, then **streams adjust their grade by changing their channel slope (through aggradation or degradation), or by changing their channel pattern, width, or roughness**. However, as the controlling variables usually change more frequently than the time taken for the channel properties to respond, a graded stream displays a quasi-equilibrium rather than a true steady state.
 
 
+Knickpoints
+****************
+
+As we saw above, rivers in equilibrium with the environment have smooth, concave long profiles, however a dynamic knickpoint, which is a sharp break in slope in the long profile of a river (*e.g.* a waterfall) can be formed when the system is perturbed by external factors such as changes in tectonic or climatic conditions.
+
+Knickpoints migrate upstream, separating a downstream reach, broadly in equilibrium with the new conditions (red in diagram above), and an upstream reach which is yet to adjust (green in diagram). Understanding the development and migration of knickpoints through landscapes is therefore fundamental for inferring historic landscape forcings and predicting possible future landscape responses to change.
+
+.. figure:: images/knickpoint.png
+   :width: 85 %
+   :alt: knickpoint
+   :align: center
+
+   Knickpoints (often waterfalls) are often located at dynamic boundaries within landscapes, separating a downstream reach characterised by steep channels and long steep hillslopes (highlighted in red) from a low relief landscape upstream (shown in green) (source: Waterfall3d model adapted from Hurst et al. (2012))
+
+Knickpoints generally retreat very slowly through landscapes which makes the erosion processes very difficult to monitor in real time. Experimental flume tanks can allow these processes to be simulated in a controlled environment, as the timescale of knickpoint migration is reduced and the controls on formation and retreat processes can be isolated and quantified.
+
+
 River landforms
 ********************************************
 
@@ -143,7 +180,7 @@ Floodplains
 In addition to the streams themselves, the depositional habits of fluvial systems produce striking landforms. Fluvial deposits are sediments deposited by the flowing water of a stream.
 
 .. figure:: images/GeomorphicChacoCanyon.jpg
-   :width: 90 %
+   :width: 70 %
    :alt: floodplain
    :align: center
 
@@ -157,12 +194,34 @@ A floodplain is the relatively flat surface adjacent to the river or stream. Dur
 - Terraces
 
 
-Hierarchical organisation
+Geomorphic transport laws
 ------------------------------------------
 
-Characteristics of a river system depend on the landscape, climate, other geographical features and natural processes. Most river systems can be divided into different sections from the headwaters to the river mouth.
+A geomorphic transport law is a mathematical statement derived from a physical principle or mechanism, which expresses the mass flux or erosion caused by one or more processes in a manner that: 1) can be parameterised from field measurements, 2) can be tested in physical models, and 3) can be applied over geomorphically significant spatial and temporal scales. Such laws are a compromise between physics-based theory that requires extensive information about materials and their interactions, which may be hard to quantify across real landscapes, and rules-based approaches, which cannot be tested directly but only can be used in models to see if the model outcomes match some expected or observed state.
 
-The physical characteristics of river systems are organised in a nested hierarchy, with physical processes operating at larger scales influencing those at successively finer resolutions, ultimately controlling the micro-scale distribution of hydraulic and sediment transport processes. The micro-, meso- and reach scales are therefore all equally critical elements within this hierarchy, with different geomorphic and ecological processes being relevant at each resolution.
+Relationship between river slope and drainage area
+****************************************************************
+
+As emphasised above, bedrock rivers play a important role in setting the boundary conditions for the relief production and its evolution. Of particular importance is the analysis of river profiles to detect those zones where rock uplift is high because rivers respond to tectonic forcing by steepening their gradient and enhancing their incision into bedrock.
+
+.. figure:: images/ksn.png
+   :scale: 48 %
+   :alt: ksn
+   :align: center
+
+   Relationship between river slope and drainage area and plot of :math:`k_{sn}` along river streams using the Topotoolbox package.
+
+
+The use of the normalised channel steepness index (:math:`k_{sn}`) which is derived from the slope–area regression, has widely been applied to detect zones subject to different rock uplift rates. This slope–area regression has the following form:
+
+.. math::
+  S = k_s A^\theta
+
+where :math:`S` is the channel slope, :math:`k_s` is referred as the steepness index, :math:`A` is the drainage area (surrogate of stream discharge) and :math:`\theta` is the concavity of the longitudinal profile. :math:`k_{sn}` is estimated from the equation above by normalising the drainage area of a given reach and using a reference concavity (:math:`\theta_{ref}`) which corresponds to the regional concavity observed in reaches unperturbed by tectonic signals.
+
+
+Relationship between valley spacing
+****************************************************************
 
 .. figure:: images/hovius.png
    :scale: 45 %
