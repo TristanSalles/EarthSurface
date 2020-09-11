@@ -52,9 +52,9 @@ B- Quantitative approach to geomorphology
    hillslope
    sedtransport
    landform
-   fluvial
    glacial
    arid
+   model
 
 
 C- Source-to-sink systems and stratigraphy
