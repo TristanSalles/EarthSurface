@@ -25,7 +25,7 @@ Commonly, hillslopes form **catenas** – sequences of linked slope units runnin
 
 
 .. image:: images/hill1.png
-   :width: 80 %
+   :width: 90 %
    :alt: environment
    :align: center
 
@@ -41,11 +41,11 @@ Hillslopes may be bare rock surfaces, regolith and soil may cover them, or they 
 More generally, bare rock faces form in many environments where slope angles exceed about 45°, which is roughly the maximum angle maintained by rock debris. In the humid tropics, a regolith may form on slopes as steep as 80° on rocks such as mudstones and basalts because weathering and vegetation establishment are so speedy. Such steep regolith-covered slopes occur on Tahiti and in Papua New Guinea where, after a landslide, rock may remain bare for just a few years.
 
 
-Hillslope transport processes
+Hillslope processes
 ------------------------------
 
 .. image:: images/summerfield.png
-   :width: 80 %
+   :width: 70 %
    :alt: summerfield
    :align: center
 
