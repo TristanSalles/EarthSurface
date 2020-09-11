@@ -121,6 +121,24 @@ River long profiles, baselevel, and grade
     **Grade** is a state of a river system in which controlling variables and baselevel are **constant**. A graded stream is one in which, over a period of years, slope is delicately adjusted to provide, with available discharge and with prevailing channel characteristics, just the velocity required for the transportation of the load provided by the drainage basin. The **graded stream is a system in equilibrium**; its diagnostic characteristic is that any change in any of the controlling factors will cause a displacement of the equilibrium in a direction that will tend to absorb the effect of the change. If the baselevel changes, then **streams adjust their grade by changing their channel slope (through aggradation or degradation), or by changing their channel pattern, width, or roughness**. However, as the controlling variables usually change more frequently than the time taken for the channel properties to respond, a graded stream displays a quasi-equilibrium rather than a true steady state.
 
 
+Dynamic steady state
+***********************
+
+.. figure:: images/steady.png
+    :width: 85 %
+    :alt: Dynamic steady state
+    :align: center
+
+    Evolution of mean and maximum elevation of an analogue experiment up to steady state, calculated from high-resolution digital elevation models (DEMs) taken at different time intervals. Uplift rate is 1.5 cm/h and mean rainfall rate is 137 mm/h. A–F are three-dimensional views of DEMs (A–D: growth phase; E–F: steady state). Statistical steady state is defined by constant elevation.
+    (from `Bonnet & Crave 2003 <https://pdfs.semanticscholar.org/6ca6/4ec7e8e2da6016a9079a77f5ec06702fd7bc.pdf>`_)
+
+A geomorphological system said to be in **dynamic steady state** has values that oscillate between maxima and minima around a central mean value.
+
+The flux of sediment from an undisturbed drainage basin changes over the short-term as rainstorms come and go, individual hillslopes fail in mass movements, and riverbanks collapse. Over the long-term, the flux of sediment from a drainage basin oscillates around a mean value, producing a **dynamic steady state**, unless there are significant changes in boundary conditions such as climate, vegetation cover, or uplift rate.
+
+.. note::
+  The concept of balance, or equilibrium, between landforms and geomorphological processes provides a useful conceptual framework to study the evolution of landscapes, as well as understanding non-equilibrium landforms and landscapes. Often it is useful or convenient to assume that an equilibrium landscape does not change over time – **a condition referred to as steady state**. Equilibrium however is not static, but rather is a dynamic steady state with landscape characteristics that vary over time around a central tendency.
+
 Knickpoints
 ****************
 
