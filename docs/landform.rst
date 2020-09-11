@@ -272,6 +272,26 @@ where :math:`c` is a constant between *1.4* and *1.7* and the exponent :math:`h`
 .. note::
   This large-scale observation of fluvial landform characteristic is an example of fractal relationship. It shows that the upstream length :math:`L_i` at a given position :math:`i` can be inferred from the total cumulative area :math:`A_i` at that position (which is a specific signature of fractal geometry).
 
+Relationship between valley spacing and mountain width
+****************************************************************
+
+A frequent feature of drainage networks in linear sections of mountain ranges is the apparent regular spacing between transverse rivers at the mountain front. Addressing this observation, and in particular the consistency of this regularity, Hovius (1996) analysed the drainage of 11 different linear mountain belts worldwide.
+
+.. figure:: images/hovius.png
+  :width: 90 %
+  :alt: Stream organisation
+  :align: center
+
+  Top: empirical relationship between average spacing of outlets for major drainages and the half-width of major mountain ranges. Bottom: sample drainage network in the linear section of the Maoke Range (from Hovius 1996).
+
+His study showed that the outlets of the major transverse rivers at the front of these topographies are not only regularly spaced but also that their spacing :math:`S` is on average proportional to the width :math:`W` of the range (measured from the drainage divide to the front) following the relation:
+
+.. math::
+   S = 0.46 W + 0.798
+
+.. important::
+  An important aspect of this observation is the regularity of spacing ratios between the mountain ranges despite strong differences in climate and rock uplift rates.This seems to constitute a paradox as in many current landscape evolution models, the patterns of drainage network growth, as seen for example in drainage density and channel spacing, depend on both climate and tectonics.
+
 
 Controls on the width of bedrock and alluvial channels
 ****************************************************************
@@ -310,28 +330,6 @@ The use of the channel steepness index (:math:`k_{sn}`) which is derived from th
 where :math:`S` is the channel slope, :math:`k_{sn}` is referred as the steepness index, :math:`A` is the drainage area (surrogate of stream discharge) and :math:`\theta` is the concavity of the longitudinal profile. :math:`\theta` ranges between 0.3 and 0.8 and often takes on the value 0.45.
 
 
-Relationship between valley spacing and mountain width
-****************************************************************
-
-A frequent feature of drainage networks in linear sections of mountain ranges is the apparent regular spacing between transverse rivers at the mountain front. Addressing this observation, and in particular the consistency of this regularity, Hovius (1996) analysed the drainage of 11 different linear mountain belts worldwide.
-
-.. figure:: images/hovius.png
-  :width: 90 %
-  :alt: Stream organisation
-  :align: center
-
-  Top: empirical relationship between average spacing of outlets for major drainages and the half-width of major mountain ranges. Bottom: sample drainage network in the linear section of the Maoke Range (from Hovius 1996).
-
-His study showed that the outlets of the major transverse rivers at the front of these topographies are not only regularly spaced but also that their spacing :math:`S` is on average proportional to the width :math:`W` of the range (measured from the drainage divide to the front) following the relation:
-
-.. math::
-
-   S = 0.46 × W + 0.798
-
-.. important::
-  An important aspect of this observation is the regularity of spacing ratios between the mountain ranges despite strong differences in climate and rock uplift rates.This seems to constitute a paradox as in many current landscape evolution models, the patterns of drainage network growth, as seen for example in drainage density and channel spacing, depend on both climate and tectonics.
-
-
 Transient adjustments identification
 ****************************************************************
 
@@ -357,7 +355,6 @@ An advantage of the chi-plot approach is that it removes the effect of drainage 
   River network and longitudinal profile before and after river capture. a χ map for the river network before river capture. b :math:`\chi` map for the present river network. c :math:`\chi`-elevation plot for the Paleo Chaiwen and Yihe Rivers before capture. d :math:`\chi`-elevation plot for the present Chaiwen, Yihe, and Reversed Rivers (Fan et al., 2018).
 
 Transient adjustments of longitudinal profiles, characterised by knickpoints and knickzones, are depicted on chi plots as local increases in change of elevation per unit change in :math:`\chi`, which produce positive deviations from a linear profile. Differences in slopes of transformed profiles upstream and downstream of knickpoints also define differences between adjusted sections of profiles below knickpoints and unadjusted sections of profiles above knickpoints.
-
 
 
 .. figure:: images/chi1.jpg
