@@ -194,6 +194,10 @@ A floodplain is the relatively flat surface adjacent to the river or stream. Dur
 ..  admonition:: Limited conditions for fluvial erosion
     :class: toggle, toggle-shown, important
 
+    A striking difference between the two landscapes is the dominance of bedrock on the slopes in the right panel in the figure below and the absence of any bedrock exposure in the left panel. **This difference matters because the processes responsible for erosion of bedrock hillslopes will differ greatly from those that transport loose soil material downslope**.
+
+    **Bedrock hillslopes emerge where the potential erosion rate exceeds the production rate of loose debris or soil from the bedrock**. Such conditions may be met where channel incision rates or uplift rates are high, or the rate of production from bedrock is low.
+
     .. figure:: images/limited.png
        :width: 100 %
        :alt: Limited conditions for landscape evolution
@@ -212,6 +216,27 @@ Geomorphic transport laws
 
 A geomorphic transport law is a mathematical statement derived from a physical principle or mechanism, which expresses the mass flux or erosion caused by one or more processes in a manner that: 1) can be parameterised from field measurements, 2) can be tested in physical models, and 3) can be applied over geomorphically significant spatial and temporal scales. Such laws are a compromise between physics-based theory that requires extensive information about materials and their interactions, which may be hard to quantify across real landscapes, and rules-based approaches, which cannot be tested directly but only can be used in models to see if the model outcomes match some expected or observed state.
 
+
+Hydraulic geometry
+*********************
+
+
+The controlling influence of discharge upon channel form, resistance to flow, and flow velocity is explored in the concept of **hydraulic geometry**. The key to this concept is the discharge equation:
+
+.. math::
+  Q = w d v
+
+where Q is stream discharge (m3/s), w is the stream width (m), d is the mean depth of the stream in a cross-section (m), and v is the mean flow velocity in the cross-section (m/s). **Hydraulic geometry considers the relationships between the average channel form and discharge**. Width, depth, and velocities variables are power functions of discharge (Leopold and Maddock 1953):
+
+.. math::
+  w = a Q^b, \, d=cQ^f, \, v=kQ^m
+
+The exponents indicate the increase in hydraulic variable (width, depth, and velocity) per unit increase in discharge. Now, discharge is the product of width and depth (cross-sectional area) and velocity, so:
+
+.. math::
+  Q = w d v = ack Q^(b+f+m)
+
+which gives: :math:`ack=1` and :math:`b+f+m=1`. The values of the exponents vary with location, climate, and discharge conditions. Proceeding downstream on the same river, width, depth, and velocity all increase regularly with increasing discharge.  As a rule of thumb, the mean velocity and width–depth ratio (w/d) both increase down stream along alluvial channels as discharge increases. If discharge stays the same, then the product :math:`w d v` does not change. Any change in width or depth or velocity causes compensating changes in the other two components. 
 
 Controls on the width of bedrock rivers
 ****************************************************************
