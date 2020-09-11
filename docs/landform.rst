@@ -244,6 +244,12 @@ The exponents indicate the increase in hydraulic variable (width, depth, and vel
 
 which gives: :math:`ack=1` and :math:`b+f+m=1`. The values of the exponents vary with location, climate, and discharge conditions. Proceeding downstream on the same river, width, depth, and velocity all increase regularly with increasing discharge.  As a rule of thumb, the mean velocity and width–depth ratio (:math:`w/d`) both increase down stream along alluvial channels as discharge increases. If discharge stays the same, then the product :math:`w d v` does not change. Any change in width or depth or velocity causes compensating changes in the other two components.
 
+The stream power incision law is a commonly used physically based model for bedrock incision. The incision rate, :math:`E`, can be written as:
+
+.. math::
+  E = \kappa A^m S^n
+
+where :math:`\kappa` is the erodibility coefficient, :math:`A` is the upslope drainage area, :math:`S` is the downstream slope, and :math:`m` and :math:`n` are exponents. The :math:`m/n` is between 0.35 and 0.60. This range is consistent with results inferred from field work and map studies.
 
 Relationship between streams length and basins area
 *****************************************************
@@ -259,11 +265,12 @@ Relationship between streams length and basins area
 **Hack's law** is an empirical relationship between the length of streams and the area of their basins. If :math:`L` is the length of the longest stream in a basin, and :math:`A` is the area of the basin, then Hack's law may be written as
 
 .. math::
-  L = C A^h
+  L = c A^h
 
-where :math:`C` is a constant between *1.4* and *1.7* and the exponent :math:`h` is slightly less than 0.6 in most basins. :math:`h` varies slightly from region to region and slightly decreases for larger basins.
+where :math:`c` is a constant between *1.4* and *1.7* and the exponent :math:`h` is slightly less than 0.6 in most basins. :math:`h` varies slightly from region to region and slightly decreases for larger basins.
 
-This large-scale observation of fluvial landform characteristic is an example of fractal relationship. It shows that the upstream length :math:`L_i` at a given position :math:`i` can be inferred from the total cumulative area :math:`A_i` at that position (which is a specific signature of fractal geometry).
+.. note::
+  This large-scale observation of fluvial landform characteristic is an example of fractal relationship. It shows that the upstream length :math:`L_i` at a given position :math:`i` can be inferred from the total cumulative area :math:`A_i` at that position (which is a specific signature of fractal geometry).
 
 
 Controls on the width of bedrock and alluvial channels
@@ -286,7 +293,7 @@ Relationship between river slope and drainage area
 
 As we have seen in the first section, river profiles carry information on tectonic and/or climatic perturbations in the form of knickpoints migrating in upstream direction. Of particular importance is the analysis of river profiles to detect those zones of  gradient changes.
 
-A means to quantify deviations from the graded profile consists in plotting the **channel steepness index (:math:`k_{sn}`-values)** along streams allowing detection and visualisation of perturbation zones in specific networks.
+A means to quantify deviations from the graded profile consists in plotting the **channel steepness index** (:math:`k_{sn}`-values) along streams allowing detection and visualisation of perturbation zones in specific networks.
 
 .. figure:: images/ksn.png
    :width: 90 %
@@ -303,23 +310,26 @@ The use of the channel steepness index (:math:`k_{sn}`) which is derived from th
 where :math:`S` is the channel slope, :math:`k_{sn}` is referred as the steepness index, :math:`A` is the drainage area (surrogate of stream discharge) and :math:`\theta` is the concavity of the longitudinal profile. :math:`\theta` ranges between 0.3 and 0.8 and often takes on the value 0.45.
 
 
-Relationship between valley spacing
+Relationship between valley spacing and mountain width
 ****************************************************************
 
+A frequent feature of drainage networks in linear sections of mountain ranges is the apparent regular spacing between transverse rivers at the mountain front. Addressing this observation, and in particular the consistency of this regularity, Hovius (1996) analysed the drainage of 11 different linear mountain belts worldwide.
+
 .. figure:: images/hovius.png
-   :width: 100 %
-   :alt: Stream organisation
-   :align: center
+  :width: 90 %
+  :alt: Stream organisation
+  :align: center
 
-   Left: empirical relationship between the length of streams and the area of their basins based on the Hack's law. Right: empirical relationship between average spacing of outlets for major drainages and the half-width of major mountain ranges from Hovius (1996).
+ Top: empirical relationship between average spacing of outlets for major drainages and the half-width of major mountain ranges. Bottom: sample drainage network in the linear section of the Maoke Range (from Hovius 1996).
 
-Defining :math:`S` as the average spacing of outlets for major drainages and :math:`W` the half-width of major mountain ranges, **Hovius** (1996) managed to fit a regression curve that yields to:
+His study showed that the outlets of the major transverse rivers at the front of these topographies are not only regularly spaced but also that their spacing :math:`S` is on average proportional to the width :math:`W` of the range (measured from the drainage divide to the front) following the relation:
 
 .. math::
 
    S = 0.46 × W + 0.798
 
-
+.. important::
+  An important aspect of this observation is the regularity of spacing ratios between the mountain ranges despite strong differences in climate and rock uplift rates.This seems to constitute a paradox as in many current landscape evolution models, the patterns of drainage network growth, as seen for example in drainage density and channel spacing, depend on both climate and tectonics.
 
 
 Transient adjustments identification
