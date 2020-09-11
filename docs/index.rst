@@ -1,6 +1,10 @@
 Lecture notes on Geomorphology & Stratigraphy
 =======================================================
 
+
+------------
+
+
 .. figure:: images/geomorphology.png
    :scale: 60 %
    :alt: geomorphology
@@ -23,6 +27,10 @@ Lecture notes on Geomorphology & Stratigraphy
    glacial
    arid
    model
+
+
+------------
+
 
 .. figure:: images/stratigraphy.png
    :scale: 58 %
