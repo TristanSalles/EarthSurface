@@ -1,10 +1,51 @@
 Hillslope processes
 ==========================================
 
-In hilly and mountainous regions, long-term downslope movement of soil on hillslopes can play a crucial role governing the rate at which landscape evolves through time. Indeed, hillslopes represent the most important part (over 90 %) of landscapes that are not currently glaciated, the remainder part of these landscapes consisting of river channels and their floodplains. Although river incision is often considered to mainly drive landscape response to tectonic or climatic change, hillslope erosion processes produce and deliver sediments to channels, which are known to influence river incision rates either as tools for erosion or as a cover protecting the underlying bedrock from erosion. Considering weathering and hillslope transport processes is therefore vital to understand how landscape evolves in response to climatic variations.
+
+..  admonition:: Chapter structure
+    :class: toggle
+
+    - Hillslope environments
+    - Hillslope transport processes and hillslope development
+    - Soil production, weathering processes
+
+Hillslopes are an almost universal landform, occupying some 90% of the land surface. In hilly and mountainous regions, long-term downslope movement of soil on hillslopes can play a crucial role governing the rate at which landscape evolves through time. Although river incision is often considered to mainly drive landscape response to tectonic or climatic change, hillslope erosion processes produce and deliver sediments to channels, which are known to influence river incision rates either as tools for erosion or as a cover protecting the underlying bedrock from erosion. Considering weathering and hillslope transport processes is therefore vital to understand how landscape evolves in response to climatic variations.
+
+
+
+Hillslope environments
+------------------------------
+
+.. note::
+  This section is mainly based on R.J. Huggett book: Fundamentals of Geomorphology (3rd ed.), 2011 (`link <https://sudartomas.files.wordpress.com/2012/11/fundamentalsofgeomorphology_routledgefundamentalsofphysicalgeography.pdf>`_).
+
+
+Hillslopes are an integral part of the drainage basin system, delivering water and sediment to streams. They range from flat to steep.
+Commonly, hillslopes form **catenas** – sequences of linked slope units running from drainage divide to valley floor. Given that climate, vegetation, lithology, and geological structure vary so much from place to place, it is not surprising that hillslope processes also vary in different settings and that hillslopes have a rich diversity of forms.
+
+
+.. image:: images/hill1.png
+   :width: 80 %
+   :alt: environment
+   :align: center
+
+
+Nonetheless, geomorphologists have found that many areas have a characteristic hillslope form that determines the general appearance of the terrain. Such characteristic hillslopes will have evolved to a more-or-less equilibrium state under particular constraints of rock type and climate.
+
+Hillslopes may be bare rock surfaces, regolith and soil may cover them, or they may comprise a mix of bare rock and soil-covered areas. Hillslopes mantled with regolith or soil, perhaps with some exposures of bare rock, are probably the dominant type. They are usually designated **soil-mantled hillslopes**. However, hillslopes formed in bare rock – **rock slopes** – are common. They tend to form in 3 situations:
+
+1. First, rock slopes commonly form where either uplift or deep incision means that they sit at too high an elevation for debris to accumulate and bury them.
+2. Second, they often form where active processes at their bases remove debris, so preventing its accumulation.
+3. Third, they may form where the terrain is too steep or the climate is too cold or too dry for chemical weathering and vegetation to create and sustain a regolith.
+
+More generally, bare rock faces form in many environments where slope angles exceed about 45°, which is roughly the maximum angle maintained by rock debris. In the humid tropics, a regolith may form on slopes as steep as 80° on rocks such as mudstones and basalts because weathering and vegetation establishment are so speedy. Such steep regolith-covered slopes occur on Tahiti and in Papua New Guinea where, after a landslide, rock may remain bare for just a few years.
+
+
+Hillslope transport processes
+------------------------------
 
 .. image:: images/summerfield.png
-   :scale: 32 %
+   :width: 80 %
    :alt: summerfield
    :align: center
 
