@@ -6,7 +6,7 @@ Lecture notes on Geomorphology & Stratigraphy
 
 
 .. figure:: images/geomorphology.png
-   :scale: 60 %
+   :width: 100 %
    :alt: geomorphology
    :align: center
 
@@ -33,7 +33,7 @@ Lecture notes on Geomorphology & Stratigraphy
 
 
 .. figure:: images/stratigraphy.png
-   :scale: 58 %
+   :width: 100 %
    :alt: stratigraphy
    :align: center
 
