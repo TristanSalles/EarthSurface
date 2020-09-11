@@ -317,7 +317,7 @@ Controls on the width of bedrock and alluvial channels
 Channel width and its variation with water discharge importantly influence bed shear-stress patterns, and thus play a first-order role in controlling the pattern and tempo of bedrock channel incision. Given challenges to measure channel width in mountainous terrain, classical hydraulic geometry relationships among width, discharge, and drainage area developed for lowland alluvial rivers are often applied. There is some indication that these relationships are appropriate – the widths of bedrock and alluvial channels both appear to scale similarly with drainage area across many orders of magnitude and, in fact, appear to have physically similar widths at comparable drainage areas as illustrated in the figure below.
 
 .. figure:: images/width.png
-   :width: 80 %
+   :width: 75 %
    :alt: Controls on the width
    :align: center
 
@@ -334,7 +334,7 @@ As we have seen in the first section, river profiles carry information on tecton
 A means to quantify deviations from the graded profile consists in plotting the **channel steepness index** (:math:`k_{sn}`-values) along streams allowing detection and visualisation of perturbation zones in specific networks.
 
 .. figure:: images/ksn.png
-   :width: 90 %
+   :width: 75 %
    :alt: ksn
    :align: center
 
@@ -381,7 +381,7 @@ Transient adjustments of longitudinal profiles, characterised by knickpoints and
 
 
     .. figure:: images/chi1.jpg
-      :width: 80 %
+      :width: 75 %
       :alt: chi-plot
       :align: center
 
