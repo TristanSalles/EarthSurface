@@ -124,6 +124,8 @@ River long profiles, baselevel, and grade
 Dynamic steady state
 ***********************
 
+A geomorphological system said to be in **dynamic steady state** has values that oscillate between maxima and minima around a central mean value.
+
 .. figure:: images/steady.png
     :width: 85 %
     :alt: Dynamic steady state
@@ -131,8 +133,6 @@ Dynamic steady state
 
     Evolution of mean and maximum elevation of an analogue experiment up to steady state, calculated from high-resolution digital elevation models (DEMs) taken at different time intervals. Uplift rate is 1.5 cm/h and mean rainfall rate is 137 mm/h. A–F are three-dimensional views of DEMs (A–D: growth phase; E–F: steady state). Statistical steady state is defined by constant elevation.
     (from `Bonnet & Crave 2003 <https://pdfs.semanticscholar.org/6ca6/4ec7e8e2da6016a9079a77f5ec06702fd7bc.pdf>`_)
-
-A geomorphological system said to be in **dynamic steady state** has values that oscillate between maxima and minima around a central mean value.
 
 The flux of sediment from an undisturbed drainage basin changes over the short-term as rainstorms come and go, individual hillslopes fail in mass movements, and riverbanks collapse. Over the long-term, the flux of sediment from a drainage basin oscillates around a mean value, producing a **dynamic steady state**, unless there are significant changes in boundary conditions such as climate, vegetation cover, or uplift rate.
 
