@@ -220,13 +220,19 @@ A geomorphic transport law is a mathematical statement derived from a physical p
 Hydraulic geometry
 *********************
 
+The assumption is frequently made that discharge and drainage area (the entire geographical area drained by a river and its tributaries) scale linearly or nearly linearly:
+
+.. math::
+  Q = k A^c
+
+where :math:`k` is the theoretical discharge for a unit area watershed (:math:`A = 1`), :math:`Q` is river discharge (m3/s), :math:`A` is drainage area (m2), and :math:`c` is the scaling power dependency.
 
 The controlling influence of discharge upon channel form, resistance to flow, and flow velocity is explored in the concept of **hydraulic geometry**. The key to this concept is the discharge equation:
 
 .. math::
   Q = w d v
 
-where Q is stream discharge (m3/s), w is the stream width (m), d is the mean depth of the stream in a cross-section (m), and v is the mean flow velocity in the cross-section (m/s). **Hydraulic geometry considers the relationships between the average channel form and discharge**. Width, depth, and velocities variables are power functions of discharge (Leopold and Maddock 1953):
+where :math:`Q` is stream discharge (m3/s), :math:`w` is the stream width (m), :math:`d` is the mean depth of the stream in a cross-section (m), and :math:`v` is the mean flow velocity in the cross-section (m/s). **Hydraulic geometry considers the relationships between the average channel form and discharge**. Width, depth, and velocities variables are power functions of discharge (Leopold and Maddock 1953):
 
 .. math::
   w = a Q^b, \, d=cQ^f, \, v=kQ^m
@@ -234,17 +240,36 @@ where Q is stream discharge (m3/s), w is the stream width (m), d is the mean dep
 The exponents indicate the increase in hydraulic variable (width, depth, and velocity) per unit increase in discharge. Now, discharge is the product of width and depth (cross-sectional area) and velocity, so:
 
 .. math::
-  Q = w d v = ack Q^(b+f+m)
+  Q = w d v = ack Q^{(b+f+m)}
 
-which gives: :math:`ack=1` and :math:`b+f+m=1`. The values of the exponents vary with location, climate, and discharge conditions. Proceeding downstream on the same river, width, depth, and velocity all increase regularly with increasing discharge.  As a rule of thumb, the mean velocity and width–depth ratio (w/d) both increase down stream along alluvial channels as discharge increases. If discharge stays the same, then the product :math:`w d v` does not change. Any change in width or depth or velocity causes compensating changes in the other two components. 
+which gives: :math:`ack=1` and :math:`b+f+m=1`. The values of the exponents vary with location, climate, and discharge conditions. Proceeding downstream on the same river, width, depth, and velocity all increase regularly with increasing discharge.  As a rule of thumb, the mean velocity and width–depth ratio (:math:`w/d`) both increase down stream along alluvial channels as discharge increases. If discharge stays the same, then the product :math:`w d v` does not change. Any change in width or depth or velocity causes compensating changes in the other two components.
 
-Controls on the width of bedrock rivers
+
+Relationship between streams length and basins area
+*****************************************************
+
+.. figure:: images/Hack.png
+   :width: 100 %
+   :alt: Hack's law
+   :align: center
+
+   Left: Illustration of the Hack's law (1957) from Rigon et al., 1996. Right: Length–Area dataset from 22000 river basins (grey circles) in Bhutan Himalaya. Green and blue lines show the original Hack’s law and the law proposed by Montgomery and Dietrich (1992), respectively (from Sassolas-Serrayet et al., 2018).
+
+
+**Hack's law** is an empirical relationship between the length of streams and the area of their basins. If :math:`L` is the length of the longest stream in a basin, and :math:`A` is the area of the basin, then Hack's law may be written as
+
+.. math::
+  L = C A^h
+
+where :math:`C` is a constant between *1.4* and *1.7* and the exponent :math:`h` is slightly less than 0.6 in most basins. :math:`h` varies slightly from region to region and slightly decreases for larger basins.
+
+This large-scale observation of fluvial landform characteristic is an example of fractal relationship. It shows that the upstream length :math:`L_i` at a given position :math:`i` can be inferred from the total cumulative area :math:`A_i` at that position (which is a specific signature of fractal geometry).
+
+
+Controls on the width of bedrock and alluvial channels
 ****************************************************************
 
-Channel width and its variation with water discharge importantly influence bed shear-stress patterns, and thus play a first-order role in controlling the pattern and tempo of bedrock channel incision. Given challenges to measuring channel width in mountainous terrain, classical hydraulic geometry relationships among width, discharge, and drainage area developed for lowland alluvial rivers.
-
-There is some indication that this approach is appropriate – the widths of bedrock and alluvial channels both appear to scale similarly with drainage area across many orders of magnitude and, in fact, appear to have physically similar widths at comparable drainage areas as illustrated in the figure below.
-
+Channel width and its variation with water discharge importantly influence bed shear-stress patterns, and thus play a first-order role in controlling the pattern and tempo of bedrock channel incision. Given challenges to measure channel width in mountainous terrain, classical hydraulic geometry relationships among width, discharge, and drainage area developed for lowland alluvial rivers are often applied. There is some indication that these relationships are appropriate – the widths of bedrock and alluvial channels both appear to scale similarly with drainage area across many orders of magnitude and, in fact, appear to have physically similar widths at comparable drainage areas as illustrated in the figure below.
 
 .. figure:: images/width.png
    :width: 80 %
@@ -259,7 +284,9 @@ This scaling suggests that the factors governing bedrock and alluvial channel wi
 Relationship between river slope and drainage area
 ****************************************************************
 
-As emphasised above, bedrock rivers play a important role in setting the boundary conditions for the relief production and its evolution. Of particular importance is the analysis of river profiles to detect those zones where rock uplift is high because rivers respond to tectonic forcing by steepening their gradient and enhancing their incision into bedrock.
+As we have seen in the first section, river profiles carry information on tectonic and/or climatic perturbations in the form of knickpoints migrating in upstream direction. Of particular importance is the analysis of river profiles to detect those zones of  gradient changes.
+
+A means to quantify deviations from the graded profile consists in plotting the **channel steepness index (:math:`k_{sn}`-values)** along streams allowing detection and visualisation of perturbation zones in specific networks.
 
 .. figure:: images/ksn.png
    :width: 90 %
@@ -268,13 +295,12 @@ As emphasised above, bedrock rivers play a important role in setting the boundar
 
    Relationship between river slope and drainage area and plot of :math:`k_{sn}` along river streams using the Topotoolbox package.
 
-
-The use of the normalised channel steepness index (:math:`k_{sn}`) which is derived from the slope–area regression, has widely been applied to detect zones subject to different rock uplift rates. This slope–area regression has the following form:
+The use of the channel steepness index (:math:`k_{sn}`) which is derived from the slope–area regression, has widely been applied to detect zones subject to different rock uplift rates. This slope–area regression has the following form:
 
 .. math::
-  S = k_s A^\theta
+  S = k_{sn} A^{-\theta}
 
-where :math:`S` is the channel slope, :math:`k_s` is referred as the steepness index, :math:`A` is the drainage area (surrogate of stream discharge) and :math:`\theta` is the concavity of the longitudinal profile. :math:`k_{sn}` is estimated from the equation above by normalising the drainage area of a given reach and using a reference concavity (:math:`\theta_{ref}`) which corresponds to the regional concavity observed in reaches unperturbed by tectonic signals.
+where :math:`S` is the channel slope, :math:`k_{sn}` is referred as the steepness index, :math:`A` is the drainage area (surrogate of stream discharge) and :math:`\theta` is the concavity of the longitudinal profile. :math:`\theta` ranges between 0.3 and 0.8 and often takes on the value 0.45.
 
 
 Relationship between valley spacing
@@ -293,11 +319,6 @@ Defining :math:`S` as the average spacing of outlets for major drainages and :ma
 
    S = 0.46 × W + 0.798
 
-Large-scale observations have allowed thorough comparisons across scales defining fractal  river basins [Mandelbrot,1977, 1983]. One outstanding example of fractal relationship is **Hack’s law** [Hack, 1957; Mandelbrot, 1983; Rigon et al., 1996] inferring the upstream length :math:`L_i` at a given position :math:`i` to the total cumulative area :math:`A_i` at that position, seen quite early as a signature of fractal geometry. With :math:`\beta` a constant between *1.4* and *1.7* and :math:`\alpha` comprised between *0.5* and *0.6* for natural rivers, Hack’s law scales to:
-
-.. math::
-
-   L_i = \beta A_i^\alpha
 
 
 
