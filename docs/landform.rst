@@ -249,7 +249,7 @@ The stream power incision law is a commonly used physically based model for bedr
 .. math::
   E = \kappa A^m S^n
 
-where :math:`\kappa` is the erodibility coefficient, :math:`A` is the upslope drainage area, :math:`S` is the downstream slope, and :math:`m` and :math:`n` are exponents. The :math:`m/n` is between 0.35 and 0.60. This range is consistent with results inferred from field work and map studies.
+where :math:`\kappa` is the erodibility coefficient, :math:`A` is the upslope drainage area, :math:`S` is the downstream slope, and :math:`m` and :math:`n` are exponents. The :math:`m/n` ratio is between 0.35 and 0.60. This range is consistent with results inferred from field work and map studies.
 
 Relationship between streams length and basins area
 *****************************************************
@@ -320,7 +320,7 @@ A frequent feature of drainage networks in linear sections of mountain ranges is
   :alt: Stream organisation
   :align: center
 
- Top: empirical relationship between average spacing of outlets for major drainages and the half-width of major mountain ranges. Bottom: sample drainage network in the linear section of the Maoke Range (from Hovius 1996).
+  Top: empirical relationship between average spacing of outlets for major drainages and the half-width of major mountain ranges. Bottom: sample drainage network in the linear section of the Maoke Range (from Hovius 1996).
 
 His study showed that the outlets of the major transverse rivers at the front of these topographies are not only regularly spaced but also that their spacing :math:`S` is on average proportional to the width :math:`W` of the range (measured from the drainage divide to the front) following the relation:
 
