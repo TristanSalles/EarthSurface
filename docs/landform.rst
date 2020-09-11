@@ -335,17 +335,7 @@ Transient adjustments identification
 
 Evaluating whether river profiles reflect steady-state or transient conditions has been performed using plots of slope versus drainage area (discussed above), but noisy topographic data can complicate interpretations of these plots. In particular, step-like changes in channel elevation over distance associated with digital elevation models introduce imprecision into determinations of channel slopes. An alternative approach involves integrating the slope-area equation under the assumption of spatially invariant uplift and erodibility (Perron and Royden, 2013).
 
-Performing the integration in the upstream direction from a base level :math:`x_b` to an observation point :math:`x`  yields to:
-
-.. math::
- \chi = \int_{x_b}^x \left( \frac{A_0}{A(x)} \right)^{\frac{m}{n}} dx
-
-where :math:`A_0` is a reference drainage area, :math:`m`, :math:`n` coefficients from the stream power law.  Values of :math:`\chi` are determined using assumed values of :math:`m/n` between 0 and 1. A plot of bed elevations versus :math:`\chi` (a chi plot) is produced. If a profile is in steady state, the plot should be linear.
-
-.. note::
- For :math:`A_0` = 1 km2, the slope of a linear chi-plot profile represents the steepness index :math:`k_{s}`
-
-An advantage of the chi-plot approach is that it removes the effect of drainage area, so that locations within a drainage network with similar elevations have similar values of χ, even if the drainage areas of those locations differ. Thus, all rivers in steady state within an area of spatially uniform uplift and resistance should exhibit collinear chi plots.
+The integral method only requires the extraction of elevation and drainage area along the channel, and is therefore less subject to topographic noise than slope-area analysis. The technique involves integrating equation the stream power equation along the channel, assuming spatially constant incision equal to uplift (steady-state) and erodibility.
 
 .. figure:: images/chi.png
   :width: 80 %
@@ -354,14 +344,29 @@ An advantage of the chi-plot approach is that it removes the effect of drainage 
 
   River network and longitudinal profile before and after river capture. a χ map for the river network before river capture. b :math:`\chi` map for the present river network. c :math:`\chi`-elevation plot for the Paleo Chaiwen and Yihe Rivers before capture. d :math:`\chi`-elevation plot for the present Chaiwen, Yihe, and Reversed Rivers (Fan et al., 2018).
 
-Transient adjustments of longitudinal profiles, characterised by knickpoints and knickzones, are depicted on chi plots as local increases in change of elevation per unit change in :math:`\chi`, which produce positive deviations from a linear profile. Differences in slopes of transformed profiles upstream and downstream of knickpoints also define differences between adjusted sections of profiles below knickpoints and unadjusted sections of profiles above knickpoints.
+
+Performing the integration in the upstream direction from a base level :math:`x_b` to an observation point :math:`x`  yields to:
+
+.. math::
+ \chi = \int_{x_b}^x \left( \frac{A_0}{A(x)} \right)^{\frac{m}{n}} dx
+
+where :math:`A_0` is a reference drainage area, :math:`m`, :math:`n` coefficients from the stream power law.  Values of :math:`\chi` are determined using assumed values of :math:`m/n` between 0 and 1. A plot of bed elevations versus :math:`\chi` (a chi plot) is produced. **If a profile is in steady state, the plot should be linear**.
+
+.. important::
+  An advantage of the chi-plot approach is that it removes the effect of drainage area, so that locations within a drainage network with similar elevations have similar values of χ, even if the drainage areas of those locations differ. Thus, all rivers in steady state within an area of spatially uniform uplift and resistance should exhibit collinear chi plots.
+
+Transient adjustments of longitudinal profiles, characterised by knickpoints and knickzones, are depicted on chi plots as local increases in change of elevation per unit change in χ, which produce positive deviations from a linear profile. Differences in slopes of transformed profiles upstream and downstream of knickpoints also define differences between adjusted sections of profiles below knickpoints and unadjusted sections of profiles above knickpoints.
 
 
-.. figure:: images/chi1.jpg
-  :width: 80 %
-  :alt: chi-plot
-  :align: center
+..  admonition:: χ-plot as a measure of equilibrium.
+    :class: toggle, toggle-shown, important
 
-  River basins and river profiles in equilibrium and disequilibrium (from Willett et al., 2014).
 
-The figure above shows change in size and shape of two drainage basins that share a common divide as they evolve from (A) a state of disequilibrium to (B) a steady state. The parameter :math:`\chi` provides a prediction of the steady-state elevation for a given point on a channel. The basin on the left (aggressor) has lower steady-state elevation at channel heads and therefore drives the drainage divide toward the basin on the right (victim). The lower panels show the evolution of the elevation of two channels that meet at the shared divide with respect to (C) :math:`\chi` and (D) distance along the channel. The slopes above the channel head attain a symmetric form at steady state, but do not differ strongly from this form under disequilibrium conditions. The disequilibrium channel profiles in (C) show that :math:`\chi` is discontinuous across the drainage divide, with larger :math:`\chi` values in the “victim” basin. At steady state, all channel points in both basins lie on a single linear trend, subject to the assumptions described in the text. Note that changes in elevation are subtle, whereas changes in χ are marked.
+    .. figure:: images/chi1.jpg
+      :width: 80 %
+      :alt: chi-plot
+      :align: center
+
+      River basins and river profiles in equilibrium and disequilibrium (from Willett et al., 2014).
+
+    The figure above shows change in size and shape of two drainage basins that share a common divide as they evolve from (A) a state of disequilibrium to (B) a steady state. The parameter :math:`\chi` provides a prediction of the steady-state elevation for a given point on a channel. The basin on the left (aggressor) has lower steady-state elevation at channel heads and therefore drives the drainage divide toward the basin on the right (victim). The lower panels show the evolution of the elevation of two channels that meet at the shared divide with respect to (C) :math:`\chi` and (D) distance along the channel. The slopes above the channel head attain a symmetric form at steady state, but do not differ strongly from this form under disequilibrium conditions. The disequilibrium channel profiles in (C) show that :math:`\chi` is discontinuous across the drainage divide, with larger :math:`\chi` values in the “victim” basin. At steady state, all channel points in both basins lie on a single linear trend, subject to the assumptions described in the text. Note that changes in elevation are subtle, whereas changes in χ are marked.
