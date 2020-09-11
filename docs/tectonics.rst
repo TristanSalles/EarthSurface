@@ -15,7 +15,7 @@ Geomorphological processes are natural mechanisms of weathering, erosion, and de
 
 
 .. figure:: images/tecgeo.png
-   :scale: 32 %
+   :width: 100 %
    :alt: Tectonically driven geomorphic landscapes
    :align: center
 
@@ -55,7 +55,7 @@ Lithospheric plates move around the globe in different directions and come in ma
 
 
 .. figure:: images/plate-boundaries-summary.png
-   :scale: 10 %
+   :width: 100 %
    :alt: Plate boundaries summary
    :align: center
 
