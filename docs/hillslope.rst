@@ -44,15 +44,19 @@ More generally, bare rock faces form in many environments where slope angles exc
 Hillslope processes
 ------------------------------
 
+Gravity, flowing water, and temperature changes are the main forces behind hillslope processes, with the action of animals and plants being important in some situations.
+
+
+This section describes the processes involved in the transport of material over hillslopes. Hillslopes provide the gradients enabling material to be transported from the slopes themselves towards the valley bottoms, directly by gravity alone, or by water flowing down over the surface. Gravity has the potential to transfer material downslope if the material resistance to counteract it is insufficient. Similarly, water flowing along the surface exert a drag on soil particles and have the potential to entrain material. After the gradient has fallen below a critical threshold to keep the material in transport, deposition occurs.
+
+
 .. image:: images/summerfield.png
    :width: 70 %
    :alt: summerfield
    :align: center
 
 
-This section describes the processes involved in the transport of material over hillslopes. Hillslopes provide the gradients enabling material to be transported from the slopes themselves towards the valley bottoms, directly by gravity alone, or by water flowing down over the surface. Gravity has the potential to transfer material downslope if the material resistance to counteact it is insufficient. Similarly, water flowing along the surface exert a drag on soil particles and have the potential to entrain material. After the gradient has fallen below a critical threshold to keep the material in transport, deposition occurs. Flowing water is an important transporting agent on which the emphasis is placed here.
-
-In the following, a brief overview is given of some of the main characteristics, morphologies of mass movements and erosion.
+Several hillslope processes serve to transport regolith and other weathering products. They range from slow and continual processes to rapid and intermittent processes. In the following, a brief overview is given of some of the main characteristics, morphologies of mass movements and erosion.
 
 
 Terminology
@@ -76,13 +80,13 @@ Slow movements
 ^^^^^^^^^^^^^^^
 
 .. figure:: images/creep.png
-   :scale: 42 %
+   :width: 70 %
    :alt: soil creep
    :align: center
 
    Soil creep process and associated typical features.
 
-Generally used for processes having speed ranging from 1mm/yr to 1mm/day. The most common of these movements is the downward motion of surface material called **soil creep**. This is the slowest type of mass wasting, requiring years of gradual movement to have a pronounced effect on a slope. Slopes creep due to the expansion and contraction of surface sediment, and the pull of gravity. The pull of gravity is a constant, but the forces causing **expansion and contraction** of sediment are not. The presence of water is generally required, but in a desert lacking
+Generally used for processes having speed ranging from 1 mm/yr to 1 mm/day. The most common of these movements is the downward motion of surface material called **soil creep**. This is the slowest type of mass wasting, requiring years of gradual movement to have a pronounced effect on a slope. Slopes creep due to the expansion and contraction of surface sediment, and the pull of gravity. The pull of gravity is a constant, but the forces causing **expansion and contraction** of sediment are not. The presence of water is generally required, but in a desert lacking
 vegetative ground cover even dry sediment will creep due to daily
 heating and cooling of surface sediment grains.
 
@@ -131,7 +135,6 @@ Fastest type of movements that can go quite fast (*e.g.*, free fall).
 
 A rock fall consists of one or maybe a few rocks that detach from the high part of a steep slope, dropping and perhaps bouncing a few times as they move **very rapidly down slope**.
 
-
 .. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
@@ -143,10 +146,66 @@ Rock falls are very dangerous because they can occur without warning, and becaus
 .. tip::
   You can usually tell where rock falls are common by identifying **talus at the base** of steep slopes.
 
+Transport-limited and supply-limited processes
+********************************************************
 
+It is common to draw a distinction between hillslope processes limited by the transporting
+capacity of sediment and hillslope processes limited by the supply of transportable material.
+
+In **transport-limited** processes, the rate of soil and rock transport limits the delivery of sediment to streams. In other words, the supply of sediment exceeds the capacity to remove it, and transport processes and their spatial variation dictate hillslope form. Soil creep, through-wash, rainflow, rainsplash, and rillwash are all hillslope processes limited by transporting capacity.
+
+On **supply-limited** (or weathering-limited) hillslopes, the rate of sediment production by weathering and erosional detachment (through overland flow and mass movement) limits the delivery of sediment to streams. In other words, weathering and erosional processes dictate hillslope form. Leaching of solutes, landsliding, debris avalanches, debris flows, and rockfall are all hillslope processes limited by sediment supply.
+
+
+Mechanisms linking climate with landslides, erosion, and sediment transport
+*******************************************************************************
+
+
+..  admonition:: Temperature
+    :class: toggle, toggle-shown
+
+    High temperatures contribute to slope instability by enhancing the thermal breakdown of rock, decreasing the viscosity of groundwater( *i.e* more lubricating), and thawing frozen ground so more water infiltrates. Warm conditions can also cause increased evaporation, leading to drier soils and more stable conditions in deeper soils, especially in summer. Finally, warming can intensify the cycling between wet and dry periods, which may act to widen gaps in rock and soil, contributing to a decrease in slope stability.
+
+
+..  admonition:: Precipitation
+    :class: toggle, toggle-shown
+
+    .. figure:: images/LandslidesandRainfalldataUK.jpg
+      :width: 100 %
+      :alt: Precipitation
+      :align: center
+
+      Rainfall (source: MetOffice) and landslides (source: `BGS <https://www.bgs.ac.uk/landslides/landslidesAndRainfall.html>`_) in the UK.
+
+    Heavy rain events reduce slope stability by rapidly raising the water table (or groundwater elevation) and by enhancing water drainage through the soil to lower layers. In addition, intense rainfall can erode surface sediments, and higher streamflow during these events can transport more sediment downstream.  Different patterns of rainfall will affect which slopes might be   destabilized, and where erosion and sediment transport are most important.
+
+
+..  admonition:: Soil Water Content
+    :class: toggle, toggle-shown
+
+    Wetter soils are heavier, can absorb less precipitation (thus increasing runoff), and have greater lubrication among soil layers. Analysis from the landslides often indicates that the initial conditions of the soil prior to the triggering events are an important contributor to the mobility and, as a result, the severity of the landslide.
+
+
+..  admonition:: Snowpack and Glaciers
+    :class: toggle, toggle-shown
+
+    Higher snowlines can lead to exposure of unconsolidated (erodible) sediment, more ground surface erosion, greater soil saturation, and higher streamflows. Retreating glaciers uncover loose, unvegetated sediment that is vulnerable to mobilisation. Melting glaciers typically leave behind sediments that are then exposed to weather and erosion.
+
+
+..  admonition:: Earthquakes
+   :class: toggle, toggle-shown
+
+   .. figure:: images/earthquake.png
+      :width: 100 %
+      :alt: Earthquake
+      :align: center
+
+      Japan earthquake: landslide traps residents in homes (`the guardian <https://www.theguardian.com/world/2018/sep/06/japan-earthquake-landslide-traps-residents-in-homes>`_)
+
+   Large earthquakes can trigger widespread landsliding. In addition to causing extensive socioeconomic disruption, earthquake-induced landslides play a key role in the evolution of mountain landscapes, increasing sediment flux through the fluvial networ and contributing to net erosion rates. While earthquake ground shaking triggers near-instantaneous landsliding, some slopes do not fully fail and are weakened, resulting in elevated susceptibility of hillslopes to landsliding during postseismic rainfall and subsequent seismicity. These legacy effects have been broadly attributed to landscape-scale weakening of hillslope substrates resulting from increased brittle (micro)fracturing and joint dilation (“damage”) caused by transient hillslope stresses experienced during earthquake ground shaking.
 
 Soil production
-*******************************
+------------------------------
 
 **Weathering** is the breakdown of rocks at the Earth’s surface, by the action of rainwater, extremes of temperature, and biological activity. It does not involve the removal of rock material. There are three types of weathering, physical, chemical and biological.
 
