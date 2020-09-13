@@ -155,6 +155,19 @@ Knickpoints migrate upstream, separating a downstream reach, broadly in equilibr
 
 Knickpoints generally retreat very slowly through landscapes which makes the erosion processes very difficult to monitor in real time. Experimental flume tanks can allow these processes to be simulated in a controlled environment, as the timescale of knickpoint migration is reduced and the controls on formation and retreat processes can be isolated and quantified.
 
+Responses to tectonic & climate
+********************************************
+
+The sketches below illustrate the long-term response of longitudinal river profile subjects to change in either tectonic conditions or climatic forcing.
+
+.. image:: images/UEinteract.png
+   :scale: 48 %
+   :alt: knickpoint
+   :align: center
+
+In the left panel, the uplift regime increases and the overall slope increases as well leading to higher erosion until a new equilibrium (steady-state) is reached. At steady-state the rate of rock uplift relative to some datum (or base-level), such as mean sea level, equals the erosion rate at every point in the landscape and consequently the overall topography does not change. Under these circumstances, the high velocity of the flow is able to transport coarse sediments on short distance.
+
+In the right panel, the uplift remains constant but the precipitation is increased. As a result, the erosion increases and the slope decreases. A new steady-state is reached when the erosion equates the uplift regime. Under these circumstances, as the slope decreases, the velocity of the flow also decreases and finer sediments are transported and deposited in foreland basins.
 
 River landforms
 ********************************************
