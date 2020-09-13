@@ -262,14 +262,21 @@ Soil production equation
 Bedrock weathering is modelled using the exponential soil production function used by Heimsath et al. (1997, 1999). The rate of weathering :math:`P_s` (m/yr) is given by:
 
 .. math::
- P_s = P_0 exp(− \frac{h}{h_0})
+ P_s = P_0 e^{(− \frac{h}{h_0})}
 
-where :math:`P_0` is expressed in (m/yr) and :math:`h_0` (m) is a characteristic soil depth (soil production ‘damping’ depth) at which :math:`Ps = (1/e)P_0`.
+where :math:`P_0` is expressed in (m/yr) and :math:`h_0` (m) is a characteristic soil depth (soil production ‘damping’ depth) at which :math:`P_s = \frac{P_0}{e}`.
 
 This soil production law has been calibrated at different sites (in northern California and southern Australia) using both soil thickness and cosmogenic radionucleides (CRN) measurements (Heimsath et al., 1999, 2000). For these sites, the authors reported values of :math:`P_0` between :math:`5 \cdot 10^{−5}` and :math:`8 \cdot 10^{−5}` m/yr and a value of :math:`h_0 \simeq 0.5` m.
 
 Hillslope: the diffusion equation
 ----------------------------------------
+
+.. figure:: images/diffeq.png
+   :width: 80 %
+   :alt: diffusion equation
+   :align: center
+
+   An explanation for the development of ridge-and-valley topography in soil-mantled terrain. Slope-dependent (diffusive) transport leads to convex hillslopes, and when the topography is laterally perturbed the transport direction (red arrows) causes the topographic highs to lower and topographic lows to fill in, resulting in smooth topography, as suggested by the dashed line. In contrast, advective transport, which depends on water flow and slope gradient, carries sediment downslope and produces concave hill slopes. Flow concentrations (blue flowpaths) resulting from lateral topographic perturbation lead to incision, as suggested by the dashed lines. The competition of these two processes leads to diffusion dominated ridges and advection-dominated valleys. Source: Adapted from Dietrich and Perron (2006)
 
 Formulations for hillslope erosion are mainly derived considering hillslope form (*e.g.*, convex, convex-concave, planar). In many models, sediment transport rate on hillslopes is assumed to be equal to a linear function of topographic gradient. Such an expression has its origin in the pioneering studies of convex hillslopes by Davis (1892) and Gilbert (1909). Combined with the application of mass conservation, this leads to the diffusion equation that describes the rate of elevation change :math:`\delta h/ \delta t`:
 
