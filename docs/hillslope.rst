@@ -205,39 +205,56 @@ Mechanisms linking climate with landslides, erosion, and sediment transport
    Large earthquakes can trigger widespread landsliding. In addition to causing extensive socioeconomic disruption, earthquake-induced landslides play a key role in the evolution of mountain landscapes, increasing sediment flux through the fluvial networ and contributing to net erosion rates. While earthquake ground shaking triggers near-instantaneous landsliding, some slopes do not fully fail and are weakened, resulting in elevated susceptibility of hillslopes to landsliding during postseismic rainfall and subsequent seismicity. These legacy effects have been broadly attributed to landscape-scale weakening of hillslope substrates resulting from increased brittle (micro)fracturing and joint dilation (“damage”) caused by transient hillslope stresses experienced during earthquake ground shaking.
 
 
-Soil production
+Weathering
 ------------------------------
 
 **Weathering** is the breakdown of rocks at the Earth’s surface, by the action of rainwater, extremes of temperature, and biological activity. It does not involve the removal of rock material. There are three types of weathering, physical, chemical and biological.
 
 .. note::
-  Erosion is the process by which soil and rock particles are worn away and moved elsewhere by wind, water or ice. Weathering involves no moving agent of transport.
+  Many rocks form under high temperatures and pressures deep in the Earth’s crust. When exposed to the lower temperatures and pressures at the Earth’s surface and brought into contact with air, water, and organisms, they start to decay. The process tends to be self-reinforcing: weathering weakens the rocks and makes them more permeable, so rendering them more vulnerable to removal by agents of erosion, and the removal of weathered products exposes more rock to weathering. Living things have an influential role in weathering, attacking rocks and minerals through various biophysical and biochemical processes, most of which are not well understood.
+
+
+Weathering products: regolith
+********************************************************
+
+The weathered mantle or regolith is all the weathered material lying above the unaltered or fresh bedrock. It may include lumps of fresh bedrock. Often the weathered mantle or crust is differentiated into visible horizons and is called a weathering profile (as shown in the figure below).
+
+.. figure:: images/weathering.png
+   :width: 80 %
+   :alt: s2s
+   :align: center
+
+   Typical weathering profile in granite. The weathering front separates fresh bedrock from the regolith. The regolith is divided into saprock, saprolite, and a mobile zone.
+
+The **weathering front** is the boundary between fresh and weathered rock. The layer immediately above the weathering front is sometimes called **saprock**, which represents the first stages of weathering. Above the saprock lies **saprolite**; this is more weathered than saprock but still retains most of the structures found in the parent bedrock. Saprolite lies where it was formed, undisturbed by mass movements or other erosive agents. Deep weathering profiles, saprock, and saprolite are common in the tropics. No satisfactory name exists for the material lying above the **saprolite**, where weathering is advanced and the parent rock fabric is not distinguishable, although the terms ‘mobile zone’, ‘zone of lost fabric’, ‘residuum’, and ‘pedolith’ are all used.
 
 
 .. figure:: images/soil2.png
-   :scale: 48 %
+   :width: 100 %
    :alt: s2s
    :align: center
 
    Top: Example of regolith in the field (WA - Australia). Left: Regolith and weathering (rock decay) in the Critical Zone (Pope, 2015). Right: :math:`q_s` is the downhill mass transport resulting from the action of multiple processes.
    :math:`P_s` is rate of conversion of rock into soil. :math:`U` is the apparent rate of uniform mass uplift (from Bovy 2012, modified from Dietrich et al. (1995)). Soil thickness :math:`h` and depth below the ground surface :math:`h_\star` are both measured vertically.
 
-As mentioned above, soil production, or rock weathering, is the result of a variety of chemical and mechanical processes. It is, however, difficult for geomorphologists to consider each of these processes separately while studying the form of the landscape. Bedrock weathering rates are thus usually estimated using empirical soil production functions, *i.e.*, relationships between weathering rates and soil depth.
-
 
 Soil production function
 ********************************************************
+
+.. note::
+  As mentioned above, soil production, or rock weathering, is the result of a variety of chemical and mechanical processes. It is, however, difficult for geomorphologists to consider each of these processes separately while studying the form of the landscape. Bedrock weathering rates are thus usually estimated using **empirical soil production functions**, *i.e.*, relationships between weathering rates and soil depth.
+
 
 A minimum soil cover is needed for bedrock weathering, as soil acts as a reservoir of water essential to weathering processes such as freeze-thaw or solutional processes. At depths beyond which soil production is maximised, soil production is self limiting as thicker soil progressively buffers the underlying bedrock from weathering.
 
 This behaviour can be represented by a **humped** function. This relationship has been assumed for 100 years, but has not been quantitatively tested until recently. Heimsath et al. (1997, 1999) have first applied field methods and cosmogenic dating to hillslopes in northern California to determine soil production rates as a function of soil depth. These observations suggest an exponential decrease in soil production with increasing soil depth, as proposed earlier by Dietrich et al. (1995).
 
 .. figure:: images/production.png
-   :scale: 42 %
+   :width: 80 %
    :alt: soil production
    :align: center
 
-   Schematic representation of the exponential soil production function proposed by Dietrich et al. (1995) and Heimsath et al. (1997, 1999), and the humped soil production function initially proposed by Gilbert (1877) (redrawn from (Humphreys and Wilkinson, 2007).
+   Schematic representation of the exponential soil production function proposed by Dietrich et al. (1995) and Heimsath et al. (1997, 1999), and the humped soil production function initially proposed by Gilbert (1877) (redrawn from Humphreys and Wilkinson, 2007).
 
 Soil production equation
 ********************************************************
@@ -253,7 +270,6 @@ This soil production law has been calibrated at different sites (in northern Cal
 
 Hillslope: the diffusion equation
 ----------------------------------------
-
 
 Formulations for hillslope erosion are mainly derived considering hillslope form (*e.g.*, convex, convex-concave, planar). In many models, sediment transport rate on hillslopes is assumed to be equal to a linear function of topographic gradient. Such an expression has its origin in the pioneering studies of convex hillslopes by Davis (1892) and Gilbert (1909). Combined with the application of mass conservation, this leads to the diffusion equation that describes the rate of elevation change :math:`\delta h/ \delta t`:
 
