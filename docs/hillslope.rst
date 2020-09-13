@@ -220,7 +220,7 @@ Weathering products: regolith
 The weathered mantle or regolith is all the weathered material lying above the unaltered or fresh bedrock. It may include lumps of fresh bedrock. Often the weathered mantle or crust is differentiated into visible horizons and is called a weathering profile (as shown in the figure below).
 
 .. figure:: images/weathering.png
-   :width: 80 %
+   :width: 65 %
    :alt: s2s
    :align: center
 
@@ -230,7 +230,7 @@ The **weathering front** is the boundary between fresh and weathered rock. The l
 
 
 .. figure:: images/soil2.png
-   :width: 100 %
+   :width: 80 %
    :alt: s2s
    :align: center
 
@@ -250,7 +250,7 @@ A minimum soil cover is needed for bedrock weathering, as soil acts as a reservo
 This behaviour can be represented by a **humped** function. This relationship has been assumed for 100 years, but has not been quantitatively tested until recently. Heimsath et al. (1997, 1999) have first applied field methods and cosmogenic dating to hillslopes in northern California to determine soil production rates as a function of soil depth. These observations suggest an exponential decrease in soil production with increasing soil depth, as proposed earlier by Dietrich et al. (1995).
 
 .. figure:: images/production.png
-   :width: 80 %
+   :width: 65 %
    :alt: soil production
    :align: center
 
@@ -272,7 +272,7 @@ Hillslope: the diffusion equation
 ----------------------------------------
 
 .. figure:: images/diffeq.png
-   :width: 80 %
+   :width: 90 %
    :alt: diffusion equation
    :align: center
 
@@ -314,7 +314,7 @@ The local rate of surface elevation change, :math:`\delta z/ \delta t` (m/yr), i
 where :math:`U` (m/yr) is a source term that can either represent the rate of incision of channel streams at the hillslope boundaries or uniform uplift.
 
 .. figure:: images/hillslopemodel.png
-   :scale: 62 %
+   :width: 90 %
    :alt: s2s
    :align: center
 
