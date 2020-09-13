@@ -204,6 +204,7 @@ Mechanisms linking climate with landslides, erosion, and sediment transport
 
    Large earthquakes can trigger widespread landsliding. In addition to causing extensive socioeconomic disruption, earthquake-induced landslides play a key role in the evolution of mountain landscapes, increasing sediment flux through the fluvial networ and contributing to net erosion rates. While earthquake ground shaking triggers near-instantaneous landsliding, some slopes do not fully fail and are weakened, resulting in elevated susceptibility of hillslopes to landsliding during postseismic rainfall and subsequent seismicity. These legacy effects have been broadly attributed to landscape-scale weakening of hillslope substrates resulting from increased brittle (micro)fracturing and joint dilation (“damage”) caused by transient hillslope stresses experienced during earthquake ground shaking.
 
+
 Soil production
 ------------------------------
 
@@ -225,7 +226,7 @@ As mentioned above, soil production, or rock weathering, is the result of a vari
 
 
 Soil production function
-^^^^^^^^^^^^^^^^^^^^^^^^^
+********************************************************
 
 A minimum soil cover is needed for bedrock weathering, as soil acts as a reservoir of water essential to weathering processes such as freeze-thaw or solutional processes. At depths beyond which soil production is maximised, soil production is self limiting as thicker soil progressively buffers the underlying bedrock from weathering.
 
@@ -239,7 +240,7 @@ This behaviour can be represented by a **humped** function. This relationship ha
    Schematic representation of the exponential soil production function proposed by Dietrich et al. (1995) and Heimsath et al. (1997, 1999), and the humped soil production function initially proposed by Gilbert (1877) (redrawn from (Humphreys and Wilkinson, 2007).
 
 Soil production equation
-^^^^^^^^^^^^^^^^^^^^^^^^^
+********************************************************
 
 Bedrock weathering is modelled using the exponential soil production function used by Heimsath et al. (1997, 1999). The rate of weathering :math:`P_s` (m/yr) is given by:
 
@@ -251,7 +252,7 @@ where :math:`P_0` is expressed in (m/yr) and :math:`h_0` (m) is a characteristic
 This soil production law has been calibrated at different sites (in northern California and southern Australia) using both soil thickness and cosmogenic radionucleides (CRN) measurements (Heimsath et al., 1999, 2000). For these sites, the authors reported values of :math:`P_0` between :math:`5 \cdot 10^{−5}` and :math:`8 \cdot 10^{−5}` m/yr and a value of :math:`h_0 \simeq 0.5` m.
 
 Hillslope: the diffusion equation
-*********************************
+----------------------------------------
 
 
 Formulations for hillslope erosion are mainly derived considering hillslope form (*e.g.*, convex, convex-concave, planar). In many models, sediment transport rate on hillslopes is assumed to be equal to a linear function of topographic gradient. Such an expression has its origin in the pioneering studies of convex hillslopes by Davis (1892) and Gilbert (1909). Combined with the application of mass conservation, this leads to the diffusion equation that describes the rate of elevation change :math:`\delta h/ \delta t`:
@@ -269,7 +270,7 @@ Formulations for hillslope erosion are mainly derived considering hillslope form
 where :math:`z` is elevation, :math:`\nabla \cdot` is the spatial divergence operator, :math:`\nabla z` is the topographic gradient (*i.e.*, the local slope), :math:`q_s` is the soil flux in the positive direction of :math:`\nabla z`, and :math:`\kappa` is the hillslope diffusivity.
 
 Modelling soil transport
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+********************************************************
 
 Although the linear dependence of soil transport on local slope has been widely assumed, only a few observations support this relationship. Morevover, it is well admitted that sediment transport on hillslopes result from a variety of processes, such as landsliding, rain-splash, depth-dependent creep, or overland flow. Other transport laws have therefore been proposed. These laws, still based on the process/form principle, state that transport rates depend non-linearly on local slope, on depth of soil movement and/or on drainage area or overland flow discharge. Some authors have proposed new parameterisation of soil transport which involves several processes, *i.e.*, in which soil transport on slopes results from the combination of multiple geomorphic transport laws.
 
@@ -297,7 +298,7 @@ where :math:`U` (m/yr) is a source term that can either represent the rate of in
    From CLICHE model (Bovy, 2012) snapshots of a specific simulation under Pleniglacial conditions (after 100 kyr of simulation, left hand-side) and present-day conditions (at the end of the simulation, right-hand side). A. Soil thickness. B. Local volumetric downhill soil flux (all processes). C-F. Contribution to the local downhill soil flux from transport by overland flow, simple creep, depth dependent creep and solifluction (unit-less). Note that the soil fluxes involved here are the averages over an entire elongated cycle in the simulation.
 
 Simple creep
-^^^^^^^^^^^^^^^^^^^^^^^^^
+********************************************************
 
 The parameterisation of soil transport used here includes the widely-used transport law which states that transport rate depends linearly on topographic gradient. This law—here termed as **simple creep** has in fact been used to represent a variety of transport processes such as creep or rain splash.
 
@@ -310,7 +311,7 @@ Note that because of the multi-process parameterisation of soil transport, the c
 
 
 Depth-dependent creep
-^^^^^^^^^^^^^^^^^^^^^^^^^
+********************************************************
 
 Beside linear creep, a few field observations but numerous laboratory and modelling studies have supported depth-dependent, viscous-like flow of soil. The general expression for depth-dependent creep is given by:
 
