@@ -12,6 +12,13 @@ Hillslope processes
 Hillslopes are an almost universal landform, occupying some 90% of the land surface. In hilly and mountainous regions, long-term downslope movement of soil on hillslopes can play a crucial role governing the rate at which landscape evolves through time. Although river incision is often considered to mainly drive landscape response to tectonic or climatic change, hillslope erosion processes produce and deliver sediments to channels, which are known to influence river incision rates either as tools for erosion or as a cover protecting the underlying bedrock from erosion. Considering weathering and hillslope transport processes is therefore vital to understand how landscape evolves in response to climatic variations.
 
 
+..  admonition:: Learning outcomes
+    :class: toggle
+
+    - Recognise the different processes triggering hillslope processes and their terminology;
+    - Understand the importance of weathering and its products on the evolution of hillslope environments;
+    - Explore the mathematical expressions of regolith formation and hillslope processes
+
 
 Hillslope environments
 ------------------------------
