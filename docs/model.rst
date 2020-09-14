@@ -2,13 +2,6 @@ Surface processes model
 ==========================================
 
 
-.. figure:: images/processes.png
-   :width: 100 %
-   :alt: processes
-   :align: center
-
-   Surface processes are acting everywhere we have relief, but more obviously in mountain regions. In response to tectonic uplift, rivers incise into bedrock and insure the progressive lowering of the base level for hillslope processes to take place. Rivers also transport the eroded materials to the sedimentary basin.
-
 The whole landscape evolution can basically be represented in a single equation:
 
 .. math::
@@ -17,6 +10,14 @@ The whole landscape evolution can basically be represented in a single equation:
 All landscape must obey this fundamental statement about sediment transport. In this equation :math:`\frac{\partial z}{\partial t}` is the change in surface elevation,  :math:`U` is the uplift rate, :math:`E` is the erosion rate and :math:` \nabla \cdot  q_s` is the sediment flux divergence.
 
 The erosion rate :math:`E` corresponds to sediment production from weathering and bedrock erosion by glacier, wind, water. The sediment fluxes is transported by hillslope and fluvial transport processes.
+
+.. figure:: images/processes.png
+   :width: 100 %
+   :alt: processes
+   :align: center
+
+   Surface processes are acting everywhere we have relief, but more obviously in mountain regions. In response to tectonic uplift, rivers incise into bedrock and insure the progressive lowering of the base level for hillslope processes to take place. Rivers also transport the eroded materials to the sedimentary basin.
+
 
 .. note::
   Many geomorphological applications have demonstrated the usefulness of these models, whose predictions help researchers test simple to complex hypotheses on the nature of landscape evolution. Surface processes models (SPMs) also provide connection between small scale, measurable processes and their long-term geomorphic implications.
@@ -39,8 +40,7 @@ During the last two decades, as computers continued to get faster, a number of s
 Continuity of mass
 *******************
 
-
-In the simplest case where there is no distinction between a regolith layer and the bedrock underneath, the mass continuity equations for a column of soil or rock is expressed as:
+In the case where there is no distinction between a regolith layer and the bedrock underneath, the mass continuity equations for a column of soil or rock is expressed as:
 
 .. math::
   \frac{\partial z}{\partial t} = U - \nabla \cdot q_s
@@ -50,12 +50,12 @@ where the elevation  :math:`z` (m) is measured vertically,  :math:`q_s` is the t
 Sediment transport
 ***************************
 
-To describe the rates of sediment erosion/transport/deposition, several approaches have been proposed. In its simplest formalism a detachment-limited equation is often used.
+To describe the rates of sediment erosion/transport/deposition, several approaches have been proposed. In its simplest formalism a **detachment-limited equation** is often used.
 
 Detachment-limited model
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The soil transport rate per unit width by flowing water, :math:`q_r`, is modelled as a power function of topographic gradient :math:`\nabla z` and surface water discharge per unit width :math:`q_w` (m2 /yr):
+The soil transport rate per unit width by flowing water, :math:`q_r`, is modelled as a power function of topographic gradient :math:`\nabla z` and surface water discharge per unit width :math:`q_w` (m2/yr):
 
 .. math::
   q_r = − \kappa_r q_w^m \nabla z^n
@@ -67,18 +67,10 @@ This detachment-limited incision rate, which is calculated as a power law functi
 
 This expression corresponds to a simplified form of the usual expression of sediment transport by water flow, in which the transport rate is assumed to be equal to the local carrying capacity, which is itself a function of boundary shear stress or stream power per unit width. We consider additionally no threshold for particle entrainment. Generally, the exponents m and n have values between 1 and 2.
 
-
-.. raw:: html
-
-    <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="100%" height="350" src="https://www.youtube.com/embed/TVRH4dJabO8?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-
-
 Hillslope processes
 ^^^^^^^^^^^^^^^^^^^
 
-In its most simple form, the parameterisation of hillslope transport is based on a linear dependence to the topographic gradient. This linear law has in fact been used to represent a variety of transport processes such as creep, biogenic activity or rain splash.
+In its most simple form, the parameterisation of hillslope transport is based on a **linear dependence to the topographic gradient**. This linear law has in fact been used to represent a variety of transport processes such as **creep**, **biogenic activity** or **rain splash**.
 
 Downslope simple creep is commonly regarded as operating in a shallow superficial layer and is defined as:
 
@@ -88,15 +80,23 @@ Downslope simple creep is commonly regarded as operating in a shallow superficia
 Note that because of the multi-process parameterisation of soil transport, the coefficient :math:`\kappa_d` is also scale-dependent, like the :math:`\kappa`-scale parameters of the other stream power law defined above.
 
 
+.. raw:: html
+
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" height="350" src="https://www.youtube.com/embed/TVRH4dJabO8?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+
 Incision laws overview
 ***************************
 
-Several formulations of river incision have been proposed to account for long term evolution of fluvial system. These formulations describe different erosional behaviours ranging from detachment-limited incision, governed by bed resistance to erosion, to transport-limited incision, governed by flow capacity to transport sediment available on the bed.
+.. important::
+  Several formulations of river incision have been proposed to account for long term evolution of fluvial system. These formulations describe different erosional behaviours ranging from **detachment-limited incision**, governed by bed resistance to erosion, to **transport-limited incision**, governed by flow capacity to transport sediment available on the bed.
 
-As we already discussed, mathematical representation of erosion processes in these formulations is often assumed to follow a stream power law. These relatively simple approaches have two main advantages. First, they have been shown to approximate the first order kinematics of landscape evolution across geologically relevant timescales (>104 years). Second, neither the details of long term catchment hydrology nor the complexity of sediment mobilisation dynamics are required. However, other formulations are sometimes necessary when addressing specific aspects of landscape evolution.
+As we already discussed, mathematical representation of erosion processes in these formulations is often assumed to follow a stream power law. These relatively simple approaches have two main advantages. First, they have been shown to approximate the first order kinematics of landscape evolution across geologically relevant timescales (> :math:`10^4` years). Second, neither the details of long term catchment hydrology nor the complexity of sediment mobilisation dynamics are required. However, other formulations are sometimes necessary when addressing specific aspects of landscape evolution.
 
 .. figure:: images/fig3.jpg
-   :scale: 12 %
+   :width: 90 %
    :alt: laws
    :align: center
 
@@ -142,9 +142,8 @@ with :math:`f(Q_s)` representing a variety of plausible models for the dependenc
 Addition of the transport-limited function results in the fact that, where sediment flux equals or exceeds transport capacity (:math:`Q_s/Q_t \ge 1`) the system becomes transport-limited and depositional if :math:`Qs/Qt > 1`. In this model the time-evolving distribution of erosion and sedimentation, is affected by the distribution of detachment-limited and transport-limited reaches, which is controlled by the respective values of :math:`\kappa_d` and :math:`\kappa_t`.
 
 
-
 .. figure:: images/toolcover.png
-   :scale: 50 %
+   :width: 100 %
    :alt: toolcover
    :align: center
 
@@ -161,9 +160,8 @@ The transition from one behaviour to the other can be treated either abruptly, p
 
 #. **Dynamic cover**: Typically gravel-river beds have an armoured layer of coarse grains on the surface, which acts to protect finer particles underneath from erosion. To account for sediment and spatial heterogeneity in the armouring of the river bed, Turowski et al. proposed a modified form of the ‘almost parabolic’ model that better estimates the original Sklar and Dietrich experiments (option 4).
 
-
 .. figure:: images/lowrelief.png
-   :scale: 80 %
+   :width: 100 %
    :alt: Preferential erosion
    :align: center
 
