@@ -95,7 +95,7 @@ Incision laws overview
 As we already discussed, mathematical representation of erosion processes in these formulations is often assumed to follow a stream power law. These relatively simple approaches have two main advantages. First, they have been shown to approximate the first order kinematics of landscape evolution across geologically relevant timescales (> :math:`10^4` years). Second, neither the details of long term catchment hydrology nor the complexity of sediment mobilisation dynamics are required. However, other formulations are sometimes necessary when addressing specific aspects of landscape evolution.
 
 .. figure:: images/fig3.jpg
-   :width: 90 %
+   :width: 70 %
    :alt: laws
    :align: center
 
@@ -142,7 +142,7 @@ Addition of the transport-limited function results in the fact that, where sedim
 
 
 .. figure:: images/toolcover.png
-   :width: 100 %
+   :width: 80 %
    :alt: toolcover
    :align: center
 
@@ -173,6 +173,8 @@ Step-by-step approach to landscape evolution model
 Step 1: Flow directions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+
+
 .. important::
   Landscape evolution applications generally require computing the **drainage network** of a terrain, consisting of the **flow direction** and **flow accumulation**. Intuitively, they are the path that water flows through the terrain and the amount of water that flows into each terrain cell supposing that each cell receives a rain drop
 
@@ -197,7 +199,8 @@ The flow direction can be modelled considering **single flow direction** (**SFD*
 Step 2: Pit filling
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-..important::
+
+.. important::
   The major challenge in the process is the flow routing in **local minimum** and **flat areas**. A local minimum is a cell with no downslope neighbour and a flat area is a set of adjacent cells with a same elevation.
 
 A neighbour cell of c is called a **downslope neighbour** if it has a strictly lower elevation than c. A cell in a flat area that has a downslope neighbour is called a **spill-point**. Also, a flat area can be classified as a plateau or a sink where the plateau has a spill point and a sink doesn’t. Intuitively, water will accumulate in a sink until it fills up and water flows out of it, while in the plateau the water should flow towards spill points.
@@ -228,4 +231,4 @@ After obtaining the flow direction, the next step consists in computing the **fl
 
 Once the flow accumulation has been computed for a particular topography, the erosion is then estimated using one of the incision laws defined in the previous section and requires at least the estimation of the slope based on the flow direction. The erosion values are finally used to change the topography elevations and the model moves forward in time.
 
-At the next iteration, steps 1 to 3 are applied on the new elevation grid allowing to simulation landscape changes over time.
+At the next iteration, steps 1 to 3 are applied on the new elevation grid allowing to simulation landscape evolution over time.
