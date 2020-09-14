@@ -231,4 +231,4 @@ After obtaining the flow direction, the next step consists in computing the **fl
 
 Once the flow accumulation has been computed for a particular topography, the erosion is then estimated using one of the incision laws defined in the previous section and requires at least the estimation of the slope based on the flow direction. The erosion values are finally used to change the topography elevations and the model moves forward in time.
 
-At the next iteration, steps 1 to 3 are applied on the new elevation grid allowing to simulation landscape evolution over time.
+At the next iteration, steps 1 to 3 are applied on the new elevation grid allowing to simulate landscape evolution over time.
