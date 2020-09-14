@@ -1,7 +1,6 @@
 Surface processes model
 ==========================================
 
-
 The whole landscape evolution can basically be represented in a single equation:
 
 .. math::
@@ -166,3 +165,69 @@ The transition from one behaviour to the other can be treated either abruptly, p
    :align: center
 
    Preferential erosion and low relief preservation.
+
+
+Step-by-step approach to landscape evolution model
+----------------------------------------------------
+
+Step 1: Flow directions
+***************************
+
+.. important::
+  Landscape evolution applications generally require computing the **drainage network** of a terrain, consisting of the **flow direction** and **flow accumulation**. Intuitively, they are the path that water flows through the terrain and the amount of water that flows into each terrain cell supposing that each cell receives a rain drop
+
+
+.. figure:: images/sfd.png
+   :width: 80 %
+   :alt: Flow directions
+   :align: center
+
+   Different approaches (SFD & MFD) to estimate flow directions.
+
+
+The drainage network of a terrain delineates the path that water flows through the terrain (the flow direction) and the amount of water that flows into each terrain cell (the flow accumulation). The flow direction problem is to assign flow directions to all cells in the terrain such that the following three conditions are fulfilled:
+
+1. Every cell has at least one flow direction;
+2. No cyclic flow paths exist; and
+3. Every cell in the terrain has a flow path to the edge of the terrain.
+
+The flow direction can be modelled considering **single flow direction** (**SFD**) or **multiple flow directions** (**MFD**). In SFD, each terrain cell is assigned a direction towards the **steepest downslope neighbour**, while in MFD, each cell has directions to **all downslope neighbours**. The use of SFD or MFD is essentially a modeling choice since the computational complexity of the flow routing problem is the same in both models.
+
+
+Step 2: Pit filling
+***************************
+
+..important::
+  The major challenge in the process is the flow routing in **local minimum** and **flat areas**. A local minimum is a cell with no downslope neighbour and a flat area is a set of adjacent cells with a same elevation.
+
+A neighbour cell of c is called a **downslope neighbour** if it has a strictly lower elevation than c. A cell in a flat area that has a downslope neighbour is called a **spill-point**. Also, a flat area can be classified as a plateau or a sink where the plateau has a spill point and a sink doesn’t. Intuitively, water will accumulate in a sink until it fills up and water flows out of it, while in the plateau the water should flow towards spill points.
+
+Usually, most drainage network computation methods use a **preprocessing step to remove the sinks and the flat areas**. Initially, the elevation of the cells belonging to a sink are increased to transform it into a plateau. Next, the flow directions on the plateau are assigned to ensure that there is a path from each cell to the nearest spill point.
+
+
+..  admonition:: Pit-filling exercise
+  :class: toggle, important
+
+
+  .. figure:: images/pit.png
+     :width: 70 %
+     :alt: Pit-filling exercise
+     :align: center
+
+     Digital elevation grid showing each cell elevation.
+
+  Starting from the **source** cell and considering a single flow direction (SFD) approach answer these questions:
+
+  1. There is a pit in this DEM, identify it, which value is required to fill it and allow the flow to keep moving downslope?
+  2. Where is the water from the source entering the lake?
+
+
+
+Step 3: Flow accumulation and erosion
+******************************************************
+
+After obtaining the flow direction, the next step consists in computing the **flow accumulation** in each terrain cell, that is, the amount of water flowing to each cell supposing that all cells receive a drop of water and this water follows the direction obtained in the previous step.
+
+Once the flow accumulation has been computed for a particular topography, the erosion is then estimated using one of the incision laws defined in the previous section and requires at least the estimation of the slope based on the flow direction. The erosion values are finally used to change the topography elevations and the model moves forward in time.
+
+At the next iteration, steps 1 to 3 are applied on the new elevation grid allowing to simulation landscape changes over time.
