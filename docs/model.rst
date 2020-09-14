@@ -6,12 +6,12 @@ The whole landscape evolution can basically be represented in a single equation:
 .. math::
   \frac{\partial z}{\partial t} = U - E - \nabla \cdot q_s
 
-All landscape must obey this fundamental statement about sediment transport. In this equation :math:`\frac{\partial z}{\partial t}` is the change in surface elevation,  :math:`U` is the uplift rate, :math:`E` is the erosion rate and :math:` \nabla \cdot  q_s` is the sediment flux divergence.
+All landscape must obey this fundamental statement about sediment transport. In this equation :math:`\frac{\partial z}{\partial t}` is the change in surface elevation,  :math:`U` is the uplift rate, :math:`E` is the erosion rate and :math:`\nabla \cdot  q_s` is the sediment flux divergence.
 
 The erosion rate :math:`E` corresponds to sediment production from weathering and bedrock erosion by glacier, wind, water. The sediment fluxes is transported by hillslope and fluvial transport processes.
 
 .. figure:: images/processes.png
-   :width: 100 %
+   :width: 90 %
    :alt: processes
    :align: center
 
