@@ -168,10 +168,10 @@ The transition from one behaviour to the other can be treated either abruptly, p
 
 
 Step-by-step approach to landscape evolution model
-----------------------------------------------------
+*********************************************************
 
 Step 1: Flow directions
-***************************
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. important::
   Landscape evolution applications generally require computing the **drainage network** of a terrain, consisting of the **flow direction** and **flow accumulation**. Intuitively, they are the path that water flows through the terrain and the amount of water that flows into each terrain cell supposing that each cell receives a rain drop
@@ -195,7 +195,7 @@ The flow direction can be modelled considering **single flow direction** (**SFD*
 
 
 Step 2: Pit filling
-***************************
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 ..important::
   The major challenge in the process is the flow routing in **local minimum** and **flat areas**. A local minimum is a cell with no downslope neighbour and a flat area is a set of adjacent cells with a same elevation.
@@ -208,9 +208,8 @@ Usually, most drainage network computation methods use a **preprocessing step to
 ..  admonition:: Pit-filling exercise
   :class: toggle, important
 
-
   .. figure:: images/pit.png
-     :width: 70 %
+     :width: 50 %
      :alt: Pit-filling exercise
      :align: center
 
@@ -222,9 +221,8 @@ Usually, most drainage network computation methods use a **preprocessing step to
   2. Where is the water from the source entering the lake?
 
 
-
 Step 3: Flow accumulation and erosion
-******************************************************
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 After obtaining the flow direction, the next step consists in computing the **flow accumulation** in each terrain cell, that is, the amount of water flowing to each cell supposing that all cells receive a drop of water and this water follows the direction obtained in the previous step.
 
