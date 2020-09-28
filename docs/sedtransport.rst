@@ -175,7 +175,7 @@ The dimensionless shear stress in the Shields diagram is commonly termed the Shi
 .. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="80%" height="300" src="https://www.youtube.com/embed/mF-EyyEbw8M?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="80%" height="300" src="https://www.youtube.com/embed/HW6FBj17vlk?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
 Another more simple way of looking at sediment entrainment and transport consists in looking at the Hjulstrom diagram. Hjulstrom diagram shows grain entrainment on a plot of log grain size versus log flow speed which is much easier to comprehend.
