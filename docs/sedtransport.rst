@@ -172,11 +172,6 @@ The dimensionless shear stress in the Shields diagram is commonly termed the Shi
 3. The Shields parameter for gravel is constant at 0.06, implying that Shields stress here becomes a simple function of grain size. This is a quite remarkable finding and allows us, as we will see below, to derive a simple relationship between the size of gravel and the shear stress required to move it.
 4. The Shields parameter applies well to natural gravel-bed rivers.
 
-.. raw:: html
-
-    <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="80%" height="300" src="https://www.youtube.com/embed/HW6FBj17vlk?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
 
 Another more simple way of looking at sediment entrainment and transport consists in looking at the Hjulstrom diagram. Hjulstrom diagram shows grain entrainment on a plot of log grain size versus log flow speed which is much easier to comprehend.
 
@@ -189,6 +184,13 @@ Another more simple way of looking at sediment entrainment and transport consist
 
 The plot shows the areas where grains of different sizes are left on the bed, where they get moved sometimes, and where they get lifted up often and eroded away. Note that larger grains require higher flows - in general. The water speed that is required to transport a grain is call the critical velocity.
 
+.. raw:: html
+
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="80%" height="300" src="https://www.youtube.com/embed/HW6FBj17vlk?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    
+    
 ..  admonition:: Some interesting trends from Hjulstrom diagram
     :class: toggle, important
 
@@ -321,3 +323,9 @@ The **Lane diagram** is often used to illustrate the relationships between the *
 The Lane relationship shows that if the river system is precisely balanced (in steady-state), the slightest change in any factor will tip the scales one way or another. Also, if the scale is way overbalanced on the aggradation or degradation side, it may take a lot of change to level it out or tip it back the other way. Note that many rivers are undergoing net aggradation or degradation, while steady-state is relatively rare in nature.
 
 The Lane relationship means that a change in either sediment size, sediment quantity, discharge, or slope will result in a change in at least one of the other variables, and that aggradation and degradation depend on the proportionality of sediment supply and transport capacity.
+
+.. raw:: html
+
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="80%" height="300" src="https://www.youtube.com/embed/yyvT0wOuS2c?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
