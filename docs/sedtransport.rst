@@ -172,6 +172,11 @@ The dimensionless shear stress in the Shields diagram is commonly termed the Shi
 3. The Shields parameter for gravel is constant at 0.06, implying that Shields stress here becomes a simple function of grain size. This is a quite remarkable finding and allows us, as we will see below, to derive a simple relationship between the size of gravel and the shear stress required to move it.
 4. The Shields parameter applies well to natural gravel-bed rivers.
 
+.. raw:: html
+
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="80%" height="300" src="https://www.youtube.com/embed/mF-EyyEbw8M?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 
 Another more simple way of looking at sediment entrainment and transport consists in looking at the Hjulstrom diagram. Hjulstrom diagram shows grain entrainment on a plot of log grain size versus log flow speed which is much easier to comprehend.
 
