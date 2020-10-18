@@ -65,10 +65,10 @@ As shown in the figure above, **there is no increase in order when a segment of 
 
 
 ..  admonition:: Bifurcation ratio...
-    :class: toggle, toggle-shown
+    :class: toggle
 
     .. figure:: images/br_ratio.png
-       :width: 60 %
+       :width: 40 %
        :alt: patterns
        :align: center
 
@@ -81,7 +81,7 @@ As shown in the figure above, **there is no increase in order when a segment of 
 
     where :math:`N_n` is the number of segments of order *n*, :math:`N_{n+1}` is the number of segments order *n+1*. High drainage densities have a high bifurcation ratio.
 
-    **In the example above computes the average bifurcation ratio**.
+    **In the example above compute the average bifurcation ratio**.
 
 
 
