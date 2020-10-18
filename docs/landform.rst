@@ -65,7 +65,7 @@ As shown in the figure above, **there is no increase in order when a segment of 
 
 
 ..  admonition:: Bifurcation ratio...
-    :class: toggle
+    :class: toggle, important
 
     .. figure:: images/br_ratio.png
        :width: 40 %
