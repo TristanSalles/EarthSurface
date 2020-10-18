@@ -64,6 +64,27 @@ As shown in the figure above, **there is no increase in order when a segment of 
   Strahler’s stream order has been applied to many river systems and it has been proved statistically to be related to a number of drainage basin morphometry elements. Each higher order of stream is formed from the confluence of two lower order streams, and the watersheds of lower-order streams are included within the watersheds of higher order streams. **Orders 10–12 correspond to the main channels of large world rivers**. In general, individual streams get wider and longer with increasing stream order.
 
 
+..  admonition:: Bifurcation ratio...
+    :class: toggle, toggle-shown
+
+    .. figure:: images/br_ratio.png
+       :width: 60 %
+       :alt: patterns
+       :align: center
+
+       Strahler (1952) River System.
+
+    The **bifurcation ratio** describes the degree of dissection of the drainage basin, it generally ranges between 2 and 5. It takes the form:
+
+    .. math::
+      Br_n = \frac{N_n}{N_{n+1}}
+
+    where :math:`N_n` is the number of segments of order *n*, :math:`N_{n+1}` is the number of segments order *n+1*. High drainage densities have a high bifurcation ratio.
+
+    **In the example above computes the average bifurcation ratio**.
+
+
+
 Drainage basin patterns
 ********************************
 
